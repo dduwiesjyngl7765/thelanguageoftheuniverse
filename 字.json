@@ -85,6 +85,32 @@
             },
             "component": []
         }, {
+            "char": "𢵶",
+            "unicode": "22D76",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["dọn"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["dọn dẹp, dọn cơm, dọn phòng, dọn phòng 𢵶 là thứ cần thiết cho quá trình giả kim 金 thuật, dọn phòng còn là dọn sự nhụt 鈍 chí 志"]
+            },
+            "component": []
+        }, {
+            "char": "鈍",
+            "unicode": "920D",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["độn","nhụt"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["độn: (cùn, nhụt, không sắt)","nhụt: nhụt chí"]
+            },
+            "component": []
+        }, {
             "char": "束",
             "unicode": "675F",
             "synonym": [],
@@ -1887,12 +1913,12 @@
             "antonym": [],
             "reading": {
                 "vi": [
-                    "hòa", "họa", "hồ", "huề", "và"
+                    "hòa", "họa", "hồ", "huề"
                 ],
                 "yue": []
             },
             "meaning": {
-                "vi": ["hòa: hòa bình, hòa hợp, hòa thuận, hòa theo (thơ, nhạc)", "họa: phụ họa, xướng họa, họa vận, họa theo", "hồ: ù, tới (từ dùng trong cuộc đánh bài giấy hay mà chược)", "huề: huề vốn, huề tiền, huề lời, huề vốn lỗ", "và: em và tôi, chị và em"]
+                "vi": ["hòa: hòa bình, hòa hợp, hòa thuận, hòa theo (thơ, nhạc)", "họa: phụ họa, xướng họa, họa vận, họa theo", "hồ: ù, tới (từ dùng trong cuộc đánh bài giấy hay mà chược)", "huề: huề vốn, huề tiền, huề lời, huề vốn lỗ"]
             },
             "component": []
         }, {
@@ -15798,6 +15824,19 @@
             },
             "component": []
         }, {
+            "char": "與",
+            "unicode": "8207",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["dữ"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(cho; đi lại chơi bời, thân thiện; khen thưởng, tán thưởng; phe đảng, bè lũ; nếu như, ví thử; và, với, cùng)"]
+            },
+            "component": []
+        }, {
             "char": "㽳",
             "unicode": "3F73",
             "synonym": [],
@@ -17907,7 +17946,7 @@
                 "yue": []
             },
             "meaning": {
-                "vi": ["đầy đủ"]
+                "vi": ["đầy đủ, đủ thứ, đủ mọi nơi, đủ mọi người"]
             },
             "component": []
         }, {
@@ -22134,29 +22173,16 @@
             },
             "component": []
         }, {
-            "char": "𡨸",
-            "unicode": "21A38",
-            "synonym": ["5B57"],
-            "antonym": [],
-            "reading": {
-                "vi": ["chữ"],
-                "yue": []
-            },
-            "meaning": {
-                "vi": ["chữ viết, đọc chữ, viết chữ, chữ Hán, chữ Hàn, chữ Nôm"]
-            },
-            "component": []
-        }, {
             "char": "字",
             "unicode": "5B57",
             "synonym": ["21A38"],
             "antonym": [],
             "reading": {
-                "vi": ["tự"],
+                "vi": ["tự","chữ"],
                 "yue": []
             },
             "meaning": {
-                "vi": ["văn tự, Hán tự, Hàn tự"]
+                "vi": ["tự: văn tự, Hán tự, Hàn tự","chữ: chữ viết, chữ của vũ trụ"]
             },
             "component": []
         }, {
@@ -33118,6 +33144,32 @@
             },
             "meaning": {
                 "vi": ["(bộ vũ), (lông chim; cánh; mũi tên; loài chim nói chung; bạn bè, đồng đảng), họ Vũ, vũ phiến (quạt làm bằng lông chim), lông vũ, vũ y (áo làm bằng lông chim)"]
+            },
+            "component": []
+        }, {
+            "char": "宇",
+            "unicode": "5B87",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["vũ"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(mái hiên, mái nhà; nhà cửa chỗ ở; bốn phương trên dưới, chỉ chung không gian; không cách, khí độ, dáng vẻ; mở rộng, khoách đại; che chở, bao trùm), cố vũ, đỗ vũ, đống vũ, vũ trụ (mái nhà và cột trụ - chỉ không thì gian; trời đất, thiên hạ), hoàn vũ"]
+            },
+            "component": []
+        }, {
+            "char": "宙",
+            "unicode": "5B99",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["trụ"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(từ xưa tới nay; thời gian vô hạn từ xauw tới nay; bầu trời, thiên không), vũ trụ (suốt gầm trời; vũ là nói về khoảng hư không, trụ là nói về khoảng thì giờ)"]
             },
             "component": []
         }, {
@@ -47924,6 +47976,21 @@
             },
             "component": []
         }, {
+            "char": "萬",
+            "unicode": "842C",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "vạn","man"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["vạn: vạn an, vạn bang, vạn bảo, vạn đại, vạn hạnh, vạn phúc, vạn phương, vạn sự, vạn thọ, vạn toàn, vạn tội, vạn vũ, vạn trượng cao lâu bình địa khởi","man: một man Nhựt Bổn"]
+            },
+            "component": []
+        }, {
             "char": "判",
             "unicode": "5224",
             "synonym": [],
@@ -47965,7 +48032,7 @@
                 "yue": []
             },
             "meaning": {
-                "vi": ["lại đây, đây là, bên đây", "đê đầu tư cố hương, bê đê"]
+                "vi": ["con voi này đây, lại đây, đây là, bên đây", "đê đầu tư cố hương, bê đê"]
             },
             "component": []
         }, {
@@ -49729,6 +49796,51 @@
             },
             "component": []
         }, {
+            "char": "內",
+            "unicode": "5167",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "nội"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["cảnh nội, nội bộ, nội các, nội chiến, nội dung, nội đình, nội gián, nội giáo, nội loạn, nội mạc, nội năng, nội phụ, nội quan, nội thuộc"]
+            },
+            "component": []
+        }, {
+            "char": "內",
+            "unicode": "5167",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "nội"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["cảnh nội, nội bộ, nội các, nội chiến, nội dung, nội đình, nội gián, nội giáo, nội loạn, nội mạc, nội năng, nội phụ, nội quan, nội thuộc"]
+            },
+            "component": []
+        }, {
+            "char": "納",
+            "unicode": "7D0D",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "nạp","nộp"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["nạp: xuất nạp, nạp vào, dung nạp, giao nạp","nộp: xuất nộp, giao nộp, nộp vô"]
+            },
+            "component": []
+        }, {
             "char": "消",
             "unicode": "6D88",
             "synonym": [],
@@ -51408,7 +51520,7 @@
                 "yue": []
             },
             "meaning": {
-                "vi": ["quành đầu, quành lại", "chung quanh, xung quanh, quay quanh, quanh quẩn, quanh vu (quanh co, khúc khuỷu), quanh co", "(quay quanh, vòng quanh), (quấn quanh), phanh oanh/quanh (vòng trong, quay vòng), oanh hu (quanh co, khúc khuỷu)"]
+                "vi": ["quành: quành đầu, quành lại", "quanh: chung quanh, xung quanh, quay quanh, quanh quẩn, quanh vu (quanh co, khúc khuỷu), quanh co", "oanh: (quay quanh, vòng quanh), (quấn quanh), phanh oanh/quanh (vòng trong, quay vòng), oanh hu (quanh co, khúc khuỷu)"]
             },
             "component": []
         }, {
