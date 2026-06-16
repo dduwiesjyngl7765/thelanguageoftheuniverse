@@ -1,0 +1,118 @@
+[
+    {
+        "word": "𡮠𠋺",
+        "hannomcode": 1,
+        "reading_meaning": {
+            "reading": [
+                "mày tao", "mầy tao"
+            ],
+            "meaning": "Tiếng xưng hô của bạn bè thân thiết; tiếng xưng hô với kẻ đáng ghét"
+        }
+    }, {
+        "word": "𠋺𡮠",
+        "hannomcode": 1,
+        "reading_meaning": {
+            "reading": [
+                "tao mày", "tao mầy"
+            ],
+            "meaning": "Tiếng xưng hô của bạn bè thân thiết; tiếng xưng hô với kẻ đáng ghét"
+        }
+    }, {
+        "word": "𡮔𡮔",
+        "hannomcode": 2,
+        "reading_meaning": {
+            "reading": ["mảy may"],
+            "meaning": "Phần, lượng rất nhỏ, hoàn toàn không đáng kể"
+        }
+    }, {
+        "word": "碣媄𠋺",
+        "hannomcode": 3,
+        "reading_meaning": {
+            "reading": [
+                "kệ mẹ tao", "kệ me tao"
+            ],
+            "meaning": "Coi như không có, không cần để ý đến"
+        }
+    }, {
+        "word": "自在",
+        "hannomcode": 4,
+        "reading_meaning": {
+            "reading": "tự tại",
+            "meaning": "Tự tại, tự do, thoải mái; Đã có sẵn ở một nơi nào. Hát nói của Nguyễn Công Trứ: » Núi tự tại sao sông bất xả « — Lòng dạ thoả thích, thảnh thơi."
+        }
+    }, {
+        "word": "自在之山",
+        "hannomcode": 5,
+        "reading_meaning": {
+            "reading": [
+                "tự tại chi sơn", "tự tại chi san"
+            ],
+            "meaning": "Ngọn núi tự tại"
+        }
+    }, {
+        "word": "𡥵㹥",
+        "hannomcode": 6,
+        "reading_meaning": {
+            "reading": ["con chó"],
+            "meaning": "Canis lupus familiaris hoặc Canis familiaris; Con cún"
+        }
+    }, {
+        "word": "𡥵𤠚",
+        "hannomcode": 7,
+        "reading_meaning": {
+            "reading": ["con chó"],
+            "meaning": "Canis lupus familiaris hoặc Canis familiaris; Con cún"
+        }
+    }, {
+        "word": "𡥵𤠚𤯰",
+        "hannomcode": 8,
+        "reading_meaning": {
+            "reading": ["con chó đẻ"],
+            "meaning": "Đồ thấy ghét, đồ khó ưa"
+        }
+    }, {
+        "word": "𡥵㹥𤯰",
+        "hannomcode": 9,
+        "reading_meaning": {
+            "reading": ["con chó đẻ"],
+            "meaning": "Đồ thấy ghét, đồ khó ưa"
+        }
+    }, {
+        "word": "茶眉",
+        "hannomcode": 10,
+        "reading_meaning": {
+            "reading": [
+                "trà mi", "trà my"
+            ],
+            "meaning": "Tên một thứ cây nhỏ có hoa đẹp, sắc trắng hoặc đỏ. Đoạn trường tân thanh : » Tiếc thay một đoá trà mi « — Cũng đọc Đồ mi. Cung oán ngâm khúc : » Bóng dương lồng bóng đồ mi chập chùng «."
+        }
+    }, {
+        "word": "丰采",
+        "hannomcode": 11,
+        "reading_meaning": {
+            "reading": ["phong thần"],
+            "meaning": "Vẻ đẹp"
+        }
+    }, {
+        "word": "冥會",
+        "hannomcode": 12,
+        "reading_meaning": {
+            "reading": ["minh hội"],
+            "meaning": "Hiểu ra điều gì đó một cách âm thầm lặng lẽ"
+        }
+    }, {
+        "word": "茫茫",
+        "hannomcode": 13,
+        "reading_meaning": {
+            "reading": ["mang máng"],
+            "meaning": "Nhớ cái gì đó nhưng không rõ ràng lắm"
+        }
+    }, {
+        "word": "斒斕",
+        "hannomcode": 14,
+        "reading_meaning": {
+            "reading": ["ban lan","ban liên","ban lân"],
+            "meaning": "Loang lổ, mầu sắc không đồng đều"
+        }
+    }
+]
