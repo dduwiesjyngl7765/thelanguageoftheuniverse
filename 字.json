@@ -10906,6 +10906,19 @@
             },
             "component": []
         }, {
+            "char": "寓",
+            "unicode": "5BD3",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["ngụ"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(nhờ cậy; nói bóng gió; nơi ở, chỗ ở; gởi gắm, kí thác), ngụ mục (xem qua), cư ngụ, trú ngụ, lưu ngụ, ngụ cư, ngụ mộc, ngụ ngôn, ngụ tình"]
+            },
+            "component": []
+        }, {
             "char": "𤉘",
             "unicode": "24258",
             "synonym": [],
@@ -13143,19 +13156,6 @@
         }, {
             "char": "𬛩",
             "unicode": "2C6E9",
-            "synonym": [],
-            "antonym": [],
-            "reading": {
-                "vi": ["nằm"],
-                "yue": []
-            },
-            "meaning": {
-                "vi": ["nằm xuống, nằm ở một góc, nằm gai nếm mật"]
-            },
-            "component": []
-        }, {
-            "char": "𦣰",
-            "unicode": "268F0",
             "synonym": [],
             "antonym": [],
             "reading": {
@@ -17937,6 +17937,19 @@
             },
             "component": []
         }, {
+            "char": "𢤽",
+            "unicode": "2293D",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["hứng"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["hứng chí, hứng chịu, hứng gió, hứng tình, hứng mọi thứ mà thế giới này cho mình"]
+            },
+            "component": []
+        }, {
             "char": "𨁥",
             "unicode": "28065",
             "synonym": [],
@@ -20334,6 +20347,21 @@
             },
             "meaning": {
                 "vi": ["cuốc: cuốc gia, phục cuốc, cuốc kì", "quốc: quốc gia, phục quốc, quốc kì", "quấc: quấc gia, phục quấc, quấc kì"]
+            },
+            "component": []
+        }, {
+            "char": "㕸",
+            "unicode": "3578",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "lặp"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["lặp lại, lặp đi lặp lại"]
             },
             "component": []
         }, {
@@ -31763,6 +31791,19 @@
             },
             "meaning": {
                 "vi": ["thôi miên, triền miên, ngủ triền miên, (ngủ)"]
+            },
+            "component": []
+        }, {
+            "char": "棉",
+            "unicode": "68C9",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["miên"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["cao miên, hoa mộc miên"]
             },
             "component": []
         }, {
@@ -50586,6 +50627,51 @@
             },
             "meaning": {
                 "vi": ["mãnh mã (voi ma mút)", "mạnh mẽ, khoe mẽ"]
+            },
+            "component": []
+        }, {
+            "char": "寤",
+            "unicode": "5BE4",
+            "synonym": ["609F"],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "ngộ","ngụ"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["ngộ: (thức dậy, thức và ngủ)","ngụ: (thức dậy, ngủ dậy; tỉnh ngộ, giác ngộ)"]
+            },
+            "component": []
+        }, {
+            "char": "悟",
+            "unicode": "609F",
+            "synonym": ["5BE4"],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "ngộ"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["*tôi hơi ghét chữ ni: ngộ: (hiểu; hiểu ra, vỡ lẽ; khai mở tâm thức, làm cho không mê muội nữa, làm cho tỉnh), họ Ngộ"]
+            },
+            "component": []
+        }, {
+            "char": "滿",
+            "unicode": "6EFF",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "mãn"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(đầy; đạt tới hạn độ; tự đắc, kiêu căng; sung túc, hoàn hảo; rất, hoàn toàn), Mãn châu tộc, nhật mãn địa, bạch nhật thanh thiên mãn địa hồng, viên mãn"]
             },
             "component": []
         }, {
