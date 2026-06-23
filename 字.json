@@ -8828,6 +8828,45 @@
             },
             "component": []
         }, {
+            "char": "𨅄",
+            "unicode": "28144",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["nhón"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["nhón chân lên, nhón gót"]
+            },
+            "component": []
+        }, {
+            "char": "𣛠",
+            "unicode": "236E0",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["máy"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["máy bay, nhà máy"]
+            },
+            "component": []
+        }, {
+            "char": "𢵯",
+            "unicode": "22D6F",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["máy"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["móc máy, táy máy"]
+            },
+            "component": []
+        }, {
             "char": "𢟟",
             "unicode": "227DF",
             "synonym": [],
@@ -10811,7 +10850,33 @@
                 "yue": []
             },
             "meaning": {
-                "vi": ["biển cả, bờ biển"]
+                "vi": ["biển cả, bờ biển, 𤅶 biển thì 變 biến chuyển không ngừng"]
+            },
+            "component": []
+        }, {
+            "char": "𡖡",
+            "unicode": "215A1",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["nhóm"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["nhóm người, nhóm thích khách"]
+            },
+            "component": []
+        }, {
+            "char": "𤇲",
+            "unicode": "241F2",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["nhóm"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["nhóm lửa"]
             },
             "component": []
         }, {
@@ -20206,6 +20271,21 @@
             },
             "component": []
         }, {
+            "char": "㺧",
+            "unicode": "3EA7",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "heo"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["con heo, cá heo, mập như heo"]
+            },
+            "component": []
+        }, {
             "char": "囗",
             "unicode": "56D7",
             "synonym": ["570D"],
@@ -27946,19 +28026,6 @@
             },
             "meaning": {
                 "vi": ["cái ghế, bàn ghế, ghế nhựa, ghế gỗ, ghế nghị viện, ghế ngồi, ghế chánh phủ, ghế tựa, ghế nằm"]
-            },
-            "component": []
-        }, {
-            "char": "杀",
-            "unicode": "6740",
-            "synonym": ["6BBA"],
-            "antonym": [],
-            "reading": {
-                "vi": ["sát"],
-                "yue": []
-            },
-            "meaning": {
-                "vi": ["sát hại, sát nhơn, sát khí, sát giới, sát lược (giết người cướp của)"]
             },
             "component": []
         }, {
@@ -40483,6 +40550,19 @@
             },
             "component": []
         }, {
+            "char": "㨂",
+            "unicode": "3A02",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["đóng"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["đóng bao, đóng băng, đóng vai"]
+            },
+            "component": []
+        }, {
             "char": "𥱬",
             "unicode": "25C6C",
             "synonym": [],
@@ -50793,6 +50873,21 @@
             },
             "component": []
         }, {
+            "char": "炷",
+            "unicode": "70B7",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "chú"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["信長 muốn cám ơn người chú đáng quý 平手政秀"]
+            },
+            "component": []
+        }, {
             "char": "疊",
             "unicode": "758A",
             "synonym": [],
@@ -54792,7 +54887,7 @@
             "synonym": [],
             "antonym": [],
             "reading": {
-                "vi": ["quý"],
+                "vi": ["quý","quí"],
                 "yue": []
             },
             "meaning": {
