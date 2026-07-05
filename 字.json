@@ -30424,8 +30424,8 @@
       "component": []
     },
     {
-      "char": "𤻻",
-      "unicode": "24EFB",
+      "char": "攰",
+      "unicode": "6530",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -55022,6 +55022,24 @@
       "component": []
     },
     {
+      "char": "䤠",
+      "unicode": "4920",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chĩa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chĩa súng, cái chĩa, chĩa ra, chôm chĩa"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "匙",
       "unicode": "20C33",
       "synonym": [],
@@ -64612,6 +64630,24 @@
         "vi": [
           "mơi sau, ngày mơi",
           "mai sau, ngày mai"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𫬱",
+      "unicode": "2BB31",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "mời"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "mời chào, kính mời, mời ăn, mời uống, mời ngồi"
         ]
       },
       "component": []
@@ -77639,7 +77675,8 @@
       "meaning": {
         "vi": [
           "khoảng: khoảng thì gian, vào khoảng mấy giờ",
-          "quãng: quãng: quãng thì gian"
+          "quãng: quãng: quãng thì gian",
+          "khoáng: (rộng lớn; thảnh thơi), khoáng đãng, khoáng đạt, khoáng địa, khoáng hậu, khoáng viễn, sơ khoáng, phóng khoáng"
         ]
       },
       "component": []
