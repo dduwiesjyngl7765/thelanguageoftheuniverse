@@ -2194,6 +2194,21 @@
             },
             "component": []
         }, {
+            "char": "改",
+            "unicode": "6539",
+            "synonym": [""],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "cải"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["cải biên, cải chính, hoán cải"]
+            },
+            "component": []
+        }, {
             "char": "尸",
             "unicode": "5C38",
             "synonym": ["5C4D"],
@@ -5124,6 +5139,19 @@
             },
             "component": []
         }, {
+            "char": "童",
+            "unicode": "7AE5",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["đồng"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(trẻ con; còn nhỏ tuổi; trơ, trụi, hói; chưa kết hôn), nhi đồng, lên đồng, đồng vũ"]
+            },
+            "component": []
+        }, {
             "char": "𠀧",
             "unicode": "20027",
             "synonym": [],
@@ -6770,6 +6798,21 @@
             },
             "meaning": {
                 "vi": ["rầm: rầm rĩ, rầm rầm, đi rầm rập, rầm rì, rì rầm", "rân: dạ rân (dạ thưa tiếng lớn ầm ĩ)", "rần: rần rần"]
+            },
+            "component": []
+        }, {
+            "char": "𩅺",
+            "unicode": "2917A",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": [
+                    "râu"
+                ],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["râu ria, râu xồm"]
             },
             "component": []
         }, {
@@ -19768,7 +19811,20 @@
                 "yue": []
             },
             "meaning": {
-                "vi": ["hoa mẫu đơn (có 2 nghĩa)"]
+                "vi": ["hoa mẫu đơn (có 2 nghĩa), mẫu tượng, (mẹ)"]
+            },
+            "component": []
+        }, {
+            "char": "亩",
+            "unicode": "4EA9",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["mẫu"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["mẫu đất, mẫu ruộng"]
             },
             "component": []
         }, {
@@ -27317,6 +27373,32 @@
             },
             "component": []
         }, {
+            "char": "混",
+            "unicode": "6DF7",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["hỗn"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["hỗn độn, hỗn tạp"]
+            },
+            "component": []
+        }, {
+            "char": "溷",
+            "unicode": "6EB7",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["hỗn"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["hỗn láo, hỗn xược"]
+            },
+            "component": []
+        }, {
             "char": "星",
             "unicode": "661F",
             "synonym": [],
@@ -28197,6 +28279,19 @@
             },
             "meaning": {
                 "vi": ["cây cam, trái cam"]
+            },
+            "component": []
+        }, {
+            "char": "肣",
+            "unicode": "80A3",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["cằm"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["cái cằm, lấy râu ông nọ cắm cằm bà kia"]
             },
             "component": []
         }, {
@@ -29142,6 +29237,19 @@
             },
             "component": []
         }, {
+            "char": "該",
+            "unicode": "8A72",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["cai"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["(khắp, hết, tất cả; bao trùm, gồm đủ; ấy, đó), cai quản, cai thiệm, cai tổng, cai trị, hoạt cai, yêm cai"]
+            },
+            "component": []
+        }, {
             "char": "欠",
             "unicode": "6B20",
             "synonym": [],
@@ -29165,6 +29273,19 @@
             },
             "meaning": {
                 "vi": ["thứ nhứt, con thứ, thứ đồ"]
+            },
+            "component": []
+        }, {
+            "char": "拳",
+            "unicode": "62F3",
+            "synonym": [],
+            "antonym": [],
+            "reading": {
+                "vi": ["quyền"],
+                "yue": []
+            },
+            "meaning": {
+                "vi": ["quyền chưởng, quyền cước, ác quyền, thái cực quyền"]
             },
             "component": []
         }, {
