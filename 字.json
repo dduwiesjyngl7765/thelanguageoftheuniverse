@@ -20012,24 +20012,6 @@
       "component": []
     },
     {
-      "char": "𨐸",
-      "unicode": "28438",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "đắng"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "vị đắng, đắng cay, mướp đắng, đăng đắng"
-        ]
-      },
-      "component": []
-    },
-    {
       "char": "𩿠",
       "unicode": "29FE0",
       "synonym": [],
@@ -59898,13 +59880,31 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "lời"
+          "lời","lì"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "lời lãi"
+          "lời: ăn lời, lời lãi","lì: lì xì"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "是",
+      "unicode": "662F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thị","xì"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "thị: (là; đúng), bổn thị, dã thị, tựu thị, thị phi (đúng sai)","xì: lì xì"
         ]
       },
       "component": []
