@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-base_path = Path(r'a:\1 testing zone')
+base_path = Path(r'a:\3 Dictionary')
 json_path = base_path / '字.json'
 report_path = base_path / 'duplicate_chars_report.md'
 
