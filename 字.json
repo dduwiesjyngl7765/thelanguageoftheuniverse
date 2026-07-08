@@ -12002,7 +12002,7 @@
       },
       "meaning": {
         "vi": [
-          "non nước"
+          "non nước, non xanh nước biếc, núi non"
         ]
       },
       "component": []
@@ -46031,6 +46031,24 @@
       "meaning": {
         "vi": [
           "duyên số, duyên kiếp, duyên tình"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "碧",
+      "unicode": "78A7",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bích","biếc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bích: (mầu xanh biếc, mầu xanh; ngọc bích), ngọc bích","biếc: non xanh nước biếc, (màu xanh)"
         ]
       },
       "component": []
