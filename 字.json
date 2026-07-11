@@ -53770,6 +53770,24 @@
       "component": []
     },
     {
+      "char": "裂",
+      "unicode": "88C2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "liệt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(xé ra; rách; vải lụa cắt còn dư; phân tán, li tán; chia ra), băng liệt, cát liệt, diệt liệt, hoàn liệt, hủy liệt, ngõa liệt, phá liệt, phân liệt, quyết liệt, tê liệt, bị liệt, liệt chân, liệt tay"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "頁",
       "unicode": "9801",
       "synonym": [],
