@@ -2200,7 +2200,7 @@
       },
       "meaning": {
         "vi": [
-          "nhục: (bộ nhục) cốt nhục, nhục viên (thịt viên), cơ nhục (bắp thịt, cơ bắp)",
+          "(bộ nhục) cốt nhục, nhục viên (thịt viên), cơ nhục (bắp thịt, cơ bắp)",
           "nhụ: (béo tốt, núng nính những thịt)",
           "nậu: (cũng như nhục với nhụ)"
         ]
@@ -2389,6 +2389,25 @@
       "meaning": {
         "vi": [
           "vấn đề, bàn vấn, cố vấn, đáp vấn, học vấn, thẩm vấn, trách vấn"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "符",
+      "unicode": "7B26",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(thẻ bài; cái bùa trừ ma; vật để làm tin; bằng chứng; điềm tốt lành; bùa chú để trừ tà ma; dấu hiệu, kí hiệu; hợp, đúng), phù chú, phù hiệu, phù hợp, phù lục, phù phép, phù quyết, phù ứng, quân phù"
         ]
       },
       "component": []
@@ -7625,7 +7644,7 @@
       },
       "meaning": {
         "vi": [
-          "bạc hà, quốc gia Hà Lan"
+          "bạc hà, quốc gia Hà Lan, hà hoa (tên riêng của hoa sen)"
         ]
       },
       "component": []
@@ -32144,7 +32163,7 @@
       },
       "meaning": {
         "vi": [
-          "nữ: (bộ nữ), nam nữ, nữ giới, phụ nữ, thiếu nữ, nữ khoa, bình đẳng nam nữ",
+          "(bộ nữ), nam nữ, nữ giới, phụ nữ, thiếu nữ, nữ khoa, bình đẳng nam nữ",
           "nớ: bên nớ, ở nớ, trên nớ",
           "nứa: bên nứa, ở nứa, trên nứa"
         ]
@@ -33429,7 +33448,7 @@
       "meaning": {
         "vi": [
           "(bộ tiểu), (nhỏ), nhược tiểu, tiểu thuyết, tiểu thư, nước tiểu, tiểu sành",
-          "tẻo: (bộ tẻo), tẻo teo, chuyện bé tẻo teo",
+          "(bộ tẻo), tẻo teo, chuyện bé tẻo teo",
           "teo: bé tí teo, tẻo teo, chuyện bé tẻo teo",
           "sỉu: tài xỉu (lớn nhỏ), (âm mượn tiếng tầu Quảng Châu), bạc sỉu, chuyện nhỏ sỉu siu",
           "siu: chuyện nhỏ sỉu siu"
@@ -39734,7 +39753,7 @@
       },
       "meaning": {
         "vi": [
-          "chi: (bộ chi), (cấp cho, chi cấp; cành; tránh, nhánh, bộ phận; chân tay; chống, đỡ, giữ; chịu đựng; tiêu ra; lãnh tiền, lãnh lương bổng; điều khiển, sai khiến), chi tiêu, chi cấp, chi chú, chi giải, chi li, chi phiếu, chi phí, chi phái, chi bộ, địa chi",
+          "(bộ chi), (cấp cho, chi cấp; cành; tránh, nhánh, bộ phận; chân tay; chống, đỡ, giữ; chịu đựng; tiêu ra; lãnh tiền, lãnh lương bổng; điều khiển, sai khiến), chi tiêu, chi cấp, chi chú, chi giải, chi li, chi phiếu, chi phí, chi phái, chi bộ, địa chi",
           "giê: gác-măng-giê (Garde à manger)"
         ]
       },
@@ -68972,8 +68991,8 @@
       },
       "meaning": {
         "vi": [
-          "hoàng: (bộ hoàng), hoàng sắc, hoàng môn, hoàng đế, hoàng hôn",
-          "huỳnh: (bộ huỳnh), huỳnh sắc, huỳnh môn, huỳnh đế, lưu huỳnh",
+          "(bộ hoàng), hoàng sắc, hoàng môn, hoàng đế, hoàng hôn",
+          "(bộ huỳnh), huỳnh sắc, huỳnh môn, huỳnh đế, lưu huỳnh",
           "vàng: màu vàng, vàng tươi, mặt vàng như nghệ, vàng khè"
         ]
       },
@@ -79342,15 +79361,87 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "phông",
-          "phong"
+          "phong",
+          "phông"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "phông chữ",
-          "(bộ phong), thần phong, (gió), phong ba, phong cách, phong vũ, phong bão, bịnh phong thấp"
+          "(bộ phong), thần phong, (gió), phong ba, phong cách, phong vũ, phong bão, bịnh phong thấp",
+          "phông: phông chữ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "扶",
+      "unicode": "6276",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nâng đỡ, dìu; giúp đỡ; dựa vào, nhờ vào; trị lí, cai quản; chống, dựa; hộ tống; men theo, noi theo; một thứ động tác làm lễ vái của phụ nữ), phù cung, phù dưỡng, phù nghĩa, phù nguy, phù trì (giúp đỡ), phù tang (lo việc ma chay), Phù Tang (thời xưa tương truyền ở ngoài Đông hải có cây thần tên là Phù tang - là nơi mặt trời mọc), Phù Tang (tên chỉ nước Nhật Bổn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "芙",
+      "unicode": "8299",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cây dâm bụt), phù cừ (hoa sen), phù dung (một tên khác chỉ hoa sen)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "蕖",
+      "unicode": "8556",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cừ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phù cừ (hoa sen, tên riêng của hoa sen)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "浮",
+      "unicode": "6D6E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nổi; hiện rõ; hơn, vượt quá; bơi, lội; phạt uống rượu; thuận dòng xuôi đi; ở trên mặt nước hoặc trong không trung; ở bên ngoài, ở bề mặt; không có căn cứ, không thật; hư, hão; nông nổi, bộp chộp), kiếp phù sanh, phù du, phù dự, phù đồ, phù hoa, phù kiều, phù từ, phù vân (mây trôi)"
         ]
       },
       "component": []
@@ -79554,7 +79645,7 @@
       },
       "meaning": {
         "vi": [
-          "quỷ: (bộ quỷ), (ma, hồn người chết; trò ma, trò đối tra; xảo trá, âm hiểm, không sáng tỏ; tinh ma, ranh ma, láu; xấu, dễ sợ, đáng ghét; hồ loạn, bừa bãi), sao Quỷ, ác quỷ, ma quỷ, ngạ quỷ, quỷ quyệt, quỷ khóc thần sầu, quỷ khốc (quỷ khóc), con quỷ, thằng quỷ, quỷ tha ma bắt",
+          "(bộ quỷ), (ma, hồn người chết; trò ma, trò đối tra; xảo trá, âm hiểm, không sáng tỏ; tinh ma, ranh ma, láu; xấu, dễ sợ, đáng ghét; hồ loạn, bừa bãi), sao Quỷ, ác quỷ, ma quỷ, ngạ quỷ, quỷ quyệt, quỷ khóc thần sầu, quỷ khốc (quỷ khóc), con quỷ, thằng quỷ, quỷ tha ma bắt",
           "sưu: (loài quỷ)",
           "quẽ: quạnh quẽ"
         ]
@@ -79716,9 +79807,9 @@
       },
       "meaning": {
         "vi": [
-          "(tên đất thời cổ, nay thuộc tỉnh Hà Nam)",
           "(bộ mãnh), (con chẫu, con ếch; gắng gỏi, cố sức), mãnh miễn (gắng sức)",
-          "(bộ miễn), (con chẫu, con ếch, gắng gỏi, cố sức), mẫn miễn (gắng sức)"
+          "(bộ miễn), (con chẫu, con ếch, gắng gỏi, cố sức), mẫn miễn (gắng sức)",
+          "(tên đất thời cổ, nay thuộc tỉnh Hà Nam)",
         ]
       },
       "component": []
@@ -79791,17 +79882,17 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "tày",
           "tề",
-          "tế"
+          "tế",
+          "tày"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "người Tày, tiếng Tày",
           "(bộ tề), (ngay ngắn, đều nhau; đủ, hoàn bị; sửa trị, xếp đặt cho ngay ngắn; bằng với, ngang với; đều, cùng), họ Tề, nhà Tề, nhứt tề xông lên",
-          "(bộ tư), (cái gấu áo)"
+          "(bộ tư), (cái gấu áo)",
+          "người Tày, tiếng Tày"
         ]
       },
       "component": []
