@@ -1556,6 +1556,24 @@
       "antonym": [],
       "reading": {
         "vi": [
+          "khiêu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khiêu: khiêu vũ, khiêu lương, khiêu động"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨁓",
+      "unicode": "28053",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
           "queo",
           "quèo",
           "khoèo"
@@ -14659,6 +14677,24 @@
       "component": []
     },
     {
+      "char": "𫢗",
+      "unicode": "2B897",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xỉn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "say xỉn, nhậu xỉn"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𣂃",
       "unicode": "23083",
       "synonym": [],
@@ -17167,6 +17203,24 @@
         "vi": [
           "(nhiều; vượt hơn), đa thiểu, đa biến, đa dâm, đa nghi, tối đa, đa nguyên, đa chủng loại",
           "('vậy đó' trong phương ngữ Nam kỳ), đẹp đa (đẹp vậy đó)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "侈",
+      "unicode": "4F88",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xỉ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(phí phạm; phí của; huyên hoang, khoác lác), xa xỉ, xa xỉ phẩm, xa xỉ thuế, nhiêu xỉ"
         ]
       },
       "component": []
@@ -21392,7 +21446,7 @@
       },
       "meaning": {
         "vi": [
-          "số mười"
+          "số mười, vẹn mười"
         ]
       },
       "component": []
@@ -25517,13 +25571,33 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "xìu"
+          "xìu","xỉu"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "xìu mặt, mặt xìu xuống, yếu xìu"
+          "xìu: xìu mặt, mặt xìu xuống, yếu xìu",
+          "xỉu: té xỉu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "㐱",
+      "unicode": "3431",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chỉn","xỉn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chỉn: chỉn chu, chỉn e, chỉn khôn",
+          "xỉn: da xỉn, xỉn màu"
         ]
       },
       "component": []
@@ -28329,7 +28403,8 @@
       },
       "meaning": {
         "vi": [
-          "sỉ nhục"
+          "sỉ: sỉ nhục, (há miệng)",
+          "xỉ: xỉ vả, (miệng há)"
         ]
       },
       "component": []
@@ -43862,7 +43937,7 @@
       },
       "meaning": {
         "vi": [
-          "lịch sử, tờ lịch, tấm lịch, lí lịch (chỉ chung công việc đã làm và hoàn cảnh đã qua)"
+          "lịch sử, tờ lịch, tấm lịch, lí lịch (chỉ chung công việc đã làm và hoàn cảnh đã qua), lịch lãm (trải nhiều chuyện, xem nhiều việc, ý nói nhiều kinh nghiệm)"
         ]
       },
       "component": []
@@ -59765,13 +59840,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "chĩa"
+          "chĩa","chỉa"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "chĩa súng, cái chĩa, chĩa ra, chôm chĩa"
+          "chĩa: chĩa súng, cái chĩa, chĩa ra, chôm chĩa",
+          "chỉa: cái chỉa (cái nĩa)"
         ]
       },
       "component": []
@@ -62278,6 +62354,25 @@
         "vi": [
           "khâu: (gò, đống, đồi; mồ, mả; lớn, trưởng), họ Khâu, Khổng Khâu, tỉ khâu, tỉ khâu ni, tiểu khâu, a khâu (cái gò lệch)",
           "kheo: tì kheo, tì kheo ni, khẳng kheo, kheo chân, đi cà kheo"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "挑",
+      "unicode": "6311",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khiêu","khều"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khiều: (chọn lựa, kén chọn; khều, chọc; gánh, gồng; dẫn dụ), khiêu chiến, khiêu khích, khiêu hấn, khiêu khởi",
+          "khều: khều chọc, khều đồ"
         ]
       },
       "component": []
@@ -68396,6 +68491,24 @@
       "meaning": {
         "vi": [
           "hoa quỳ, quỳ hoa bảo điển, họ Cẩm Quỳ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨆠",
+      "unicode": "281A0",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "què"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "què chân, què tay, què dò"
         ]
       },
       "component": []
@@ -78768,6 +78881,24 @@
       "component": []
     },
     {
+      "char": "覽",
+      "unicode": "89BD",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lãm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(xem ngắm; đọc duyệt; chịu nhận, nghe theo), triễn lãm, ngự lãm, phi lãm, bác lãm, duyệt lãm"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𤃢",
       "unicode": "240E2",
       "synonym": [],
@@ -79246,24 +79377,6 @@
         "vi": [
           "sấm (đổ xô tới, ùa tới): sấm tiến, sấm tướng (tướng đi đầu)",
           "sấn vào"
-        ]
-      },
-      "component": []
-    },
-    {
-      "char": "𡈈",
-      "unicode": "21208",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "chuồng"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "chuồng gà, chuông trại, chuồng xí"
         ]
       },
       "component": []
@@ -81698,6 +81811,24 @@
       "component": []
     },
     {
+      "char": "整",
+      "unicode": "6574",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chỉnh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chỉnh sửa, chỉnh răng, hoàn chỉnh, chỉnh tề, chấn chỉnh, điều chỉnh, hiệu chỉnh"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "㕵",
       "unicode": "3575",
       "synonym": [],
@@ -81728,7 +81859,7 @@
       },
       "meaning": {
         "vi": [
-          "số chín, có chín con vịt dưới ao"
+          "số chín, có chín con vịt dưới ao, chín chắn"
         ]
       },
       "component": []
