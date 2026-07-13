@@ -141,6 +141,96 @@
       "component": []
     },
     {
+      "char": "吸",
+      "unicode": "5438",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hấp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(hít, hút hơi vô; thở hơi ra; lôi cuốn, thu hút), hấp dẫn, hấp độc (chơi đồ), hấp khí, hấp quản, hô hấp, hấp thụ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "唿",
+      "unicode": "553F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hút"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "hút hơi, ống hút, hun hút, mất hút, hút thuốc"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "忽",
+      "unicode": "5FFD",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hốt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bỗng nhiên, bất chợt; chểnh mảng; coi thường, khinh thị; chợt, thình lình; đơn vị đo lường ngày xưa), họ Hốt, hoảng hốt, hốt nhiên, khinh hốt, phiêu hốt"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "惚",
+      "unicode": "60DA",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hốt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(không rõ ràng, phảng phất), hoảng hốt (mịt mờ, khó biết đích xác), hốt hoảng (lòng dạ rung động, lo sợ, rối loạn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "恍",
+      "unicode": "604D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hoảng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bỗng, hốt nhiên; phảng phất, mơ hồ), hoảng hốt (không trông thấy rõ), kinh hoảng (sợ hãi quá, không còn biết gì)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "訓",
       "unicode": "8A13",
       "synonym": [],
@@ -6014,24 +6104,6 @@
       "component": []
     },
     {
-      "char": "𣒱",
-      "unicode": "234B1",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "xoài"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "cây xoài"
-        ]
-      },
-      "component": []
-    },
-    {
       "char": "𨠵",
       "unicode": "28835",
       "synonym": [],
@@ -8805,24 +8877,6 @@
     {
       "char": "免",
       "unicode": "514D",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "miễn"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "miễn sao, miễn cưỡng"
-        ]
-      },
-      "component": []
-    },
-    {
-      "char": "勉",
-      "unicode": "52C9",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -23496,24 +23550,6 @@
       "component": []
     },
     {
-      "char": "漧",
-      "unicode": "6F27",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "khan"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "ho khan, khan hiếm, khô khan"
-        ]
-      },
-      "component": []
-    },
-    {
       "char": "寒",
       "unicode": "5BD2",
       "synonym": [],
@@ -37649,8 +37685,27 @@
       },
       "meaning": {
         "vi": [
-          "hoảng: hoảng sợ, hoảng hốt, hoảng mang",
-          "hoang: (vội vã, vội vàng, hấp tấp)"
+          "hoảng: (vội vã, vội vàng; hoảng sợ), hoảng sợ, hốt hoảng, hoảng lên",
+          "hoang: (vội vã, vội vàng, hấp tấp), hoang mang"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "㧾",
+      "unicode": "39FE",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hốt","hót"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "hốt: hốt rác, hốt cứt",
+          "hót: hót rác, hót cứt"
         ]
       },
       "component": []
@@ -64801,8 +64856,8 @@
       "component": []
     },
     {
-      "char": "仉",
-      "unicode": "4EC9",
+      "char": "仦",
+      "unicode": "4EE6",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -73642,15 +73697,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "mẫn",
-          "miễn"
+          "miễn",
+          "mẫn"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "mẫn: khuyến mẫn (khuyên bảo và khích lệ, động viên)",
-          "miễn: miễn sao, miễn cưỡng, cần miễn, mãnh/mẫn miễn (gắng sức), miễn khuyến (khuyên nên gắng sức)"
+          "miễn: miễn sao, miễn cưỡng, cần miễn, mãnh/mẫn miễn (gắng sức), miễn khuyến (khuyên nên gắng sức)",
+          "mẫn: khuyến mẫn (khuyên bảo và khích lệ, động viên)"
         ]
       },
       "component": []
