@@ -8528,26 +8528,6 @@
       "component": []
     },
     {
-      "char": "𠖭",
-      "unicode": "205AD",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "leo",
-          "lẻo"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "leo: trong leo lẻo",
-          "lẻo: trong leo lẻo"
-        ]
-      },
-      "component": []
-    },
-    {
       "char": "𠖾",
       "unicode": "205BE",
       "synonym": [],
@@ -15767,6 +15747,8 @@
       "antonym": [],
       "reading": {
         "vi": [
+          "lẻo",
+          "leo",
           "lẽo",
           "nhẽo"
         ],
@@ -15774,8 +15756,10 @@
       },
       "meaning": {
         "vi": [
-          "lạnh lẽo, lạt lẽo, lẽo đẽo",
-          "nhạt nhẽo"
+          "lẻo: trong leo lẻo, xanh leo lẻo",
+          "leo: trong leo lẻo, xanh leo lẻo",
+          "lẽo: lạnh lẽo, lạt lẽo, lẽo đẽo",
+          "nhẽo: nhạt nhẽo"
         ]
       },
       "component": []
@@ -23350,6 +23334,24 @@
       "component": []
     },
     {
+      "char": "哢",
+      "unicode": "54E2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lỏng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chất lỏng, lỏng lẻo"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "㳻",
       "unicode": "3CFB",
       "synonym": [],
@@ -29995,23 +29997,41 @@
       "component": []
     },
     {
+      "char": "尞",
+      "unicode": "5C1E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "liêu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(họ người)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "嘹",
       "unicode": "5639",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
+          "lẻo",
           "lạo",
-          "léo",
-          "lẻo"
+          "léo"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
+          "lẻo: nói lẻo, lẻo mép, lỏng lẻo",
           "lạo: (tiếng inh ỏi, tiếng lanh lảnh), lạo lượng (lanh lảnh, réo rắt, tiếng trong trẻo mà đi xa), uýnh lộn uýnh lạo",
-          "léo: léo nhéo (từ gợi tả tiếng gọi nhau hỗn độn liên tiếp từ xa, nghe to nhưng không rõ, gây cảm giác khó chịu)",
-          "lẻo: nói lẻo, lẻo mép"
+          "léo: léo nhéo (từ gợi tả tiếng gọi nhau hỗn độn liên tiếp từ xa, nghe to nhưng không rõ, gây cảm giác khó chịu)"
         ]
       },
       "component": []
@@ -46242,6 +46262,42 @@
       "component": []
     },
     {
+      "char": "𨘸",
+      "unicode": "28638",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lếch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lếch thếch, lếch xếch, lếch tha lếch thếch"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "逖",
+      "unicode": "9016",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thếch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lếch thếch"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "梨",
       "unicode": "68A8",
       "synonym": [],
@@ -55088,7 +55144,7 @@
       },
       "meaning": {
         "vi": [
-          "xếch: gọi xếch mé, xốc xếch, méo xếch, xốc xếch, xếch ngược"
+          "gọi xếch mé, xốc xếch, méo xếch, xốc xếch, xếch ngược, lếch xếch"
         ]
       },
       "component": []
@@ -60549,7 +60605,7 @@
       },
       "meaning": {
         "vi": [
-          "nạ: mặt nạ"
+          "mặt nạ"
         ]
       },
       "component": []
@@ -70670,8 +70726,8 @@
       },
       "meaning": {
         "vi": [
-          "lẻo đẻo, lẻo đẻo theo sau",
-          "đứng tréo chân, tru tréo (kêu la ầm ĩ)"
+          "lẻo: lẻo đẻo, lẻo đẻo theo sau",
+          "tréo: đứng tréo chân, tru tréo (kêu la ầm ĩ)"
         ]
       },
       "component": []
@@ -78183,6 +78239,24 @@
       "component": []
     },
     {
+      "char": "𥷒",
+      "unicode": "25DD2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lách"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lau lách"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "攊",
       "unicode": "650A",
       "synonym": [],
@@ -78233,7 +78307,7 @@
       },
       "meaning": {
         "vi": [
-          "lá lách"
+          "lá lách, lách mật"
         ]
       },
       "component": []
@@ -78671,6 +78745,42 @@
       "meaning": {
         "vi": [
           "bén lửa, bén duyên, bén mảng, nhạy bén, sắc bén"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨰲",
+      "unicode": "28C32",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lõm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lõm vô, lòi lõm"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𤃢",
+      "unicode": "240E2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lõm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lõm bõm, bò lõm"
         ]
       },
       "component": []
@@ -79302,6 +79412,25 @@
         "vi": [
           "tròn trặn",
           "trận chiến, một trận"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨁦",
+      "unicode": "28066",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lõng","lỏng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lõng: dài thòng lõng, lõng bõng",
+          "lỏng: ngã lỏng chỏng"
         ]
       },
       "component": []
@@ -84229,6 +84358,42 @@
       "meaning": {
         "vi": [
           "giao tiếp, giao lưu, giao hảo, giao hợp, giao phối"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "牽",
+      "unicode": "727D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khiên"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(dắt đi; vướng, ràng buộc; co kéo, gượng ép; liên lụy, dính dấp), họ Khiên, khiên đi, khiên chế, khiên dẫn, khiên liên, khiên ngưu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "㯠",
+      "unicode": "3BE0",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khiên"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cái khiên, khiên giáp"
         ]
       },
       "component": []
