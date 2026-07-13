@@ -40701,13 +40701,33 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "đoạn"
+          "đoán","đoạn"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "đoạn trường, bán đoạn, đứt đoạn, đoạn nhạc, đoạn đường"
+          "đoán: phán đoán, quyết đoán, đoán chừng, suy đoán, đọc đoán",
+          "đoạn: (đứt, gãy, làm cho đứt; dứt, cách hẳn; kiêng bỏ, cai; quyết, tuyệt đối), bất đoạn, đứt đoạn, đoạn ngôn, đoạn mệnh, đoạn trường, gián đoạn, trảm đoạn, lũng đoạn, đoạn trường (đứt ruột)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "腸",
+      "unicode": "8178",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tràng","trường"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tràng: đại tràng, (ruột; nỗi lòng)",
+          "trường: can trường, đoạn trường (đứt ruột), sầu trường, đại trường"
         ]
       },
       "component": []
@@ -44096,13 +44116,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "đoàn"
+          "đoạn","đoàn"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "họ Đoàn"
+          "đoạn: đoạn ruột (khúc ruột), (khúc, tấm; chặng, quãng, giai đoạn; dệt bằng tơ), giai đoạn, đoạn lạc, tâm đoạn luận, thủ đoạn",
+          "đoàn: họ Đoàn, Đoàn Chánh Thuần, Đoàn Dự, Đoàn Mộc"
         ]
       },
       "component": []
