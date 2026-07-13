@@ -28300,7 +28300,7 @@
       "meaning": {
         "vi": [
           "đông: đông đông (tiếng đồ vật rơi), đông đông đông",
-          "đong: đong đong (tiếng đồ vật rơi), đong đong đong",
+          "đong: đong đong (tiếng đồ vật rơi), đong đong đong, long đong",
           "thùng: thùng thùng (tiếng đánh trống, tiếng gõ cửa)"
         ]
       },
@@ -28320,6 +28320,24 @@
       "meaning": {
         "vi": [
           "cái gì, gì đây, con mẹ gì, những gì"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𣁲",
+      "unicode": "23072",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đong"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cân đo đong đếm, đong đếm"
         ]
       },
       "component": []
@@ -46704,13 +46722,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "linh"
+          "linh","lanh"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "linh lung, lung linh"
+          "linh: linh lung, lung linh",
+          "lanh: long lanh"
         ]
       },
       "component": []
@@ -46998,13 +47017,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "lung"
+          "lung","long"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "lung linh, linh lung, lung thông"
+          "lung: lung linh, linh lung, lung thông",
+          "long: long lanh"
         ]
       },
       "component": []
@@ -79617,8 +79637,26 @@
       },
       "meaning": {
         "vi": [
-          "lung lay",
-          "long trọng, (hưng thịnh), long sư (tôn kính thầy), (đầy, nhiều, dày, hưng thịnh, hưng khởi, sâu, thắm thiết, cao, gồ lên, làm cho cao thêm), họ Long, long trời lở đất"
+          "long: long trọng, (hưng thịnh), long sư (tôn kính thầy), (đầy, nhiều, dày, hưng thịnh, hưng khởi, sâu, thắm thiết, cao, gồ lên, làm cho cao thêm), họ Long, long trời lở đất",
+          "lung: lung lay"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "嚨",
+      "unicode": "56A8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "long"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "long đong, tiếng nghe long long long"
         ]
       },
       "component": []
