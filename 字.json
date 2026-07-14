@@ -13378,6 +13378,24 @@
       "component": []
     },
     {
+      "char": "𢳁",
+      "unicode": "22CC1",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "mượn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "vay mượn, mượn tiền"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𢟞",
       "unicode": "227DE",
       "synonym": [],
@@ -14073,7 +14091,7 @@
       },
       "meaning": {
         "vi": [
-          "tình nầy trao về anh"
+          "tình nầy trao về anh, trao dồi, trao đổi"
         ]
       },
       "component": []
@@ -31975,6 +31993,24 @@
       "component": []
     },
     {
+      "char": "猒",
+      "unicode": "7312",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "yêm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(no đủ; không còn muốn nữa)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "士",
       "unicode": "58EB",
       "synonym": [],
@@ -45494,6 +45530,60 @@
       "component": []
     },
     {
+      "char": "𢬗",
+      "unicode": "22B17",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dồi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dồi vô, dồi bột làm bánh, miếng dồi, món dồi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𣼭",
+      "unicode": "23F2D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dồi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dồi dào, sóng dồi lên"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𦟿",
+      "unicode": "267FF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đùi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bắp đùi, cái đùi, đùi gà, đùi lợn"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "漁",
       "unicode": "6F01",
       "synonym": [],
@@ -54070,6 +54160,43 @@
       "component": []
     },
     {
+      "char": "唩",
+      "unicode": "5529",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ủa","uẩy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "ủa: ủa sao vậy, ủa ai vậy",
+          "uẩy: uẩy ai"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "委",
+      "unicode": "59D4",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ủy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(giao phó; dịu dàng; ỉu xìu, rụng, rã rời), ủy ban, ủy thác, ủy nhậm"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "買",
       "unicode": "8CB7",
       "synonym": [],
@@ -56956,6 +57083,24 @@
       "meaning": {
         "vi": [
           "trang sức"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𢫵",
+      "unicode": "22AF5",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trau"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trau chuốt, trau dồi"
         ]
       },
       "component": []
@@ -72551,8 +72696,8 @@
       },
       "meaning": {
         "vi": [
-          "khoan khoái, khoan thai, khoan nhượng",
-          "khoăn khoái, khoăn thai, khoăn nhượng"
+          "khoan: khoan khoái, khoan thai, khoan nhượng",
+          "khoăn: khoăn khoái, khoăn thai, khoăn nhượng"
         ]
       },
       "component": []
@@ -76418,6 +76563,24 @@
       "component": []
     },
     {
+      "char": "㥯",
+      "unicode": "396F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ẩn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cẩn thận, thận trọng; thương hại, thương xót, quan tâm, lo lắng)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "空",
       "unicode": "7A7A",
       "synonym": [],
@@ -77608,6 +77771,42 @@
         "vi": [
           "(bộ huyết), huyết tương, huyết dịch, huyết bạch, bổ huyết, huyết tộc, tâm huyết, khí huyết, lưu huyết, huyết thống, huyết khí, nhiệt huyết, hoạt huyết",
           "hoét: đỏ hoét"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "語",
+      "unicode": "8A9E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ngữ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "ngôn ngữ, tục ngữ, ngữ điệu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "敔",
+      "unicode": "6554",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ngữ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(giam giữ; một loại nhạc khí ngày xưa, làm bằng gỗ, hình dạng giống hổ nằm)"
         ]
       },
       "component": []
@@ -79800,15 +79999,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "lìa",
-          "li"
+          "li",
+          "lìa"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "lìa đời, lìa xa, chia lìa",
-          "li hương, li biệt, chia li"
+          "li hương, li biệt, chia li",
+          "lìa đời, lìa xa, chia lìa, lìa đời"
         ]
       },
       "component": []
