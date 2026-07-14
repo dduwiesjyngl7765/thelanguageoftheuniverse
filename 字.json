@@ -12334,19 +12334,20 @@
       "component": []
     },
     {
-      "char": "𥘷",
-      "unicode": "25637",
+      "char": "稚",
+      "unicode": "7A1A",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "trẻ"
+          "trĩ","trẻ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "trẻ con, trẻ thơ, trẻ nhỏ"
+          "trĩ: (lúa non; trẻ con), ấu trĩ, mông trĩ, noa trĩ, trĩ tử",
+          "trẻ: trẻ con, trẻ thơ, trẻ nhỏ"
         ]
       },
       "component": []
@@ -15338,6 +15339,24 @@
       "meaning": {
         "vi": [
           "cây hay (cây lục lạc)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "陷",
+      "unicode": "9677",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hãm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "hãm hiếp, kìm hãm, hãm hại, hãm lại"
         ]
       },
       "component": []
@@ -21825,6 +21844,24 @@
       "meaning": {
         "vi": [
           "lằng nhằng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠡛",
+      "unicode": "2085B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhằn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nhọc nhằn"
         ]
       },
       "component": []
@@ -42588,6 +42625,24 @@
       "antonym": [],
       "reading": {
         "vi": [
+          "rủ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rủ đi chơi, rủ đi làm"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𱡃",
+      "unicode": "31843",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
           "giũ",
           "dó"
         ],
@@ -42595,8 +42650,7 @@
       },
       "meaning": {
         "vi": [
-          "giũ: giặt giũ, giũ cho sạch",
-          "dó: dúm dó"
+          "giũ: giặt giũ, giũ cho sạch"
         ]
       },
       "component": []
@@ -58819,13 +58873,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "lỗ"
+          "lỗ","rủa"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "(nói lắm, nói nhiều), lí lỗ"
+          "lỗ: (nói lắm, nói nhiều), lí lỗ",
+          "rủa: nguyền rủa, rủa mắng, chửi rủa"
         ]
       },
       "component": []
@@ -74261,8 +74316,8 @@
       },
       "meaning": {
         "vi": [
-          "(từ gọi chung chỉ nhà ở), Hạ Môn",
-          "vỉa hè, sau hè, (cái nhà)"
+          "hè: vỉa hè, sau hè, (cái nhà)",
+          "hạ: (từ gọi chung chỉ nhà ở), Hạ Môn"
         ]
       },
       "component": []
@@ -78697,15 +78752,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "quỵ",
-          "quỳ"
+          "quỳ",
+          "quỵ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "ngã quỵ, quỵ xuống, quỵ lụy, quỵ tạ, hạ quỵ, bái quỵ",
-          "quỳ xuống, quỳ gối, quỳ chân"
+          "quỳ xuống, quỳ gối, quỳ chân",
+          "ngã quỵ, quỵ xuống, quỵ lụy, quỵ tạ, hạ quỵ, bái quỵ"
         ]
       },
       "component": []
@@ -80680,8 +80735,8 @@
       },
       "meaning": {
         "vi": [
-          "ước nguyện, lời nguyện, nguyện cầu, nguyện vọng, nguyện ý",
-          "thề nguyền"
+          "nguyện: ước nguyện, lời nguyện, nguyện cầu, nguyện vọng, nguyện ý",
+          "nguyền: thề nguyền, lời nguyền, nguyền rủa"
         ]
       },
       "component": []
@@ -80700,8 +80755,8 @@
       },
       "meaning": {
         "vi": [
-          "loài vật, chủng loài",
-          "đồng loại, chủng loại, loại bỏ"
+          "loại: đồng loại, chủng loại, loại bỏ, loại ra",
+          "loài: loài vật, chủng loài"
         ]
       },
       "component": []
@@ -81074,8 +81129,8 @@
       },
       "meaning": {
         "vi": [
-          "cá khoai (cá biển thịt trắng và mềm)",
-          "(cá hồi)"
+          "khoai: cá khoai (cá biển thịt trắng và mềm)",
+          "khuê: (cá hồi)"
         ]
       },
       "component": []
