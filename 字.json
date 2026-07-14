@@ -2131,9 +2131,7 @@
     {
       "char": "辱",
       "unicode": "8FB1",
-      "synonym": [
-        ""
-      ],
+      "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
@@ -4833,6 +4831,60 @@
         "vi": [
           "nhu: (giẫm, đạp lên, xéo; hủy hoại, giết hại; xâm nhập, đánh bất ngờ)",
           "nhựu: (giẫm, đạp lên, xéo; hủy hoại, giết hại; xâm nhập, đánh bất ngờ)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "柔",
+      "unicode": "67D4",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(mềm dẻo; hòa thuận, ôn hòa; non, mới mọc; làm cho yên, vỗ về), cương nhu, nhu đạo, nhu hòa, nhu nhược, nhu nhuyễn, nhu nọa, nhu thuận, nhu tính, ôn nhu, ưu nhu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "渘",
+      "unicode": "6E18",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhọ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dính nhọ, số nhọ, nhọ lem, nhọ nồi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𤹘",
+      "unicode": "24E58",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhọc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nhọc nhằn, nhọc lòng, nhọc mình"
         ]
       },
       "component": []
@@ -61863,7 +61915,7 @@
       },
       "meaning": {
         "vi": [
-          "nhẹ nhàng, nhàng hạ, nhàng rỗi"
+          "nhịp nhàng, nhẹ nhàng"
         ]
       },
       "component": []
@@ -79795,8 +79847,8 @@
       },
       "meaning": {
         "vi": [
-          "gian phòng, dương gian, thế gian",
-          "nhàn hạ, nhàn thì (thời gian rảnh)"
+          "nhàn hạ, nhàn thì (thời gian rảnh)",
+          "gian phòng, dương gian, thế gian"
         ]
       },
       "component": []
