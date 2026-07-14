@@ -25796,7 +25796,7 @@
       },
       "meaning": {
         "vi": [
-          "(mười vạn), (liệu, lường), (yên ổn), nhứt ức (một trăm triệu), muôn ức"
+          "(mười vạn), (liệu, lường), (yên ổn), nhứt ức (một tỉ), muôn ức"
         ]
       },
       "component": []
@@ -78738,6 +78738,60 @@
       "component": []
     },
     {
+      "char": "敝",
+      "unicode": "655D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tệ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nát, hư, rách; mệt mỏi; lời nói khiêm; thua, thất bại; vứt bỏ), điêu tệ, tệ xá, tệ bang, tệ tỉ, tệ y"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "弊",
+      "unicode": "5F0A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tệ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cắt đứt; điều xấu; sự gian trá, lừa dối; xấu, nát, rách; khốn khó, khốn đốn; suy bại; xử đoán), đồi tệ, tệ bạc, tệ đoan, tệ hại, tệ tục, quá tệ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "幣",
+      "unicode": "5E63",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tệ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(vải lụa; tiền; phiếm chỉ lễ vật; tặng, biếu), chỉ tệ, chủ tệ, hóa tệ, nạp tệ, ngụy tệ, quốc tệ, tệ trị, tiền tệ"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𥷒",
       "unicode": "25DD2",
       "synonym": [],
@@ -82362,6 +82416,60 @@
         "vi": [
           "chị em, chị họ, chị đại",
           "(chị), tỉ muội, tỉ tỉ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "秭",
+      "unicode": "79ED",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tỉ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "một tỉ (mười vạn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "璽",
+      "unicode": "74BD",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tỉ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(ấn tín, ấn chương), ngọc tỉ (ấn tín)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "妣",
+      "unicode": "59A3",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tỉ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(mẹ đã chết)"
         ]
       },
       "component": []
