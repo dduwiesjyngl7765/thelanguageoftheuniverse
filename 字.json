@@ -213,6 +213,24 @@
       "component": []
     },
     {
+      "char": "籩",
+      "unicode": "7C69",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bển"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(ở đó, ở đấy), bên bển, ở bển"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "恍",
       "unicode": "604D",
       "synonym": [],
@@ -5671,7 +5689,7 @@
       },
       "meaning": {
         "vi": [
-          "(một loại cỏ), họ Vĩ, (tên một vùng đất thuộc nước Sở ngày xưa), cỏ Vĩ"
+          "(một loại cỏ), họ Vĩ, (tên một vùng đất thuộc nước Sở ngày xưa), cỏ Vĩ, vĩ cầm"
         ]
       },
       "component": []
@@ -17530,7 +17548,7 @@
       },
       "meaning": {
         "vi": [
-          "thơ ngây, ngây dại, ngây người"
+          "ngây ngô, thơ ngây, ngây dại, ngây người"
         ]
       },
       "component": []
@@ -21634,8 +21652,8 @@
       "component": []
     },
     {
-      "char": "𨘱",
-      "unicode": "28631",
+      "char": "𮞊",
+      "unicode": "2E78A",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -23340,13 +23358,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "luôn"
+          "luôn","luân"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "luôn luôn, luôn vậy mãi mãi"
+          "luôn: luôn luôn, luôn vậy mãi mãi",
+          "luân: Khang Vương Nguyễn Phúc Luân"
         ]
       },
       "component": []
@@ -26628,6 +26647,24 @@
       "meaning": {
         "vi": [
           "ân cần, cần cù, cần kiệm, bất cần, hậu cần"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "堇",
+      "unicode": "5807",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cận"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bôi, trát)"
         ]
       },
       "component": []
@@ -32143,7 +32180,7 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "ngoải"
+          "ngoải","ngoãi"
         ],
         "yue": []
       },
@@ -45433,7 +45470,7 @@
       },
       "meaning": {
         "vi": [
-          "đằng xa, họ Đằng, nước Đằng, đằng đẵng, đằng kia, đằng hắng, đằng tội nhơn mà đánh"
+          "đằng xa, họ Đằng, nước Đằng, đằng đẵng, đằng kia, đằng đẳng, đằng hắng, đằng tội nhơn mà đánh"
         ]
       },
       "component": []
@@ -53704,6 +53741,42 @@
       "meaning": {
         "vi": [
           "(bộ đậu), cây đậu, hạt đậu, đậu hủ, đậu bính, bánh đậu, đậu tương (nước đậu, sữa đậu nành)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "吳",
+      "unicode": "5433",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ngô"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nói to, ồn ào), họ Ngô, nước Ngô"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "悞",
+      "unicode": "609E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ngô"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nhầm; làm mê hoặc), ngây ngô"
         ]
       },
       "component": []
@@ -67009,6 +67082,24 @@
         "vi": [
           "ca: cạo (bằng dao)",
           "khát: (cắt đi, xén bớt, cạo sạch đi)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "丒",
+      "unicode": "4E12",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "giấu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "giấu đồ, giấu giếm"
         ]
       },
       "component": []
@@ -82492,7 +82583,7 @@
       },
       "meaning": {
         "vi": [
-          "đẳng: (chờ đợi), đẳng cấp, (thức bậc)",
+          "đẳng: (chờ đợi), đẳng cấp, (thức bậc), (đằng kia, đằng sau) ở đẳng, ở đằng đẳng",
           "đứng: đứng đợi, đứng chờ"
         ]
       },
@@ -84025,6 +84116,24 @@
       "meaning": {
         "vi": [
           "chứng chỉ, chứng cứ, chứng giám, làm chứng, xác chứng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "登",
+      "unicode": "767B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đăng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(lên, leo lên; ghi vô sổ; đề bạt, tiến dụng; in lên, kết quả, chín; xin lãnh nhận; ngay tức thì), đăng nhập, đăng kí, đăng xuất, đăng trình, đăng lên, đăng tuyển, đăng vị, đăng quang, đăng tải"
         ]
       },
       "component": []
