@@ -10439,7 +10439,7 @@
         "vi": [
           "thừng: dây thừng, thẳng thừng, ăn nói thẳng thừng",
           "mẫn: mẫn mẫn (liền liền không dứt, vẻ thận trọng)",
-          "thằng: họ thằng, (dây thừng), chuẩn thằng, thằng mặc, xích thằng"
+          "thằng: họ thằng, (dây thừng), chuẩn thằng, thằng mặc, xích thằng, Trùng Thằng (tỉnh Okinawa)"
         ]
       },
       "component": []
@@ -14127,6 +14127,24 @@
       "meaning": {
         "vi": [
           "cửa mở he hé, he hé"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨷯",
+      "unicode": "28DEF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cửa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cái cửa, cửa nhà"
         ]
       },
       "component": []
@@ -35393,7 +35411,7 @@
       },
       "meaning": {
         "vi": [
-          "bức tranh"
+          "bức tranh, bức vẽ, bức tượng"
         ]
       },
       "component": []
@@ -35492,6 +35510,42 @@
       "meaning": {
         "vi": [
           "(mình, thân; gốc cây; cán, chuôi; tài năng, được việc; thành giếng, miệng giếng), tài cán, cán bộ, cốt cán, mẫn cán"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "桿",
+      "unicode": "687F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cán"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cái cán, cán chổi, cán quốc"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "擀",
+      "unicode": "64C0",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cán"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "xe cán, cán ngang"
         ]
       },
       "component": []
@@ -56179,7 +56233,7 @@
       },
       "meaning": {
         "vi": [
-          "bế qua, bế quan luyện công, cơ quan, giác quan, hải quan, hữu quan, khai quan, nhập quan, quan ải, quan chiếu, quan đế, quan hệ, quan ngại, quan phòng, quan tâm, liên quan, quan thông, tương quan, tam quan"
+          "quan trọng, bế qua, bế quan luyện công, cơ quan, giác quan, hải quan, hữu quan, khai quan, nhập quan, quan ải, quan chiếu, quan đế, quan hệ, quan ngại, quan phòng, quan tâm, liên quan, quan thông, tương quan, tam quan"
         ]
       },
       "component": []
@@ -61994,6 +62048,24 @@
       "component": []
     },
     {
+      "char": "備",
+      "unicode": "5099",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bị"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bị án, bị kiện, chuẩn bị, bị cào"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𪝯",
       "unicode": "2A76F",
       "synonym": [],
@@ -66942,6 +67014,24 @@
       "component": []
     },
     {
+      "char": "𢣸",
+      "unicode": "228F8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ngỡ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "ngỡ ngàng, ngỡ như"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𩵋",
       "unicode": "29D4B",
       "synonym": [],
@@ -71720,6 +71810,24 @@
       "component": []
     },
     {
+      "char": "𧋻",
+      "unicode": "272FB",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rắn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "con rắn"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "㮩",
       "unicode": "3BA9",
       "synonym": [],
@@ -76486,6 +76594,42 @@
       "component": []
     },
     {
+      "char": "替",
+      "unicode": "66FF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thế"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "thế chấp, đính thế, giao thế, thay thế"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "勢",
+      "unicode": "52E2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thế"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "thế lực, tình thế"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "碰",
       "unicode": "78B0",
       "synonym": [],
@@ -77989,13 +78133,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "trong"
+          "trong","trùng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "trong trắng, trong trẻo, trong veo"
+          "trong: trong trắng, trong trẻo, trong veo",
+          "trùng: Trùng Thằng (tỉnh Okinawa)"
         ]
       },
       "component": []
@@ -79047,9 +79192,9 @@
       },
       "meaning": {
         "vi": [
-          "chuyển động, chuyển biến, chuyển hóa, chuyển di, lưu chuyển, luân chuyển",
-          "chuyến xa, chuyến hàng",
-          "bóng chuyền, chuyền đồ, chuyền tay, (hành động xài tay để đưa cái gì đó thì gọi là chuyền)"
+          "chuyển: chuyển động, chuyển biến, chuyển hóa, chuyển di, lưu chuyển, luân chuyển",
+          "chuyến: chuyến xa, chuyến hàng",
+          "chuyền: bóng chuyền, chuyền đồ, chuyền tay, (hành động xài tay để đưa cái gì đó thì gọi là chuyền)"
         ]
       },
       "component": []
@@ -79491,15 +79636,33 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "chước",
-          "chuốc"
+          "chuốc",
+          "chước"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "chuốc rựu, chuốc độc, chuốc thuốc",
-          "châm chước, chước định, chước tửu, độc chước"
+          "chuốc: chuốc rựu, chuốc độc, chuốc thuốc",
+          "chước: châm chước, chước định, chước tửu, độc chước"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "勺",
+      "unicode": "52FA",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chước"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bắt chước"
         ]
       },
       "component": []
