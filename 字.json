@@ -1859,7 +1859,7 @@
       },
       "meaning": {
         "vi": [
-          "mau chóng, chóng lớn, chóng khỏe"
+          "mau chóng, chóng lớn, chóng khỏe, nhanh chóng, chóng vánh, chóng mặt, quay như chong chóng"
         ]
       },
       "component": []
@@ -63901,24 +63901,6 @@
       "meaning": {
         "vi": [
           "chim bói cá"
-        ]
-      },
-      "component": []
-    },
-    {
-      "char": "𫏢",
-      "unicode": "2B3E2",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "chóng"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "nhanh chóng, chóng vánh, chóng mặt, quay như chong chóng"
         ]
       },
       "component": []
