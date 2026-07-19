@@ -24714,13 +24714,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "chúa"
+          "chúa","chủ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "Chúa trời, chúa thượng, vua chúa"
+          "chúa: chúa trời, chúa thượng, vua chúa, thiên chúa",
+          "chủ: chủ đất, chủ hộ, thiên chủ"
         ]
       },
       "component": []
@@ -30823,6 +30824,24 @@
       "component": []
     },
     {
+      "char": "摩",
+      "unicode": "6469",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ma"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(xoa, xát; mài giũa, nghiên cứu; tan, mất; thuận; đoán), ma sát, án ma (massage), đàm ma, ma sa"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "嚶",
       "unicode": "56B6",
       "synonym": [],
@@ -31048,24 +31067,6 @@
           "cuốc: cuốc gia, phục cuốc, cuốc kì",
           "quốc: quốc gia, phục quốc, quốc kì",
           "quấc: quấc gia, phục quấc, quấc kì"
-        ]
-      },
-      "component": []
-    },
-    {
-      "char": "图",
-      "unicode": "56FE",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "đồ"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "bản đồ, ý đồ, mưu đồ, đồ hoạch, hình đồ, đồ họa, đồ hoạch"
         ]
       },
       "component": []
@@ -34131,6 +34132,44 @@
       "meaning": {
         "vi": [
           "(yên tĩnh, hoang vắng), tịch liêu, tịch mịch (lặng lẽ không có tiếng động), liêu tịch, cô tịch"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "僻",
+      "unicode": "50FB",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tích","tịch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tích: (hẹp hòi; kì lạ; tà, xấu, bất chánh), ách tích, cô tích, cùng tích, lãnh tích, quái tích, tích lậu",
+          "tịch: (xa xôi hẻo lánh), ách tịch, biệt tịch, cô tịch, cùng tịch, lãnh tịch, tịch lậu, u tịch"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "籍",
+      "unicode": "7C4D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tạ","tịch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tạ: (sách vở; sổ sách ghi chép; quan hệ lệ thuộc giữa cá nhân đối với quốc gia; quê quán; giẫm, xéo; lấy, thu; bừa bãi), bằng tạ, đài tạ",
+          "tịch: (ghi chép vào sổ, liệt kê), bí tịch, bổn tịch, đảng tịch, điển tịch, hộ tịch, pháp tịch, quan tịch, quốc tịch, thư tịch, tịch biên, tịch quán, xướng tịch"
         ]
       },
       "component": []
@@ -38676,7 +38715,7 @@
       },
       "meaning": {
         "vi": [
-          "thành công, trở thành"
+          "thành công, trở thành, Nguyễn Minh Thành"
         ]
       },
       "component": []
@@ -39585,7 +39624,7 @@
       "meaning": {
         "vi": [
           "ấn: ấn mạch (bắt mạch), ấn xuống",
-          "án: án mạch (bắt mạch)"
+          "án: án mạch (bắt mạch), án ma (massage)"
         ]
       },
       "component": []
@@ -44946,6 +44985,24 @@
       "component": []
     },
     {
+      "char": "席",
+      "unicode": "5E2D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tịch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái chiếu; chỗ ngồi; chức vị; buồm; nhờ vào, dựa vào; bao quát, toàn diện), bồi tịch, cát tịch, chủ tịch, diên tịch, đào tịch, đồng tịch, khuyết tịch"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "汪",
       "unicode": "6C6A",
       "synonym": [],
@@ -45820,6 +45877,24 @@
       "meaning": {
         "vi": [
           "nhảy ùm xuống sông, làm cái ùm"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𬦮",
+      "unicode": "2C9AE",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhảy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nhảy vô, nhảy tới"
         ]
       },
       "component": []
@@ -51395,13 +51470,33 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "vỗ"
+          "vũ","vỗ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "vỗ hẹn (lỡ hẹn)"
+          "vũ: khiêu vũ, vũ điệu",
+          "vỗ: vỗ hẹn (lỡ hẹn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "武",
+      "unicode": "6B66",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "võ","vũ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "võ: võ đường",
+          "vũ: Trần Hoàng Vũ"
         ]
       },
       "component": []
@@ -66385,6 +66480,43 @@
       "component": []
     },
     {
+      "char": "料",
+      "unicode": "6599",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "liệu","liều"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "liệu: (đo, lường tính; liệu đoán; vuốt ve; vật liệu), nguyên liệu, vật liệu, định liệu, liệu rằng, dự liệu, sử liệu",
+          "liều: liều thuốc"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "療",
+      "unicode": "7642",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "liệu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trị liệu, y liệu"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "喿",
       "unicode": "55BF",
       "synonym": [],
@@ -71262,8 +71394,8 @@
       },
       "meaning": {
         "vi": [
-          "bồng bềnh",
-          "phồng lên, phập phồng"
+          "phồng: phồng lên, phập phồng",
+          "bồng: bồng bềnh"
         ]
       },
       "component": []
@@ -78565,21 +78697,39 @@
       "component": []
     },
     {
+      "char": "遂",
+      "unicode": "884C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "toại"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "toại nguyện, toại chí, cám ơn cha nuôi Lê Văn Toại"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "術",
       "unicode": "8853",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "toại",
-          "thuật"
+          "thuật",
+          "toại"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "mỹ thuật, ảo thuật, bí thuật, chiến thuật, học thuật, huyễn thuật, kĩ thuật, kiếm thuật, kĩ thuật, ma thuật, mĩ thuật, nghệ thuật, nhu thuật, pháp thuật, phòng trung thuật, phương thuật, quyền thuật, số thuật, tà thuật, tâm thuật, thủ thuật, thuật sĩ, thuật số, toán thuật, tướng thuật, võ thuật, vu thuật, vũ thuật, y thuật, yêu thuật, giả kim thuật",
-          "(khu vực hành chánh ngoài thành thời xưa)"
+          "thuật: mỹ thuật, ảo thuật, bí thuật, chiến thuật, học thuật, huyễn thuật, kĩ thuật, kiếm thuật, kĩ thuật, ma thuật, mĩ thuật, nghệ thuật, nhu thuật, pháp thuật, phòng trung thuật, phương thuật, quyền thuật, số thuật, tà thuật, tâm thuật, thủ thuật, thuật sĩ, thuật số, toán thuật, tướng thuật, võ thuật, vu thuật, vũ thuật, y thuật, yêu thuật, giả kim thuật",
+          "toại: (khu vực hành chánh ngoài thành thời xưa)"
         ]
       },
       "component": []
@@ -79295,13 +79445,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "động"
+          "động","đụng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "động vật, cơ động, phản động, dao động, cử động, động thủ, huy động"
+          "động: động vật, cơ động, phản động, dao động, cử động, động thủ, huy động",
+          "đụng: chung đụng, đánh đụng; đụng chạm, đụng đầu, đụng độ"
         ]
       },
       "component": []
@@ -82471,8 +82622,8 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "chờn",
-          "chồng"
+          "chồng",
+          "chờn"
         ],
         "yue": []
       },
@@ -84371,7 +84522,6 @@
       "char": "街",
       "unicode": "8857",
       "synonym": [
-        ""
       ],
       "antonym": [],
       "reading": {
@@ -84385,6 +84535,63 @@
         "vi": [
           "nhai: nhai phường, nhai đạo, sung nhai, cuốn nhai",
           "nhây: giỡn nhây, nhây đùa"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "佳",
+      "unicode": "4F73",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "giai"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "giai nhân, giai thoại, giai cảnh"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "階",
+      "unicode": "968E",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "giai"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "giai đoạn, giai cấp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "偕",
+      "unicode": "5055",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "giai"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bách niên giai lão"
         ]
       },
       "component": []
@@ -86529,7 +86736,7 @@
       },
       "meaning": {
         "vi": [
-          "(ra hoa, nở hoa; đẹp đẽ; giỏi; xuất xác), ưu tú, thanh tú, tuấn tú, 信長 muốn cám ơn người chú đáng quý 平手政秀"
+          "(ra hoa, nở hoa; đẹp đẽ; giỏi; xuất xác), ưu tú, thanh tú, tuấn tú, cám ơn người chú đáng quý 平手政秀"
         ]
       },
       "component": []
