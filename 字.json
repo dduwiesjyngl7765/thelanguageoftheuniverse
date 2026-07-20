@@ -73525,6 +73525,42 @@
       "component": []
     },
     {
+      "char": "腔",
+      "unicode": "8154",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xăng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lăng xăng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "涳",
+      "unicode": "6DB3",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xăng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "xăng dầu, trạm xăng, cây xăng"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "漊",
       "unicode": "6F0A",
       "synonym": [],
