@@ -1006,6 +1006,42 @@
       "component": []
     },
     {
+      "char": "𢙲",
+      "unicode": "22672",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lỡ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lỡ làng, lầm lỡ, lỡ như"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠒦",
+      "unicode": "204A6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rỡ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "mừng rỡ, rực rỡ"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "唻",
       "unicode": "553B",
       "synonym": [],
@@ -16767,7 +16803,7 @@
       },
       "meaning": {
         "vi": [
-          "rực cháy"
+          "rực cháy, rực lửa, rực rỡ"
         ]
       },
       "component": []
@@ -24626,7 +24662,7 @@
       },
       "meaning": {
         "vi": [
-          "thế: thế giới, thế thời, một thế, sanh sanh thế thế, thế nào cơ, thế thôi, như thế, thế kỉ"
+          "thế giới, thế thời, một thế, sanh sanh thế thế, thế nào cơ, thế thôi, như thế, thế kỉ"
         ]
       },
       "component": []
@@ -27868,7 +27904,7 @@
       },
       "meaning": {
         "vi": [
-          "(tiếc rẻ, hối tiếc, tham luyến; hẹp hòi, bủn xỉn), bất lận, bỉ lận, gian lận, lận sắc, lận đận, lận lưng, số lận đận, bí kíp lận lưng, vốn lận lưng, lận vô trong bụng"
+          "(tiếc rẻ, hối tiếc, tham luyến; hẹp hòi, bủn xỉn), đánh lận, bất lận, bỉ lận, gian lận, lận sắc, lận đận, lận lưng, số lận đận, bí kíp lận lưng, vốn lận lưng, lận vô trong bụng"
         ]
       },
       "component": []
@@ -40999,13 +41035,13 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "cớ"
+          "cố"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "duyên cớ, cớ sao"
+          "cố sự, cố nhân"
         ]
       },
       "component": []
@@ -53760,13 +53796,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "quan"
+          "quan","quán"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "quan sát"
+          "quan: quan sát, Quan Thế Âm Bồ Tát",
+          "quán: quán sát, Quán Thế Âm Bồ Tát"
         ]
       },
       "component": []
@@ -63758,8 +63795,8 @@
       },
       "meaning": {
         "vi": [
-          "lầm lỗi, hiểu lầm, sai lầm, lầm lỡ, lầm lẫn",
-          "nhầm lẫn, nhầm tưởng"
+          "lầm: lầm lỗi, hiểu lầm, sai lầm, lầm lỡ, lầm lẫn",
+          "nhầm: nhầm lẫn, nhầm tưởng"
         ]
       },
       "component": []
@@ -68173,13 +68210,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "hạt"
+          "hạt","hột"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "hạt mít, hạt cây, hạt đậu phộng"
+          "hạt: hạt mít, hạt cây, hạt đậu phộng",
+          "hột: hột mít, hột cây, hột đậu phộng"
         ]
       },
       "component": []
@@ -72750,6 +72788,43 @@
       "component": []
     },
     {
+      "char": "𧙈",
+      "unicode": "27648",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tờ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tờ báo, tờ giấy"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "祠",
+      "unicode": "7960",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "từ","tờ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "từ: (miếu thờ thần, nhà thờ; cúng tế), dâm từ (đền thờ vị thần tham thú vui xác thịt), linh từ, sanh từ, từ chúc, từ đường, văn từ, vọng từ",
+          "tờ: lặng như tờ (im lặng như chỗ cái miếu)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "似",
       "unicode": "4F3C",
       "synonym": [],
@@ -72766,11 +72841,11 @@
       },
       "meaning": {
         "vi": [
-          "tựa hồ như, tựa như, tựa hồ, từa tựa",
-          "từa tựa",
-          "tợ hồ như, tợ như",
-          "tương tự, tự đích (nào khác chi)",
-          "tờ tợ"
+          "tựa: tựa hồ như, tựa như, tựa hồ, từa tựa",
+          "từa: từa tựa",
+          "tợ: tợ hồ như, tợ như",
+          "tự: tương tự, tự đích (nào khác chi)",
+          "tờ: tờ tợ"
         ]
       },
       "component": []
@@ -76997,8 +77072,8 @@
       },
       "meaning": {
         "vi": [
-          "tương phùng, hỗ tương, tương bán, tương đắc (lòng dạ hạp nhau), tương đối, tương đồng, tương đương, tương giao, tương khắc, tương kì, tương kiến, tương ngộ, tương đương, tương phản, tương thân, tương quan, tương tri, tương trợ, tương truyền, tương tự, tương tư, tương ứng, tương xứng",
-          "cái tướng, tướng người, ẩn tướng, chân tướng, dị tướng, nội tướng, pháp tướng, quý tướng, sắc tướng, tướng mạo, tướng thuật, tướng số, tốt tướng"
+          "tương: tương phùng, hỗ tương, tương bán, tương đắc (lòng dạ hạp nhau), tương đối, tương đồng, tương đương, tương giao, tương khắc, tương kì, tương kiến, tương ngộ, tương đương, tương phản, tương thân, tương quan, tương tri, tương trợ, tương truyền, tương tự, tương tư, tương ứng, tương xứng",
+          "tướng: cái tướng, tướng người, ẩn tướng, chân tướng, dị tướng, nội tướng, pháp tướng, quý tướng, sắc tướng, tướng mạo, tướng thuật, tướng số, tốt tướng"
         ]
       },
       "component": []
@@ -77190,15 +77265,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "thế",
-          "xây"
+          "xây",
+          "thế"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "thế (trát hồ lên vải)",
-          "xây nhà, xây lâu đài cát, xây dựng"
+          "xây: xây nhà, xây lâu đài cát, xây dựng",
+          "thế: thế (trát hồ lên vải)"
         ]
       },
       "component": []
@@ -77662,6 +77737,42 @@
       "component": []
     },
     {
+      "char": "裟",
+      "unicode": "88DF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "áo cà sa"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "袈",
+      "unicode": "8888",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cà"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "áo cà sa"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "紀",
       "unicode": "7D00",
       "synonym": [],
@@ -77697,8 +77808,8 @@
       },
       "meaning": {
         "vi": [
-          "bàn hu, oanh hu",
-          "bàn vu (quanh co, khúc khuỷu), quanh vu (quanh co, khúc khuỷu), vu vơ, suy nghĩ vu vơ"
+          "hu: bàn hu, oanh hu",
+          "vu: bàn vu (quanh co, khúc khuỷu), quanh vu (quanh co, khúc khuỷu), vu vơ, suy nghĩ vu vơ"
         ]
       },
       "component": []
@@ -80357,15 +80468,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "trùng",
-          "trọng"
+          "trọng",
+          "trùng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "trùng trùng điệp điệp, trùng dương, trùng phùng",
-          "(nặng), xem trọng, kính trọng, khinh trọng, trọng giá, trọng quyền, trang trọng"
+          "(nặng), xem trọng, kính trọng, khinh trọng, trọng giá, trọng quyền, trang trọng",
+          "trùng trùng điệp điệp, trùng dương, trùng phùng"
         ]
       },
       "component": []
