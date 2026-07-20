@@ -11008,6 +11008,24 @@
       "component": []
     },
     {
+      "char": "𨀞",
+      "unicode": "2801E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tuột"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tuột xuống, tuột đi"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𡀫",
       "unicode": "2102B",
       "synonym": [],
@@ -71492,8 +71510,8 @@
       },
       "meaning": {
         "vi": [
-          "bỏng ngô, bé bỏng",
-          "bóng ma, cái bóng, trái bóng đá, núp bóng"
+          "bỏng: bỏng ngô, bé bỏng, bị bỏng",
+          "bóng: bóng ma, cái bóng, trái bóng đá, núp bóng"
         ]
       },
       "component": []
