@@ -2,12 +2,12 @@
 
 This report lists 1 duplicate `char` values found in `collections` of `字.json`.
 
-## `𢬗` — 2 entries
+𢭺## `𢭺` — 2 entries
 
 ```json
 {
-  "char": "𢬗",
-  "unicode": "22B17",
+  "char": "𢭺",
+  "unicode": "22B7A",
   "synonym": [],
   "antonym": [],
   "reading": {
@@ -31,19 +31,21 @@ This report lists 1 duplicate `char` values found in `collections` of `字.json`
 
 ```json
 {
-  "char": "𢬗",
-  "unicode": "22B17",
+  "char": "𢭺",
+  "unicode": "22B7A",
   "synonym": [],
   "antonym": [],
   "reading": {
     "vi": [
-      "dồi"
+      "dẽ",
+      "dụi"
     ],
     "yue": []
   },
   "meaning": {
     "vi": [
-      "dồi vô, dồi bột làm bánh, miếng dồi, món dồi"
+      "dẽ: dẽ ngôi, dẽ tóc",
+      "dụi: dụi mắt"
     ]
   },
   "component": []
