@@ -865,6 +865,24 @@
       "component": []
     },
     {
+      "char": "缺",
+      "unicode": "7F3A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khuyết"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(sứt, mẻ; thiếu sót; để trống, vắng; suy vi, suy nhược), khiếm khuyết, trăng khuyết, khuyết danh, khuyết điểm, tàn khuyết, viên khuyết (tròn và thiếu đi)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "去",
       "unicode": "53BB",
       "synonym": [],
@@ -8325,9 +8343,7 @@
     {
       "char": "𡲫",
       "unicode": "21CAB",
-      "synonym": [
-        ""
-      ],
+      "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
@@ -10218,6 +10234,24 @@
       "component": []
     },
     {
+      "char": "𥆼",
+      "unicode": "251BC",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lé"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lé mắt, bị lé"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𠬠",
       "unicode": "20B20",
       "synonym": [],
@@ -11048,7 +11082,7 @@
       },
       "meaning": {
         "vi": [
-          "(bên ngoài; tỏ rõ, tuyên bố; họ ngoại; gương mẫu, chuẩn mực), tờ biểu, biểu cách, biểu lộ, biểu dương, biểu diễn, biểu hiện, biểu quyết, biểu thị, biểu tình, biểu trưng, biểu muội, biểu tượng, đại biểu, thời biểu, thời khóa biểu"
+          "(bên ngoài; tỏ rõ, tuyên bố; họ ngoại; gương mẫu, chuẩn mực), tờ biểu, biểu cách, biểu lộ, biểu dương, biểu diễn, biểu hiện, biểu quyết, biểu thị, biểu tình, biểu trưng, biểu muội, biểu tượng (hình ảnh hiện ra bên ngoài hoặc hiện lên trong nội tâm; điềm triệu, trưng triệu; tương trưng, tiêu chí; ấn tượng đã qua hiện trở lại trong đầu óc), đại biểu, thời biểu, thời khóa biểu"
         ]
       },
       "component": []
@@ -11760,6 +11794,25 @@
       "meaning": {
         "vi": [
           "nhộn nhịp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "掛",
+      "unicode": "639B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "quải","quãi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "quải: (treo lên; nhớ, nghĩ; đội, đeo; ghi vào sổ; đặt máy điện thoại xuống; bắt điện thoại; chết), quải đồ, quải cái giỏ",
+          "quãi: quãi đồ, quãi cái giỏ"
         ]
       },
       "component": []
@@ -23634,6 +23687,24 @@
       "component": []
     },
     {
+      "char": "𧷸",
+      "unicode": "27DF8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "mua"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "mua bán, mua hàng, mua rẻ bán đắt"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𦟣",
       "unicode": "267E3",
       "synonym": [],
@@ -30291,6 +30362,24 @@
       "meaning": {
         "vi": [
           "cơn hươu, hươu cao cổ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "甩",
+      "unicode": "7529",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "súy","suất"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(vung lên; ném đi; bỏ rơi), súy mại"
         ]
       },
       "component": []
@@ -59680,6 +59769,25 @@
       "component": []
     },
     {
+      "char": "甓",
+      "unicode": "7513",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bích","bịch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bích: (viên gạch to)",
+          "bịch: lố bịch, bồ bịch, cái bịch ni lông, đá cái bịch"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "徧",
       "unicode": "5FA7",
       "synonym": [],
@@ -60144,7 +60252,7 @@
       },
       "meaning": {
         "vi": [
-          "mãi mãi, khuyến mãi"
+          "(mua), mãi mãi, khuyến mãi"
         ]
       },
       "component": []
@@ -78571,6 +78679,24 @@
       "component": []
     },
     {
+      "char": "順",
+      "unicode": "9806",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thuận"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(suôn sẻ; thuận theo, hàng phục; xuôi), Bình Thuận, cung thuận, hiếu thuận, hòa thuận, Thuận Hóa, thuận hòa, thuận khẩu, thuận lợi, thuận phong, thuận tiện, thuận tình, thuận tự (hài hòa, không rối loạn; thứ tự; thuận lợi, tốt đẹp)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "墩",
       "unicode": "58A9",
       "synonym": [],
@@ -82110,13 +82236,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "ủ"
+          "ủ","ổ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "ủ rũ, ấp ủ, ủ phân"
+          "ủ: ủ rũ, ấp ủ, ủ phân",
+          "ổ: (lô cốt phòng giặc cướp; núi trong nước), thôn ổ (nơi làng xóm quê mùa), ổ khóa, cái ổ"
         ]
       },
       "component": []
@@ -86951,6 +87078,25 @@
       "component": []
     },
     {
+      "char": "稱",
+      "unicode": "7A31",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xưng","xứng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "xưng: (gọi bằng, gọi là, xưng là; cân; nói; khen ngợi; tự nhận, tự phong; dấy lên, cử; danh hiệu; thanh danh, danh tiếng), xưng tên, xưng là, khiêm xưng, xưng đế, xưng hiệu, xưng hô",
+          "xứng: (vừa, hợp với; thích hợp, thích đáng), đối xứng, tương xứng, xứng đáng, xứng chức, xứng tâm, xứng ý"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "敔",
       "unicode": "6554",
       "synonym": [],
@@ -89152,6 +89298,24 @@
       "component": []
     },
     {
+      "char": "躼",
+      "unicode": "8EBC",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trườn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trườn bò, trườn tới"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𪖫",
       "unicode": "2A5AB",
       "synonym": [],
@@ -89959,6 +90123,24 @@
       "component": []
     },
     {
+      "char": "𡂈",
+      "unicode": "21088",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "vọc","giọc","dọc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "vọc vạch, vọc đồ, vọc chơi"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "音",
       "unicode": "97F3",
       "synonym": [],
@@ -90039,6 +90221,24 @@
       "component": []
     },
     {
+      "char": "鱟",
+      "unicode": "9C5F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hấu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(loại cua lớn ở Alaska)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "鸌",
       "unicode": "9E0C",
       "synonym": [],
@@ -90092,6 +90292,25 @@
         "vi": [
           "tích: (thứ vải mịn)",
           "rợ: dây rợ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𦯬",
+      "unicode": "26BEC",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dưa","đồ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dưa: dưa hấu, rau dưa, dưa cải",
+          "đồ: (loại rau đắng)"
         ]
       },
       "component": []
@@ -90650,8 +90869,8 @@
       },
       "meaning": {
         "vi": [
-          "bính sư (người bán bánh), bính can (bánh bích quy), thiết bính (bánh sắt lực sĩ ném xa), đậu bính (bánh đậu), họa bính (cái bánh vẽ ra nhìn cho đỡ đói), chưng bính (bánh bột hấp)",
-          "người bán bán, bánh sắt, bánh đậu, bánh vẽ, bánh chưng"
+          "bính: bính sư (người bán bánh), bính can (bánh bích quy), thiết bính (bánh sắt lực sĩ ném xa), đậu bính (bánh đậu), họa bính (cái bánh vẽ ra nhìn cho đỡ đói), chưng bính (bánh bột hấp)",
+          "bánh: người bán bánh, bánh sắt, bánh đậu, bánh vẽ, bánh chưng"
         ]
       },
       "component": []
