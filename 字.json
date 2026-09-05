@@ -10896,7 +10896,7 @@
       },
       "meaning": {
         "vi": [
-          "bê bê (tiếng bê kêu)"
+          "bê bê (tiếng bê kêu), bê bối, bê tha"
         ]
       },
       "component": []
@@ -15324,7 +15324,7 @@
       "meaning": {
         "vi": [
           "dị: (dễ dàng, sơ sài, bình thường), giản dị",
-          "dịch: (thay đổi, biến đổi), biến dịch",
+          "dịch: (thay đổi, biến đổi), biến dịch, dịch chuyển",
           "dễ: dễ dàng, dễ mến, dễ thương"
         ]
       },
@@ -20894,6 +20894,24 @@
       "component": []
     },
     {
+      "char": "搛",
+      "unicode": "641B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "gom"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "gom góp, gom lại, gom tiền"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𦁺",
       "unicode": "2607A",
       "synonym": [],
@@ -23736,6 +23754,24 @@
       "meaning": {
         "vi": [
           "be bờ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𫤡",
+      "unicode": "2B921",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lòa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "sáng lòa, chói lòa, lòa mắt"
         ]
       },
       "component": []
@@ -60125,7 +60161,7 @@
       },
       "meaning": {
         "vi": [
-          "(bộ bối), bảo bối, bối tử (vật quý báu - bảo bối), bối xác (vỏ ngao vỏ hến - ngày xưa dụng làm tiền), bối rối, (vật quý; con sò con hến; tiền tệ)"
+          "(bộ bối), bảo bối, bối tử (vật quý báu - bảo bối), bối xác (vỏ ngao vỏ hến - ngày xưa dụng làm tiền), bối rối, bê bối, (vật quý; con sò con hến; tiền tệ)"
         ]
       },
       "component": []
@@ -75294,6 +75330,24 @@
       "component": []
     },
     {
+      "char": "𢏑",
+      "unicode": "223D1",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bắn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bắn súng, bắn tên"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "繃",
       "unicode": "7E43",
       "synonym": [],
@@ -86710,19 +86764,38 @@
       "component": []
     },
     {
+      "char": "輩",
+      "unicode": "8F29",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bối"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(lũ, bọn, chúng; hàng xe, dãy xe; ví, so sánh; thế hệ, lớp người; hạng, lớp), bối hàng, bối tác, bối xuất (liên tục xuất hiện), lão bối, hậu bối, tiền bối, ngã bối (bọn ta, chúng ta)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "背",
       "unicode": "80CC",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "bội"
+          "bội","bối"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "bội phản, bội thực, phản bội"
+          "bội: bội phản, bội thực, phản bội",
+          "bối: bối cảnh"
         ]
       },
       "component": []
@@ -88061,6 +88134,44 @@
       "meaning": {
         "vi": [
           "giun sán, bệnh sán"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "咐",
+      "unicode": "5490",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phó","phù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phó: phân phó (dặn dò)",
+          "phù: (hà hơi), thổi cái phù, gió thổi phù phù, phù phù"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "吩",
+      "unicode": "5429",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phân","phàn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phân: phân phó (dặn dò)",
+          "phàn: phàn nàn, phàn phiền"
         ]
       },
       "component": []
