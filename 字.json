@@ -11818,6 +11818,43 @@
       "component": []
     },
     {
+      "char": "𬈎",
+      "unicode": "2C20E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khỏa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khỏa chân cho sạch"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "裸",
+      "unicode": "88F8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khỏa","khõa","lõa","lỏa","quán"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khỏa: (lộ ra, hiện ra; trần truồng; ở trần), khỏa thể, lõa lồ",
+          "quán: (rưới rượu cúng thần)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "掛",
       "unicode": "639B",
       "synonym": [],
