@@ -945,14 +945,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "hứ",
+          "khư",
           "khứa"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "hứ: hấm hứ, hứ hừ, hứ!",
+          "khư: khư khư, giữ khư khư",
           "khứa: khấn khứa"
         ]
       },
@@ -2419,6 +2419,25 @@
       "meaning": {
         "vi": [
           "quả sấu, cây sấu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "巢",
+      "unicode": "5DE2",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sào"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(tổ chim, ổ), sào cư, sào huyệt, sào phủ, sào xa (tên một thứ xe dùng trong quân đội thời cổ)"
         ]
       },
       "component": []
@@ -51582,6 +51601,42 @@
       "component": []
     },
     {
+      "char": "笛",
+      "unicode": "7B1B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "địch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái sáo - để thổi)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "敵",
+      "unicode": "6575",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "địch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(kẻ thù, giặc; chống cự), địch thủ, đối địch, địch lại"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "爻",
       "unicode": "723B",
       "synonym": [],
@@ -59017,7 +59072,7 @@
       },
       "meaning": {
         "vi": [
-          "(cắt áo, rọc, xén; thể chế, cách thức, lối, loại; quyết đoán, phán đoán), chế tài, độc tài, tài binh, tài chế, tài định, tài đoạt, tài khả, tài phán, tài quyết, tài triệt, tài xử, tâm tài, thể tài, trọng tài"
+          "(cắt áo, rọc, xén; thể chế, cách thức, lối, loại; quyết đoán, phán đoán), chế tài, độc tài, tài binh, tài chế, tài định, tài đoạt, tài khả, tài phán, tài quyết, tài triệt, tài xử, tâm tài, thể tài, trọng tài, tài khoản"
         ]
       },
       "component": []
@@ -86372,6 +86427,43 @@
       "component": []
     },
     {
+      "char": "總",
+      "unicode": "7E3D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tông","tổng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tông: (lụa dệt bằng tơ)",
+          "tổng: (thâu tóm; chung, toàn bộ; buộc túm lại), cai tổng, chánh tổng, tổng binh, tổng bộ, tổng chi, tổng đốc, tổng kết, tổng hợp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "綜",
+      "unicode": "7D9C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tông","tống","tổng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(dệt lẫn lộn với nhau; hợp cả lại), tống hợp"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "縱",
       "unicode": "7E31",
       "synonym": [],
@@ -88317,6 +88409,24 @@
       "component": []
     },
     {
+      "char": "鄧",
+      "unicode": "9127",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đặng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nước Đặng, họ Đặng, đặng mà, đặng làm, đi không đặng"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "蹬",
       "unicode": "8E6C",
       "synonym": [],
@@ -89384,8 +89494,8 @@
       },
       "meaning": {
         "vi": [
-          "lưỡi đòng (võ khí nhọn)",
-          "đồng bạc, đồng tiền, đồng cân"
+          "đồng: đồng bạc, đồng tiền, đồng cân",
+          "đòng: lưỡi đòng (võ khí nhọn)"
         ]
       },
       "component": []
@@ -91140,6 +91250,60 @@
       "meaning": {
         "vi": [
           "rau sam, cỏ sam"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𧃌",
+      "unicode": "270CC",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rạp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rậm rạp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠪸",
+      "unicode": "20AB8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rạp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rạp tuồng, rạp chiếu phim, che rạp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𫏦",
+      "unicode": "2B3E6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rạp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "quì rạp xuống"
         ]
       },
       "component": []
@@ -96168,6 +96332,24 @@
       "meaning": {
         "vi": [
           "phô mai"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "款",
+      "unicode": "6B3E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khoản"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bát khoản, điều khoản, giá khoản, khoản đãi, tài khoản"
         ]
       },
       "component": []
