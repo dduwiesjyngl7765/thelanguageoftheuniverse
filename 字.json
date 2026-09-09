@@ -5247,6 +5247,25 @@
       "component": []
     },
     {
+      "char": "𥳂",
+      "unicode": "25CC2",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lược"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lược chải đầu, cây lược"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "牜",
       "unicode": "725C",
       "synonym": [
@@ -5389,7 +5408,7 @@
       },
       "meaning": {
         "vi": [
-          "(qua loa, sơ sài; kế hoahcj; đại cương, trọng điểm, nét chánh; cương giới, địa vực; cai trị quản lí; cướp, chiếm; bỏ bớt, giảm bớt), binh lược, Binh Thư Yếu Lược, chiến lược, dũng lược, đại lược, đảm lược, giản lược, lược qua, lược bỏ, lược khảo, lược thao, phương lược, sách lược, sơ lược, sử lược, thao lược, ước lược, xâm lược, yếu lược"
+          "(qua loa, sơ sài; kế hoạch; đại cương, trọng điểm, nét chánh; cương giới, địa vực; cai trị quản lí; cướp, chiếm; bỏ bớt, giảm bớt), binh lược, Binh Thư Yếu Lược, chiến lược, dũng lược, đại lược, đảm lược, giản lược, lược qua, lược bỏ, lược khảo, lược thao, phương lược, sách lược, sơ lược, sử lược, thao lược, ước lược, xâm lược, yếu lược"
         ]
       },
       "component": []
@@ -11830,7 +11849,7 @@
       },
       "meaning": {
         "vi": [
-          "khỏa chân cho sạch"
+          "(nhúng xuống nước mà đưa đi đưa lại), khỏa chân cho sạch"
         ]
       },
       "component": []
@@ -26682,19 +26701,57 @@
       "component": []
     },
     {
+      "char": "𦛼",
+      "unicode": "266FC",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bênh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nằm bênh bênh"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "乒",
       "unicode": "4E52",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "binh"
+          "binh","ping"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "binh mày cái bây giờ, binh chết bà nó"
+          "binh: binh mày cái bây giờ, binh chết bà nó",
+          "ping: ping pong"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "乓",
+      "unicode": "4E53",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bong","pong"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bong: binh bong",
+          "pong: ping pong"
         ]
       },
       "component": []
@@ -57691,13 +57748,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "bình"
+          "bình","bềnh"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "萍蓬 bình bồng (bèo Nhựt Bổn), lục bình, phù bình (bèo trôi), (bèo)"
+          "bình: 萍蓬 bình bồng (bèo Nhựt Bổn), lục bình, phù bình (bèo trôi), (bèo)",
+          "bềnh: bồng bềnh, bềnh bồng"
         ]
       },
       "component": []
@@ -58311,7 +58369,7 @@
       },
       "meaning": {
         "vi": [
-          "cỏ bồng, họ bồng, bồng lai tiên cảnh"
+          "cỏ bồng, họ bồng, bồng lai tiên cảnh, bồng bềnh"
         ]
       },
       "component": []
@@ -75240,6 +75298,42 @@
       "component": []
     },
     {
+      "char": "嚀",
+      "unicode": "5680",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ninh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "đinh ninh (dặn dò kĩ càng; dặn đi dặn lại)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "寧",
+      "unicode": "5BE7",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ninh","trữ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(an toàn; thà, nên; há nào, lẽ nào; yên ổn), an ninh, ninh khả (sao được, làm thế nào được; đành phải, thà rằng)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "檸",
       "unicode": "6AB8",
       "synonym": [],
@@ -80862,8 +80956,8 @@
       },
       "meaning": {
         "vi": [
-          "truyền thụ, truyền thừa, lưu truyền, truyền đời, thất truyền, truyền vô, truyền vào, (ra lịnh kêu vô) truyền cho",
-          "truyện đọc"
+          "truyền: truyền thụ, truyền thừa, lưu truyền, truyền đời, thất truyền, truyền vô, truyền vào, (ra lịnh kêu vô) truyền cho",
+          "truyện: truyện đọc"
         ]
       },
       "component": []
@@ -81237,13 +81331,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "binh"
+          "binh","bênh"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "binh lính, binh lực"
+          "binh: binh lính, binh lực, binh vực",
+          "bênh: bênh vực, bấp bênh"
         ]
       },
       "component": []
@@ -82467,6 +82562,24 @@
       "component": []
     },
     {
+      "char": "丁",
+      "unicode": "4E01",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đinh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(con trai; người, đầu người; kẻ làm lụng, người giúp việc; cực ít, cực nhỏ), bạch đinh, bào đinh, cây Đinh Hương"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "創",
       "unicode": "5275",
       "synonym": [],
@@ -82502,8 +82615,8 @@
       },
       "meaning": {
         "vi": [
-          "kế hoạch, hoạch định, qui hoạch, câu hoạch, hoạch phân",
-          "vạch ra, vạch đường, vạch mặt"
+          "hoạch: kế hoạch, hoạch định, qui hoạch, câu hoạch, hoạch phân",
+          "vạch: vạch ra, vạch đường, vạch mặt"
         ]
       },
       "component": []
@@ -82521,7 +82634,7 @@
       },
       "meaning": {
         "vi": [
-          "đinh ninh (dặn bảo kỹ càng), nhớ đinh đinh, (kiến, ong,... đốt, chích; dặn đi dặn lại"
+          "đinh ninh (dặn bảo kỹ càng; dặn đi dặn lại nhiều lần), nhớ đinh đinh, (kiến, ong,... đốt, chích; dặn đi dặn lại"
         ]
       },
       "component": []
@@ -82618,8 +82731,8 @@
       },
       "meaning": {
         "vi": [
-          "hóa trang, biến hóa",
-          "kinh đô Huế"
+          "hóa: hóa học, hóa trang, biến hóa",
+          "huế: kinh đô Huế"
         ]
       },
       "component": []
@@ -83034,8 +83147,8 @@
       },
       "meaning": {
         "vi": [
-          "mùi vị",
-          "mùi vị, vị chua, vị ngọt, mĩ vị"
+          "vị: mùi vị",
+          "mùi: mùi vị, vị chua, vị ngọt, mĩ vị"
         ]
       },
       "component": []
@@ -87935,6 +88048,24 @@
       "component": []
     },
     {
+      "char": "脿",
+      "unicode": "813F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "béo"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "béo bở, béo tròn, béo ngậy"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "㖏",
       "unicode": "358F",
       "synonym": [],
@@ -89374,17 +89505,17 @@
       "antonym": [],
       "reading": {
         "vi": [
+          "đinh",
           "đính",
-          "đanh",
-          "đinh"
+          "đanh"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "cáo đinh, đinh sắt, cây đinh ba, nhìn đinh đinh (nhìn chăm chú)",
-          "đính khuy, đính đá, đính kim",
-          "cái đanh, đanh sắt, nhìn đanh đanh (nhìn chăm chú)"
+          "đinh: cáo đinh, đinh sắt, cây đinh ba, nhìn đinh đinh (nhìn chăm chú)",
+          "đính: đính khuy, đính đá, đính kim",
+          "đanh: cái đanh, đanh sắt, nhìn đanh đanh (nhìn chăm chú)"
         ]
       },
       "component": []
@@ -94922,7 +95053,97 @@
     {
       "char": "別",
       "unicode": "5225",
+      "synonym": ["别"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "biệt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "âm dương cách biệt, biệt đãi, biệt phái"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "哵",
+      "unicode": "54F5",
       "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bét"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "hạng bét, bét bảng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𥇂",
+      "unicode": "251C2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bét"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bét mắt"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𫊽",
+      "unicode": "2B2BD",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bét"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "con ve bét, ve bét cây"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𦛺",
+      "unicode": "266FA",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bét"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "be bét, bét rượu, nát bét"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "别",
+      "unicode": "522B",
+      "synonym": ["別"],
       "antonym": [],
       "reading": {
         "vi": [
