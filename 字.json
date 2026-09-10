@@ -28769,7 +28769,25 @@
     {
       "char": "刦",
       "unicode": "5226",
-      "synonym": [],
+      "synonym": ["刼"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "kiếp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "kiếp sống, (ăn cướp, tai họa), số kiếp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "刼",
+      "unicode": "523C",
+      "synonym": ["刦"],
       "antonym": [],
       "reading": {
         "vi": [
@@ -29038,6 +29056,25 @@
       "meaning": {
         "vi": [
           "bồng bột"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𡮊",
+      "unicode": "21B8A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dẹp","giẹp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dẹp: dẹp lép, dẹp xuống",
+          "giẹp: giẹp lép, giẹp xuống"
         ]
       },
       "component": []
@@ -38620,7 +38657,8 @@
       },
       "meaning": {
         "vi": [
-          "đặc công, đặc biệt"
+          "đặc: (con trâu đực; riêng biệt, đặc biệt, khác hẳn mọi thứ), đặc công, đặc biệt",
+          "đực: con đực, kiến đực, bò đực, trâu đực"
         ]
       },
       "component": []
@@ -57070,6 +57108,24 @@
       "component": []
     },
     {
+      "char": "廟",
+      "unicode": "5EDF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "miếu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "ngôi miếu, gia miếu, lăng miếu"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "苔",
       "unicode": "82D4",
       "synonym": [],
@@ -72410,6 +72466,24 @@
       "component": []
     },
     {
+      "char": "𤮗",
+      "unicode": "24B97",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lọ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chiếc lọ, cái lọ, lọ hoa, lọ thuốc"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "䠲",
       "unicode": "4832",
       "synonym": [],
@@ -74910,6 +74984,24 @@
       "component": []
     },
     {
+      "char": "薩",
+      "unicode": "85A9",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tát"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "Bồ Tát (chỉ bậc tu hành đắc đạo có thể cứu độ chúng sanh)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "摋",
       "unicode": "644B",
       "synonym": [],
@@ -74925,6 +75017,25 @@
         "vi": [
           "tát: tát mặt, (dùng bàn tay mà đánh, vả vô mặt)",
           "sát: (lẫn lộn, chà, cọ , mài, miết vô)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "撒",
+      "unicode": "6492",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tát","tản"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tát: (tung ra, buông ra, xòe ra), tát bố (phân rời ra, bày rải rác), tát thủ (buông tay)",
+          "tản: (như tát)"
         ]
       },
       "component": []
@@ -80544,8 +80655,8 @@
       },
       "meaning": {
         "vi": [
-          "cúng kiến, cúng bái, cúng tổ tiên, cúng đồ, đồ cúng",
-          "cung cấp, cung sự, khẩu cung, bức cung, chiêu cung, cung ứng, cung cầu, cung phụng, "
+          "cúng: cúng kiến, cúng bái, cúng tổ tiên, cúng đồ, đồ cúng",
+          "cung: cung cấp, cung sự, khẩu cung, bức cung, chiêu cung, cung ứng, cung cầu, cung phụng, "
         ]
       },
       "component": []
@@ -86227,6 +86338,42 @@
       "component": []
     },
     {
+      "char": "濟",
+      "unicode": "6FDF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tế","tể"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(giúp đỡ; làm được việc; cứu giúp; bến đò), chẩn tế, cứu tế, kinh tế, y tế, tế sự (xong việc)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "際",
+      "unicode": "969B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tế"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bên cạnh, bên bờ; giữa; dịp, lúc, trong khoảng), giao tế, quốc tế, thực tế, tế ngộ"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "鑼",
       "unicode": "947C",
       "synonym": [],
@@ -86334,8 +86481,8 @@
       },
       "meaning": {
         "vi": [
-          "tử tế (cẩn thận, tỉ mỉ), vi tế, tế bào, tế nhị",
-          "tỉ mỉ, tỉ tê"
+          "tế: tử tế (cẩn thận, tỉ mỉ), vi tế, tế bào, tế nhị",
+          "tỉ: tỉ mỉ, tỉ tê"
         ]
       },
       "component": []
@@ -88564,14 +88711,16 @@
       "reading": {
         "vi": [
           "lộ",
-          "lồ"
+          "lồ",
+          "lọ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "khổng lồ",
-          "xa lộ, đại lộ, con tỉnh lộ"
+          "lộ: xa lộ, đại lộ, con tỉnh lộ",
+          "lồ: khổng lồ",
+          "lọ: lọ là"
         ]
       },
       "component": []
@@ -94375,6 +94524,24 @@
       "meaning": {
         "vi": [
           "khiển trách, (lên án)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "揲",
+      "unicode": "63F2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dẹp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "dọn dẹp, dẹp giặc"
         ]
       },
       "component": []
