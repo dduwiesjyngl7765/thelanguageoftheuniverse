@@ -449,7 +449,7 @@
       },
       "meaning": {
         "vi": [
-          "(ngựa nhảy chồm lên; bốc lên; chạy, nhảy), đằng dũng, đằng ducojw, đằng đằng, đằng mã, đằng quý, đằng vân, đằng xà, hoan đằng, phiên đằng"
+          "(ngựa nhảy chồm lên; bốc lên; chạy, nhảy), đằng dũng, đằng đằng, đằng mã, đằng quý, đằng vân, đằng xà, hoan đằng, phiên đằng"
         ]
       },
       "component": []
@@ -2547,7 +2547,6 @@
       "char": "𥆾",
       "unicode": "251BE",
       "synonym": [
-        ""
       ],
       "antonym": [],
       "reading": {
@@ -3144,14 +3143,16 @@
       "reading": {
         "vi": [
           "nhân",
-          "nhơn"
+          "nhơn",
+          "nhìn"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "(bộ nhân), nhân khẩu, liệp nhân (thợ săn), (con người), thuyết nhân vị, nhân loại, nhân dân, quái nhân, nhân ngư",
-          "(bộ nhơn), nhơn khẩu, liệp nhơn (thợ săn), (con người), thuyết nhơn vị, nhơn loại, nhơn dân, quái nhơn, nhơn ngư"
+          "(bộ nhơn), nhơn khẩu, liệp nhơn (thợ săn), (con người), thuyết nhơn vị, nhơn loại, nhơn dân, quái nhơn, nhơn ngư",
+          "(bộ nhìn), con bù nhìn"
         ]
       },
       "component": []
@@ -34752,15 +34753,13 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "bồi",
           "bụi"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "bụi: bãi bồi",
-          "bụi: khói bụi, bụi bặm, bụi đời, bụi trần, túi bụi, gió bụi, mưa bụi"
+          "khói bụi, bụi bặm, bụi đời, bụi trần, túi bụi, gió bụi, mưa bụi"
         ]
       },
       "component": []
@@ -49011,6 +49010,25 @@
       "component": []
     },
     {
+      "char": "撟",
+      "unicode": "649F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "kiều","kiểu","kiệu","kèo"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "kiểu: (uốn cho cong lên; nắn cho ngay lại; duỗi ra), kiểu chích (sửa sang)",
+          "kèo: kèo nhèo, giao kèo, lật kèo"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "橘",
       "unicode": "6A58",
       "synonym": [],
@@ -49679,6 +49697,44 @@
       "component": []
     },
     {
+      "char": "振",
+      "unicode": "632F",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chấn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(rung động; cứu giúp; phấn khởi; chấn chỉnh; vang dội; thu nhận; thôi, dừng lại), chấn bút (vẫy bút), chấn hưng, chấn khởi, chấn phát (bùng nổ; hiển dương)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "震",
+      "unicode": "9707",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chấn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(sét đánh; rung động; đặc chỉ động đất; nổi giận), chấn hách, chấn hãn, chấn phong, chấn phục, dư chấn, địa chấn, lôi chấn, phấn chấn"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "䓬",
       "unicode": "44EC",
       "synonym": [
@@ -49692,6 +49748,63 @@
       },
       "meaning": {
         "vi": [
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "䄫",
+      "unicode": "412B",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ré"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(lúa mùa hạt đốm đen)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "鎮",
+      "unicode": "93AE",
+      "synonym": ["鎭"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trấn","chấn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trấn: (canh giữ; gốc rễ; chỗ chợ triền đông đúc; núi lớn; khu vực hành chánh ở dưới huyện; áp chế, đàn áp, canh giữ; làm cho yên, an định; ướp lạnh; hết, cả), hiệp trấn, phiên trấn, tập trấn, trấn áp, trấn giữ, trấn định, trấn nhiệm, trấn lại, trấn yểm",
+          "chấn: (như trấn), chấn lại"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "鎭",
+      "unicode": "93AD",
+      "synonym": ["鎮"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trấn","chấn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trấn: (canh giữ; gốc rễ; chỗ chợ triền đông đúc; núi lớn; khu vực hành chánh ở dưới huyện; áp chế, đàn áp, canh giữ; làm cho yên, an định; ướp lạnh; hết, cả), hiệp trấn, phiên trấn, tập trấn, trấn áp, trấn giữ, trấn định, trấn nhiệm, trấn lại, trấn yểm",
+          "chấn: (như trấn), chấn lại"
         ]
       },
       "component": []
@@ -50946,7 +51059,7 @@
       },
       "meaning": {
         "vi": [
-          "đậm sâu"
+          "đậm sâu, đậm đen"
         ]
       },
       "component": []
@@ -51001,6 +51114,26 @@
       "meaning": {
         "vi": [
           "minh mông (mưa nhỏ)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "蕩",
+      "unicode": "8569",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đãng","đảng","đẵng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "đãng: (đu đưa, đánh đu; chèo thuyền; rửa, súc; làm hết sạch), bá đãng, bản đãng, cuồng đãng, dâm đãng, du đãng, động đãng (rung động, chấn động; bồn chồn, băn khoăn), động đãng, hoang đãng, phiêu đãng, phóng đãng, quang đãng",
+          "đảng: (như đãng)",
+          "đẵng: dài đằng đẵng"
         ]
       },
       "component": []
@@ -52063,6 +52196,99 @@
       "component": []
     },
     {
+      "char": "濯",
+      "unicode": "6FEF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạc","trạo"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "trạc: (giặt giũ, rửa), trạc trạc (sáng tỏ)",
+          "trạo: (mái chèo)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "濡",
+      "unicode": "6FE1",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhu","nhi","nhuyên"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nhu: (thấm ướt; chậm trễ, đình trệ; tập quen; ẩm ướt; cam chịu, chịu đựng), nhu hào, nhu nhẫn, nhu nhiễm, nhu trệ, trạch nhu, triêm nhu",
+          "nhuyên: sông Nhuyên thủy",
+          "nhi: sông Nhi thủy"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "澤",
+      "unicode": "6FA4",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái đầm; ân huệ, lộc; phong khí cùng việc làm hay của người trước còn lại; áo lót mình; thấm ướt, thấm nhuần; mân mê; nhẵn, bóng), vũ trạch (mưa thấm), ân trạch (chỉ cái ân lớn như mưa nhuần tưới cỏ), huệ trạch (cái ơn), sắc trạch, trạch điền, trạch nhu (ơn huệ như nước thấm vào)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "擇",
+      "unicode": "64C7",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(chọn lựa; phân biệt, khác biệt), trạch phối, tuyển trạch, trạch giao (chọn bạn mà chơi)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𥭌",
+      "unicode": "25B4C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cái trạc, trạc bát, trạc đĩa, trạc chén"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "狂",
       "unicode": "72C2",
       "synonym": [],
@@ -52094,7 +52320,7 @@
       },
       "meaning": {
         "vi": [
-          "bát địch, di địch, (con nai lớn; mọi phương bắc; quan dưới)"
+          "bát địch, di địch, (con nai lớn; mọi phương bắc; quan dưới), (một giống dân ở phương Bắc Trung Quốc), người Địch, Bắc Địch"
         ]
       },
       "component": []
@@ -54396,19 +54622,40 @@
       "component": []
     },
     {
+      "char": "踔",
+      "unicode": "8E14",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xợt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "đi xợt qua, xợt qua"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "跌",
       "unicode": "8DCC",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "trật"
+          "trật","trặc","trượt","xợt"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "trầy trật, trật té, thi trật"
+          "trật: (ngã; đi mau; đè nén; sụt giá; sai lầm), trầy trật, trật té, thi trật",
+          "trặc: trặc khớp, trặc té",
+          "trượt: trượt băng, thi trượt, trượt té",
+          "xợt: xợt đầu gối"
         ]
       },
       "component": []
@@ -57209,6 +57456,24 @@
       "meaning": {
         "vi": [
           "gian khổ, gian nan"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "拀",
+      "unicode": "62C0",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khoanh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khoanh tay, khoanh lại"
         ]
       },
       "component": []
@@ -61293,7 +61558,7 @@
       },
       "meaning": {
         "vi": [
-          "từ điển; cáo từ"
+          "từ điển, từ vựng, cáo từ"
         ]
       },
       "component": []
@@ -65427,7 +65692,7 @@
     {
       "char": "麪",
       "unicode": "9EAA",
-      "synonym": [],
+      "synonym": ["麵"],
       "antonym": [],
       "reading": {
         "vi": [
@@ -66030,6 +66295,24 @@
       "meaning": {
         "vi": [
           "chó sủa, sủa gâu gâu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "㕽",
+      "unicode": "357D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ré"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cười ré lên, ré lên, kêu ré"
         ]
       },
       "component": []
@@ -68242,6 +68525,42 @@
       "meaning": {
         "vi": [
           "nhác thấy (nhìn thoáng qua), nhác trông (nhìn thoáng qua)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "岳",
+      "unicode": "5CB3",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhạc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(thuộc về vợ; núi lớn), nhạc gia (bên nhà vợ; cha vợ), nhạc mẫu, nhạc phụ, nhạc trượng (cha vợ)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𢖺",
+      "unicode": "225BA",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "nhác"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lười nhác, biếng nhác"
         ]
       },
       "component": []
@@ -71289,6 +71608,43 @@
       "component": []
     },
     {
+      "char": "杖",
+      "unicode": "6756",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tráng","trượng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tráng: (gậy chống; chỉ chung gậy, gộc; cầm, giữ; tựa, dựa vào, trông cậy; đánh khảo)",
+          "trượng: (như tráng), ban trượng (cây gậy chống của người già), quyền trượng, sách trượng, thiền trượng, cây trượng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "丈",
+      "unicode": "4E08",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trượng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(đơn vị đo; già cả; dượng), công trượng, di trượng, đại trượng phu, lão trượng, nhạc trượng (cha vợ), trượng nhân (người lớn tuổi)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "嚄",
       "unicode": "5684",
       "synonym": [],
@@ -72305,6 +72661,24 @@
       "component": []
     },
     {
+      "char": "咜",
+      "unicode": "549C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đờ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cứng đờ, đờ đẫn, lờ đờ, đờ người"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𪁭",
       "unicode": "2A06D",
       "synonym": [],
@@ -72329,13 +72703,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "bồ"
+          "bồ","bù"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "(cói, lác), đất Bồ, cỏ bồ, bồ công anh, bồ đoàn (cái gối tròn làm bằng cói, để các vị tăng quì gồi lên cho êm mà tụng kinh), bồ kiếm, bồ phiến, bồ phục, bồ thảo, bồ tiên, bồ xa, liễu bồ, xương bồ"
+          "bồ: (cói, lác), đất Bồ, cỏ bồ, bồ công anh, bồ đoàn (cái gối tròn làm bằng cói, để các vị tăng quì gồi lên cho êm mà tụng kinh), bồ kiếm, bồ phiến, bồ phục, bồ thảo, bồ tiên, bồ xa, liễu bồ, xương bồ, bồ nhìn",
+          "bù: bù nhìn, bù lu bù loa"
         ]
       },
       "component": []
@@ -75028,7 +75403,7 @@
       },
       "meaning": {
         "vi": [
-          "tiễn về trời, tiễn cho hết"
+          "đưa tiễn, tiễn đi"
         ]
       },
       "component": []
@@ -79076,8 +79451,84 @@
       },
       "meaning": {
         "vi": [
-          "dõi theo",
-          "soi rọi, rọi đèn, chiếu rọi"
+          "dõi: dõi theo",
+          "rọi: soi rọi, rọi đèn, chiếu rọi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𢯒",
+      "unicode": "22BD2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bóp","bọp","vọp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bóp: bóp trán, bóp cổ",
+          "bọp: bọp bẹp",
+          "vọp: vọp bẻ (chuột rút)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "芣",
+      "unicode": "82A3",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phù","búp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phù: cỏ phù dĩ",
+          "búp: chè búp, búp măng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "苡",
+      "unicode": "82E1",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dĩ"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cỏ phù dĩ, cỏ ý dĩ (một thứ cỏ có quả, trong có nhân trắng dùng nấu cháo ăn và làm thuốc)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠶙",
+      "unicode": "22BD2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bốp","bộp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bốp: bốp chát, đấm bốp",
+          "bộp: bộp chộp"
         ]
       },
       "component": []
@@ -84592,8 +85043,45 @@
       },
       "meaning": {
         "vi": [
-          "cũn cỡn, lũn cũn",
-          "ngổn ngang, lổn ngổn"
+          "ngổn: ngổn ngang, lổn ngổn",
+          "cũn: cũn cỡn, lũn cũn"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "賠",
+      "unicode": "8CE0",
+      "synonym": ["陪"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bồi","bù"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bồi: bồi thường, bồi khoản, bao bồi (bảo đảm bồi thường lại tất cả)",
+          "bù: bù đắp, đền bù, bù qua sớt lại"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "陪",
+      "unicode": "966A",
+      "synonym": ["賠"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bồi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(theo bên; tiếp khách; gò đất chồng chất; hai lần, chồng chất; giúp đỡ, phụ trợ), bồi bàn, bồi tân, bồi thẩm (người phụ việc xét xử vụ án), bồi thẩm đoàn, bồi tịch (cùng tham dự yến tiệc), bồi tọa (ngồi bên cạnh tiếp đãi), bồi đắp, bồi đắp phù sa, bãi bồi, đất bồi"
         ]
       },
       "component": []
@@ -84912,8 +85400,8 @@
       },
       "meaning": {
         "vi": [
-          "lữa cháy, bắt lữa, lữa hồng",
-          "lửa cháy, bắt lửa, lửa hồng"
+          "lửa: lửa cháy, bắt lửa, lửa hồng",
+          "lữa: lữa cháy, bắt lữa, lữa hồng"
         ]
       },
       "component": []
@@ -84933,9 +85421,9 @@
       },
       "meaning": {
         "vi": [
-          "(sấy, hơ lửa)",
-          "vùi lửa",
-          "bội can (hong khô)"
+          "bồi: (sấy, hơ lửa)",
+          "bội: bội can (hong khô)",
+          "vùi: vùi lửa"
         ]
       },
       "component": []
@@ -87719,8 +88207,8 @@
       },
       "meaning": {
         "vi": [
-          "(húng dỗi), hột é, nước hột é",
-          "ý di (một loại hạt)"
+          "é: (húng dỗi), hột é, nước hột é",
+          "ý: cỏ ý dĩ (một thứ cỏ có quả, trong có nhân trắng dùng nấu cháo ăn và làm thuốc)"
         ]
       },
       "component": []
@@ -90597,8 +91085,8 @@
       },
       "meaning": {
         "vi": [
-          "tròn trặn",
-          "trận chiến, một trận"
+          "trận: trận chiến, một trận",
+          "trặn: tròn trặn"
         ]
       },
       "component": []
@@ -91363,7 +91851,7 @@
       },
       "meaning": {
         "vi": [
-          "mọi rợ, man di mọi rợ, rợ Nguyên"
+          "mọi rợ, man di mọi rợ"
         ]
       },
       "component": []
@@ -92692,6 +93180,44 @@
       "meaning": {
         "vi": [
           "bao bọc, bọc lại, đánh đường bọc hậu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "渤",
+      "unicode": "6E24",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bột","bọt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bột: (vũng bể), bột giải, Bột Hải (tên một vùng quê phía bắc Trung Quốc)",
+          "bọt: bọt biển, nổi bọt"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "澥",
+      "unicode": "6FA5",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "giải","hải"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "giải: (biển lấn vào trong đất liền; thêm nước vào hồ hay keo cho loãng ra), bột giải (vũng bể, chỗ bể chia nhánh khác)",
+          "hải: (con sông, nhánh sông)"
         ]
       },
       "component": []
@@ -96307,7 +96833,25 @@
       },
       "meaning": {
         "vi": [
-          "bính: can bính là can thứ ba trong mười can, (chỉ hàng thứ tam; chỉ lửa), họ bính, bính đinh, bính dạ, bính xá"
+          "can bính là can thứ ba trong mười can, (chỉ hàng thứ tam; chỉ lửa), họ bính, bính đinh, bính dạ, bính xá"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "怲",
+      "unicode": "6032",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "biếng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "lười biếng, biếng nhác"
         ]
       },
       "component": []
@@ -96763,6 +97307,42 @@
       "component": []
     },
     {
+      "char": "翟",
+      "unicode": "7FDF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạch","địch"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(lông đuôi chim trĩ), họ Trạch"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "擢",
+      "unicode": "64E2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "trạc"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nhấc lên; bỏ đi), (cỡ), trạc độ, trạc tuổi"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "贔",
       "unicode": "8D14",
       "synonym": [],
@@ -96783,17 +97363,37 @@
     {
       "char": "否",
       "unicode": "5426",
-      "synonym": [],
+      "synonym": ["𠳝"],
       "antonym": [],
       "reading": {
         "vi": [
-          "bí"
+          "bĩ","bỉ","bí"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "thế bí, gặp vận bí, bí ý tưởng, (gặp vận bí thì 不口 bất khẩu không xuất thành ngôn)"
+          "bĩ: (khổ cực; không, không đồng ý; nếu không; sự xấu xa, sự sai trái; chê), bĩ cách, bĩ cực thái lai, qua cơn bĩ cực đến hồi thái lai, bĩ thái (mệnh vận bế tắc và hanh thông; sướng và khổ; may và rủi)",
+          "bỉ: (một quẻ trong kinh dịch)",
+          "bí: thế bí, gặp vận bí, bí ý tưởng, (gặp vận bí thì 不口 bất khẩu không xuất thành ngôn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠳝",
+      "unicode": "20CDD",
+      "synonym": ["否"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phủ","phầu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(không, không đồng ý; nếu không), phủ định, phủ nhận, phủ quyết, phủ tắc, thị phủ (đúng sai)"
         ]
       },
       "component": []
