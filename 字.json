@@ -8207,7 +8207,8 @@
         "vi": [
           "trong",
           "trỏng",
-          "trung"
+          "trung",
+          "trúng"
         ],
         "yue": []
       },
@@ -8215,7 +8216,8 @@
         "vi": [
           "trong: ở trong, trong ngoài, bên trong",
           "trỏng: ở trỏng, trong trỏng, ở trong trỏng",
-          "trung: trung hoa, trung bình, trung nguyên"
+          "trung: trung hoa, trung bình, trung nguyên",
+          "trúng: bắn trúng, trúng cử"
         ]
       },
       "component": []
@@ -15682,8 +15684,8 @@
       "component": []
     },
     {
-      "char": "𢯕",
-      "unicode": "22BD5",
+      "char": "𪟽",
+      "unicode": "2A7FD",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -69524,24 +69526,6 @@
       "component": []
     },
     {
-      "char": "𨳒",
-      "unicode": "28CD2",
-      "synonym": [],
-      "antonym": [],
-      "reading": {
-        "vi": [
-          "đụ"
-        ],
-        "yue": []
-      },
-      "meaning": {
-        "vi": [
-          "đụ địt, đụ nhau"
-        ]
-      },
-      "component": []
-    },
-    {
       "char": "𨼰",
       "unicode": "28F30",
       "synonym": [],
@@ -70948,6 +70932,24 @@
       "meaning": {
         "vi": [
           "hờ hững, để hờ, bạn trai hờ"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𪮊",
+      "unicode": "2AB8A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "rút"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rút dây, rút lui, rút lời, chạy nước rút, rút nước"
         ]
       },
       "component": []
@@ -83776,6 +83778,27 @@
       "component": []
     },
     {
+      "char": "蓴",
+      "unicode": "84F4",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thuần","nhút","dút","rút"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "thuần: thuần thái (rau nhút)",
+          "nhút: rau nhút",
+          "dút: rau dút",
+          "rút: rau rút"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "匯",
       "unicode": "532F",
       "synonym": [],
@@ -83852,11 +83875,11 @@
       },
       "meaning": {
         "vi": [
-          "rốt cục, sau rốt",
-          "(đầy tớ, tay sai, kẻ sai bảo; quân lính, binh lính; trọn, xong, kết thúc; chết; trót lọt, rốt cục, lại một lần nữa), sĩ tốt, tốt nghiệp, kị tốt, tẩu tốt",
-          "rút cục, sau rút",
-          "(đầy tớ, tay sai, kẻ sai bảo; quân lính, binh lính; trọn, xong, kết thúc; chết; trót lọt, rốt cục, lại một lần nữa), sĩ tuất, tuất nghiệp, kị tuất, tẩu tuất",
-          "thảng thốt (vội vàng, lật đật, cấp bách; biến cố, việc bất thường), (đầy tớ; binh lính; chết; trót lọt, rốt cục; lại một lần nữa)"
+          "rốt: rốt cục, sau rốt",
+          "tốt: (đầy tớ, tay sai, kẻ sai bảo; quân lính, binh lính; trọn, xong, kết thúc; chết; trót lọt, rốt cục, lại một lần nữa), sĩ tốt, tốt nghiệp, kị tốt, tẩu tốt",
+          "rút: rút cục, sau rút",
+          "tuất: (đầy tớ, tay sai, kẻ sai bảo; quân lính, binh lính; trọn, xong, kết thúc; chết; trót lọt, rốt cục, lại một lần nữa), sĩ tuất, tuất nghiệp, kị tuất, tẩu tuất",
+          "thốt: thảng thốt (vội vàng, lật đật, cấp bách; biến cố, việc bất thường), (đầy tớ; binh lính; chết; trót lọt, rốt cục; lại một lần nữa)"
         ]
       },
       "component": []
@@ -94490,6 +94513,25 @@
       "component": []
     },
     {
+      "char": "店",
+      "unicode": "5E97",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "điếm","tiệm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "điếm: khách điếm, thực điếm",
+          "tiệm: tiệm ăn, tiệm khách"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "孵",
       "unicode": "5B75",
       "synonym": [],
@@ -94557,16 +94599,18 @@
           "điếu",
           "đếu",
           "đéo",
-          "điểu"
+          "điểu",
+          "đụ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "(dương vật đờn ông; tiếng tục dụng để chửi mắng), điếu nễ lão mẫu (đụ má mầy), bố mầy điếu biết, điếu biết gì cả, đụ điếu, điếu mẹ",
-          "đếu mẹ, bố mầy đếu biết, đếu biết gì cả, đụ đếu",
-          "đéo mẹ, bố mầy đéo biết, đéo biết gì cả, đụ đéo",
-          "(dương vật đờn ông; tiếng tục dụng để chửi mắng), điểu nễ lão mẫu (đụ má mầy)"
+          "điếu: (dương vật đờn ông; tiếng tục dụng để chửi mắng), điếu nễ lão mẫu (đụ má mầy), bố mầy điếu biết, điếu biết gì cả, đụ điếu, điếu mẹ",
+          "đếu: đếu mẹ, bố mầy đếu biết, đếu biết gì cả, đụ đếu",
+          "đéo: đéo mẹ, bố mầy đéo biết, đéo biết gì cả, đụ đéo",
+          "điểu: (dương vật đờn ông; tiếng tục dụng để chửi mắng), điểu nễ lão mẫu (đụ má mầy)",
+          "đụ: đụ nhau"
         ]
       },
       "component": []
