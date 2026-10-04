@@ -14151,7 +14151,7 @@
       },
       "meaning": {
         "vi": [
-          "(vải vóc; bày ra; chức quan; bày, xếp đặt; kể, trần thuật; phân tán, ban ra), công bố, ban bố, bố cáo, bố cảnh, bố hóa, bố thí, bố y, bố trí"
+          "(vải vóc; bày ra; chức quan; bày, xếp đặt; kể, trần thuật; phân tán, ban ra), công bố, ban bố, bố cáo, bố cảnh, bố hóa, bố thí, bố y, bố trí, vải bố"
         ]
       },
       "component": []
@@ -35622,7 +35622,7 @@
       "meaning": {
         "vi": [
           "mộng: giấc mộng, mơ mộng, mộng trung khấp huyết",
-          "mòng: chốc mòng (mãi cho tới nay), mơ mòng"
+          "mòng: chốc mòng (mãi cho tới nay; mơ tưởng không nguôi), mơ mòng"
         ]
       },
       "component": []
@@ -51752,7 +51752,8 @@
       "meaning": {
         "vi": [
           "tróc: phỏng tróc, tróc lông, tróc nả",
-          "trốc: trơ trốc, trầy trốc"
+          "trốc: trơ trốc, trầy trốc",
+          "chóc: chết chóc"
         ]
       },
       "component": []
@@ -54522,13 +54523,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "chúc"
+          "chúc","chóc"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "chúc mừng, cung chúc tân xuân"
+          "chúc: chúc mừng, cung chúc tân xuân",
+          "chóc: chim chóc, chóc mòng (mơ tưởng không nguôi)"
         ]
       },
       "component": []
@@ -59751,6 +59753,24 @@
       "component": []
     },
     {
+      "char": "件",
+      "unicode": "4EF6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "kiện"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "án kiện, bị kiện, bưu kiện, dữ kiện, điều kiện, hàm kiện, linh kiện"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "䘆",
       "unicode": "4606",
       "synonym": [],
@@ -63519,7 +63539,25 @@
       },
       "meaning": {
         "vi": [
-          "(số không), hai trăm linh một, điêu linh"
+          "(số không), hai trăm linh một, điêu linh, linh kiện"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "健",
+      "unicode": "5065",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "kiện"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(khỏe mạnh, sức khỏe; giỏi giang), cương kiện, cường kiện, kiện khang, kiện thân, kiện tướng, kiện toàn, tráng kiện"
         ]
       },
       "component": []
