@@ -35172,13 +35172,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "trường"
+          "trường","tràng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "trường học, hội trường, sa trường, môi trường, trường lớp, pháp trường"
+          "trường: đạo trường, trường học, hội trường, sa trường, môi trường, trường lớp, pháp trường",
+          "tràng: đạo tràng"
         ]
       },
       "component": []
@@ -51249,6 +51250,63 @@
       "component": []
     },
     {
+      "char": "藩",
+      "unicode": "85E9",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phiên"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bờ rào; thuộc địa hoặc thuộc quốc phong cho chư hầu ngày xưa; ngăn che, bảo vệ), ngoại phiên, phiên đài, phiên hầu, phiên mục, phiên quốc, phiên sứ, phiên trấn"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "翻",
+      "unicode": "7FFB",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phiên"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "đả phiên (lật đổ, đạp đổ), phiên dịch, phiên án (xét lại một vụ án)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "番",
+      "unicode": "756A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phiên","ba","phan","bà"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phiên: phiên chợ, luân phiên",
+          "ba: ba gia (cây cà chua)",
+          "phan: phan ngu (tên huyện thuộc tỉnh Quảng Đông)",
+          "bà: bà bà (dáng đầu tóc bạc trắng)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "漁",
       "unicode": "6F01",
       "synonym": [],
@@ -54731,7 +54789,8 @@
       },
       "meaning": {
         "vi": [
-          "lẩm bẩm, kính bẩm, bẩm ông, bẩm bà, bẩm sanh"
+          "bẩm: lẩm bẩm, kính bẩm, bẩm ông, bẩm bà, bẩm sanh",
+          "lẫm: (cấp lúa từ kho)"
         ]
       },
       "component": []
@@ -73404,6 +73463,24 @@
       "meaning": {
         "vi": [
           "bâng khuâng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𢶸",
+      "unicode": "22DB8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bấm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bấm ngón tay, bấm bụng, bấm ngày lành tháng tốt"
         ]
       },
       "component": []
