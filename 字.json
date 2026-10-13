@@ -2464,6 +2464,26 @@
       "component": []
     },
     {
+      "char": "篙",
+      "unicode": "7BD9",
+      "synonym": [
+      ],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "cao","sào"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cao: (cái sào chèo thuyền)",
+          "sào: cây sào, sào phơi đồ, cây sào chèo thuyền"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "巢",
       "unicode": "5DE2",
       "synonym": [
@@ -9671,6 +9691,45 @@
       "component": []
     },
     {
+      "char": "挾",
+      "unicode": "633E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xáp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "xáp lại, xáp mặt"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "蠟",
+      "unicode": "881F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chá","lạp","sáp","xáp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chá: (sáp; nến; bôi sáp; vàng nhạt như sáp ong)",
+          "lạp: lạp trùng (sâu sáp), bạch lạp (sáp do loài lạp trùng tiết ra), cự lạp (cây nến lớn), lạp chúc (cây nến), mật lạp (sáp ong), phong lạp (sáp ong)",
+          "sáp: sâu sáp, sáp ong, sáp ve",
+          "xáp: sâu xáp, xáp ong, xáp ve"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𠖨",
       "unicode": "205A8",
       "synonym": [],
@@ -11205,6 +11264,42 @@
         "vi": [
           "mẽ: mùi mẽ",
           "mỉa: mỉa mai"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠇖",
+      "unicode": "201D6",
+      "synonym": ["姂"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bợm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bợm già, bợm nhậu, bịp bợm"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "姂",
+      "unicode": "59C2",
+      "synonym": ["𠇖"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bợm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "bợm già, bợm nhậu, bịp bợm, (nhưng là nữ)"
         ]
       },
       "component": []
@@ -15593,6 +15688,24 @@
       "meaning": {
         "vi": [
           "cổng tre, cổng chào, cổng rả, cổng tán"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "異",
+      "unicode": "7570",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dị","di"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(khác nhau), dị biệt, dị nhân, dị giáo, dị hình, dị văn, kì dị"
         ]
       },
       "component": []
@@ -22483,19 +22596,20 @@
       "component": []
     },
     {
-      "char": "𧒇",
-      "unicode": "27487",
+      "char": "螻",
+      "unicode": "87BB",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "sâu"
+          "lâu","sâu"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "sâu bọ, con sâu"
+          "lâu: lâu cô (con dế mèn), lâu quắc (con chẫu chuộc), lâu trất (dễ trũi), mang lâu (tên một loại dế), quát lâu (con ve sầu)",
+          "sâu: sâu bọ, sâu sáp, sâu bướm"
         ]
       },
       "component": []
@@ -23499,6 +23613,136 @@
       "component": []
     },
     {
+      "char": "鮹",
+      "unicode": "9BB9",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sao","sạo","sáp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "sao: hải phiêu sao (mai mực)",
+          "sạo: cá sạo",
+          "sáp: cá sáp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "蛸",
+      "unicode": "86F8",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sao"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "hải phiêu sao (mai mực), tiêu sao (giống nhện cao cẳng), "
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "蠨",
+      "unicode": "8828",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tiêu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "tiêu sao (giống nhện cao cẳng)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "鰾",
+      "unicode": "9C3E",
+      "synonym": ["螵"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phiêu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái bong bóng cá), hải phiêu sao (mai mực)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "螵",
+      "unicode": "87B5",
+      "synonym": ["鰾"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phiêu"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái bong bóng cá), hải phiêu sao (mai mực)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "瞎",
+      "unicode": "778E",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hạt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(mù lòa), hạt thuyết (câu nói mù quáng, thiếu suy nghĩ), hạt tử (người chột mắt), hạt sưu (nói càn)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "謅",
+      "unicode": "8B05",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sưu","sảo","xảo"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "sưu: (bảo nhỏ, nhắc nhỏ; đặt điều, nói bậy, nói càn), hồ sưu (nói bừa, nói đại, nói mò), hạt sưu (nói càn)",
+          "sảo: (như sưu)",
+          "xảo: (như sưu)"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "㗜",
       "unicode": "35DC",
       "synonym": [],
@@ -23513,9 +23757,9 @@
       },
       "meaning": {
         "vi": [
-          "sục: sục vòi nước, sục sạo, sục sôi, sục sục, sùng sục",
+          "sục: sục vòi nước, sục sạo, sục sôi, sục sục, sùng sục, sục sạo",
           "súc: súc miệng",
-          "xục: xục xạo, xục sôi, xục xục, sùng xục"
+          "xục: xục xạo, xục sôi, xục xục, sùng xục, xục xạo"
         ]
       },
       "component": []
@@ -23771,7 +24015,7 @@
       },
       "meaning": {
         "vi": [
-          "chim vẹt, con vẹt"
+          "chim vẹt, con vẹt, học vẹt"
         ]
       },
       "component": []
@@ -26019,6 +26263,60 @@
       "meaning": {
         "vi": [
           "xối xả, xối nước"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𣙫",
+      "unicode": "2366B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sộp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cây sộp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𩻒",
+      "unicode": "29ED2",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sộp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cá sộp"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𣐝",
+      "unicode": "2341D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xốp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "gỗ xốp, đất xốp, xốp xáp, cây xốp"
         ]
       },
       "component": []
@@ -33206,6 +33504,25 @@
       "meaning": {
         "vi": [
           "reo hò, reo cười, reo vang, reo ca"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠻥",
+      "unicode": "20EE5",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xạo","sạo"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "xạo: nói xạo, xạo trá, xục xạo",
+          "sạo: sục sạo"
         ]
       },
       "component": []
@@ -47913,6 +48230,24 @@
       "component": []
     },
     {
+      "char": "呹",
+      "unicode": "5479",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sạt"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "sạt nghiệp, sạt lở"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "机",
       "unicode": "673A",
       "synonym": [],
@@ -48454,7 +48789,25 @@
       },
       "meaning": {
         "vi": [
-          "trụ cột, bám trụ, trụ cột gia đình"
+          "cái trụ, trụ cột, bám trụ, trụ cột gia đình"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "㯿",
+      "unicode": "3BFF",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sạp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "sạp hàng, sạp đồ ăn, cái sạp"
         ]
       },
       "component": []
@@ -57092,7 +57445,7 @@
     {
       "char": "羅",
       "unicode": "7F85",
-      "synonym": [],
+      "synonym": ["𱺵","𪜀"],
       "antonym": [],
       "reading": {
         "vi": [
@@ -70754,7 +71107,25 @@
     {
       "char": "𪜀",
       "unicode": "2A700",
-      "synonym": [],
+      "synonym": ["𱺵"],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "là"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(bộ là), là vậy, là vậy đó, là thế đó, là như vầy, như là"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𱺵",
+      "unicode": "31EB5",
+      "synonym": ["𪜀"],
       "antonym": [],
       "reading": {
         "vi": [
@@ -83999,7 +84370,7 @@
       },
       "meaning": {
         "vi": [
-          "rã: phân rã, rã ra, rã đồ",
+          "rã: phân rã, rã ra",
           "đà: (sông nhánh; dáng nước mênh mông)",
           "nhãn: nhãn nước"
         ]
