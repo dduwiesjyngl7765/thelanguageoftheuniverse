@@ -10724,6 +10724,24 @@
       "component": []
     },
     {
+      "char": "盆",
+      "unicode": "76C6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bồn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cái chậu; đổ dùng, hình như cái chậu, để đựng; lượng từ cho chậu; ngâm, tẩm), cổ bồn (chỉ vợ chết), cốt bồn (xương chậu), đáo bồn tiền (tiền thua bạc), lâm bồn (tới cái chậu - ý nói đàn bà tới lúc sanh đẻ), bồn hoa, bồn nước"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "𤈊",
       "unicode": "2420A",
       "synonym": [],
@@ -12729,6 +12747,42 @@
       "meaning": {
         "vi": [
           "nhạo báng, chế nhạo, nhệu nhạo"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠻦",
+      "unicode": "20EE6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "mủm","mỉm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "mủm mỉm"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "嘜",
+      "unicode": "561C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "mím"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "mím môi, mím lại"
         ]
       },
       "component": []
@@ -24230,6 +24284,43 @@
       "meaning": {
         "vi": [
           "buôn bán, tay buôn, buôn hàng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𠵽",
+      "unicode": "20D7D",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phập"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phập phồng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𨥧",
+      "unicode": "28967",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phập","phặp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phập: đâm phầm phập, phập xuống",
+          "phặp: (như phập)"
         ]
       },
       "component": []
@@ -62352,6 +62443,78 @@
       "component": []
     },
     {
+      "char": "蕄",
+      "unicode": "8544",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "manh"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(tồn tại, có, còn; tự tại)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𦬺",
+      "unicode": "26B3A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "muống"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rau muống"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "葐",
+      "unicode": "8450",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bồn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cây bồn bồn (cỏ nến, thủy hương), bồn chồn"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "湓",
+      "unicode": "6E53",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "bồn"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(nước dâng tràn), sông Bồn (ở Giang Tây), sông Thu Bồn"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "臣",
       "unicode": "81E3",
       "synonym": [],
@@ -79907,7 +80070,7 @@
       },
       "meaning": {
         "vi": [
-          "mồm mép, ria mép, mép lồn"
+          "mồm mép, ria mép"
         ]
       },
       "component": []
@@ -86862,15 +87025,31 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "phồng",
           "bồng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "phồng: phồng lên, phập phồng",
-          "bồng: bồng bềnh"
+          "bồng bềnh"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "膖",
+      "unicode": "8196",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "phồng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "phồng lên, phập phồng, thổi phồng"
         ]
       },
       "component": []
