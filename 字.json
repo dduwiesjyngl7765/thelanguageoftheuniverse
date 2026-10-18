@@ -12510,19 +12510,21 @@
       "component": []
     },
     {
-      "char": "𠽅",
-      "unicode": "20F45",
+      "char": "湩",
+      "unicode": "6E69",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "thùng"
+          "chúng","đống","thùng"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "thùng thùng (tiếng đánh trống)"
+          "chúng: (nước sữa), chúng chúng (chảy ròng ròng)",
+          "đống: (như chúng)",
+          "thùng: thùng thùng (tiếng đánh trống)"
         ]
       },
       "component": []
@@ -28407,13 +28409,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "xốp"
+          "xốp","xộp"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "gỗ xốp, đất xốp, xốp xáp, cây xốp"
+          "xốp: gỗ xốp, đất xốp, xốp xáp, cây xốp",
+          "xộp: xốp xộp, ăn mặc xộp, chơi xộp, xộp xạp"
         ]
       },
       "component": []
@@ -32613,7 +32616,7 @@
       },
       "meaning": {
         "vi": [
-          "mối dây, mối hàn"
+          "mối dây, mối hàn, mai mối, mối làm ăn"
         ]
       },
       "component": []
@@ -34387,16 +34390,14 @@
       "reading": {
         "vi": [
           "đông",
-          "đong",
-          "thùng"
+          "đong"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "đông: đông đông (tiếng đồ vật rơi), đông đông đông",
-          "đong: đong đong (tiếng đồ vật rơi), đong đong đong, long đong",
-          "thùng: thùng thùng (tiếng đánh trống, tiếng gõ cửa)"
+          "đong: đong đong (tiếng đồ vật rơi), đong đong đong, long đong"
         ]
       },
       "component": []
@@ -45595,6 +45596,27 @@
       "component": []
     },
     {
+      "char": "墊",
+      "unicode": "588A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "điếm","điệp","đệm","nệm"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "điếm: (thấp xuống; chết đuối; kê, đệm), sàng điếm (cái đệm, nệm trải giường), điếm lộ (vá đường), điếm cước thạch (đá lót cách bước)",
+          "điệp: (tên sông)",
+          "đệm: đệm đàn, đệm giường, vòng đệm, chiếc đệm, nằm đệm",
+          "nệm: chiếc nệm, nằm nệm"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "可",
       "unicode": "606A",
       "synonym": [],
@@ -45668,7 +45690,7 @@
       "meaning": {
         "vi": [
           "đềm: êm đềm",
-          "điềm: điềm đạm, (bình tĩnh, lặng lẽ), (yên bình, yên ổn, an nhiên), (yên lặng)"
+          "điềm: điềm đạm, (bình tĩnh, lặng lẽ; yên bình, yên ổn, an nhiên), (yên lặng)"
         ]
       },
       "component": []
@@ -49471,19 +49493,39 @@
       "component": []
     },
     {
+      "char": "𠵏",
+      "unicode": "20D4F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "xạp"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "nhai xạp xạp, nghe cái xạp"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "雜",
       "unicode": "96DC",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "tạp"
+          "tạp","xạp","xáp"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "phức tạp, tạp chủng, tạp hóa"
+          "tạp: phức tạp, tạp chủng, tạp hóa",
+          "xạp: xộp xạp",
+          "xáp: xốp xáp"
         ]
       },
       "component": []
@@ -51487,6 +51529,43 @@
         "vi": [
           "quê: quê mùa, quê hương",
           "khuê: (xa cách đã lâu)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𪲀",
+      "unicode": "2AC80",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khua"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cây khua, cây khua mật"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "拞",
+      "unicode": "62DE",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "khua","khoa"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "khua: khua chân múa tay",
+          "khoa: (như khua)"
         ]
       },
       "component": []
@@ -59362,7 +59441,7 @@
       "component": []
     },
     {
-      "char": "拱",
+      "char": "硔",
       "unicode": "62F1",
       "synonym": [],
       "antonym": [],
@@ -63971,6 +64050,24 @@
       "meaning": {
         "vi": [
           "ngôi miếu, gia miếu, lăng miếu"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𤠂",
+      "unicode": "24802",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "đười"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "con đười ươi"
         ]
       },
       "component": []
@@ -74058,7 +74155,7 @@
       "meaning": {
         "vi": [
           "giọt: giọt nước, giọt mưa, nhiễu giọt",
-          "thốc: dáng nước chảy"
+          "thốc: (dáng nước chảy)"
         ]
       },
       "component": []
@@ -78354,14 +78451,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "khiêu","khều"
+          "khiêu","khều","khêu"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "khiều: (chọn lựa, kén chọn; khều, chọc; gánh, gồng; dẫn dụ), khiêu chiến, khiêu khích, khiêu hấn, khiêu khởi",
-          "khều: khều chọc, khều đồ"
+          "khều: khều chọc, khều đồ",
+          "khêu: khêu đèn"
         ]
       },
       "component": []
@@ -82249,6 +82347,42 @@
       "meaning": {
         "vi": [
           "nông choèn choẹt"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𬄪",
+      "unicode": "2C12A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "muôi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cái muôi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𫗶",
+      "unicode": "2B5F6",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "hua"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "con hua, tương có hua ( là hiện tượng tương bị chua, lên men hỏng, nổi váng trắng hoặc sủi bọt và có mùi hôi, khiến tương mất đi vị ngọt hậu đặc trưng)"
         ]
       },
       "component": []
@@ -88113,20 +88247,75 @@
       "component": []
     },
     {
+      "char": "㤏",
+      "unicode": "390F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "chòng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "chòng ghẹo, nhìn chòng chọc"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𣘂",
+      "unicode": "23602",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ươi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "cây ươi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "𤠱",
+      "unicode": "24831",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "ươi"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "con đười ươi"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "芣",
       "unicode": "82A3",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "phù","búp"
+          "phù","búp","bụp"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "phù: cỏ phù dĩ",
-          "búp: chè búp, búp măng"
+          "búp: chè búp, búp măng",
+          "bụp: bông bụp"
         ]
       },
       "component": []
@@ -88156,14 +88345,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "bốp","bộp"
+          "bốp","bộp","bụp"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "bốp: bốp chát, đấm bốp",
-          "bộp: bộp chộp"
+          "bộp: bộp chộp",
+          "bụp: nghe cái bụp, bụp bụp"
         ]
       },
       "component": []
