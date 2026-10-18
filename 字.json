@@ -41644,19 +41644,21 @@
       "component": []
     },
     {
-      "char": "䔅",
-      "unicode": "4505",
+      "char": "茄",
+      "unicode": "8304",
       "synonym": [],
       "antonym": [],
       "reading": {
         "vi": [
-          "cà"
+          "cà","gia","già"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "cà pháo, cà tím"
+          "cà: (cuống sen, rò sen; tên nước cổ, đất nay ở vào tỉnh An Huy; từ dùng để phiên âm tiếng ngoại quốc; cây cà), cây cà, cà pháo, cà tím",
+          "gia: ba gia (cà chua)",
+          "già: (như gia)"
         ]
       },
       "component": []
