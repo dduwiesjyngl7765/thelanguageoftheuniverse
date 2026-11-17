@@ -1,50 +1,6 @@
 # Duplicate `char` Report
 
-This report lists 3 duplicate `char` values found in `collections` of `字.json`.
-
-## `𤇪` — 2 entries
-
-```json
-{
-  "char": "𤇪",
-  "unicode": "241EA",
-  "synonym": [],
-  "antonym": [],
-  "reading": {
-    "vi": [
-      "trằn"
-    ],
-    "yue": []
-  },
-  "meaning": {
-    "vi": [
-      "trằn trọc"
-    ]
-  },
-  "component": []
-}
-```
-
-```json
-{
-  "char": "𤇪",
-  "unicode": "241EA",
-  "synonym": [],
-  "antonym": [],
-  "reading": {
-    "vi": [
-      "chín"
-    ],
-    "yue": []
-  },
-  "meaning": {
-    "vi": [
-      "chín tới, chín đồ ăn, chín vừa phải"
-    ]
-  },
-  "component": []
-}
-```
+This report lists 2 duplicate `char` values found in `collections` of `字.json`.
 
 ## `𠸄` — 2 entries
 
