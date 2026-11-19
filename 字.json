@@ -5102,7 +5102,7 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "vi"
+          "vi","vy"
         ],
         "yue": []
       },
@@ -37870,7 +37870,7 @@
       },
       "meaning": {
         "vi": [
-          "chích: chim chích, chích chích (tiếng chim kêu)"
+          "chim chích, chích chích (tiếng chim kêu)"
         ]
       },
       "component": []
@@ -80901,7 +80901,7 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "vi"
+          "vi","vy"
         ],
         "yue": []
       },
@@ -88895,13 +88895,14 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "rặc"
+          "rặc","rức"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "cạn rặc, tiếng rặc Nam kỳ, giọng rặc Ba Tầu"
+          "rặc: cạn rặc, tiếng rặc Nam kỳ, giọng rặc Ba Tầu",
+          "rức: rưng rức"
         ]
       },
       "component": []
@@ -91035,8 +91036,8 @@
       "component": []
     },
     {
-      "char": "𬗱",
-      "unicode": "2C5F1",
+      "char": "滵",
+      "unicode": "6EF5",
       "synonym": [],
       "antonym": [],
       "reading": {
@@ -106958,7 +106959,6 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "mượt",
           "mướt",
           "mạt"
         ],
@@ -106966,7 +106966,6 @@
       },
       "meaning": {
         "vi": [
-          "mượt: mượt mà, lông mượt",
           "mướt: mướt mát, mướt lòng, xướt mướt",
           "mạt: (bọt nước), bạch mạt (bọt trắng)"
         ]
@@ -119735,8 +119734,8 @@
       },
       "meaning": {
         "vi": [
-          "núi Cẩu Lũ (tỉnh Hồ Nam)",
-          "lâu dài, dài lâu"
+          "lũ: núi Cẩu Lũ (tỉnh Hồ Nam)",
+          "lâu: lâu dài, dài lâu"
         ]
       },
       "component": []

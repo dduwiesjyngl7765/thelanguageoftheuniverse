@@ -19921,7 +19921,7 @@
     }
   },
   {
-    "word": "黰𪷥𤊧",
+    "word": "黰𪷥𪵫",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -54000,7 +54000,7 @@
     }
   },
   {
-    "word": "𪷥𤊧",
+    "word": "𪷥𪵫",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -90503,16 +90503,6 @@
     }
   },
   {
-    "word": "𩁦凗",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "loi thoi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𩂀𩙍",
     "hannomcode": 1,
     "reading_meaning": {
@@ -90706,16 +90696,6 @@
     }
   },
   {
-    "word": "𪨈𬎻",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "càng sẵn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𪪅妸",
     "hannomcode": 1,
     "reading_meaning": {
@@ -90770,7 +90750,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "lưng tròng"
+        "lưng tròng",
+        "rưng tròng"
       ],
       "meaning": ""
     }
@@ -91016,7 +90997,7 @@
     }
   },
   {
-    "word": "𬗱𣻕",
+    "word": "滵𣻕",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -91057,13 +91038,23 @@
     }
   },
   {
-    "word": "𬷩吱",
+    "word": "𬷩𬷩",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "chích chích"
       ],
-      "meaning": ""
+      "meaning": "Tiếng chim kêu"
+    }
+  },
+  {
+    "word": "吱吱",
+    "hannomcode": 1,
+    "reading_meaning": {
+      "reading": [
+        "chích chích"
+      ],
+      "meaning": "Tiếng chuột kêu"
     }
   },
   {
@@ -91077,7 +91068,7 @@
     }
   },
   {
-    "word": "𭊫盧",
+    "word": "𭊫嚧",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
