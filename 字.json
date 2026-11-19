@@ -80243,6 +80243,26 @@
       "component": []
     },
     {
+      "char": "汏",
+      "unicode": "6C4F",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thái","đại","đái"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "thái: (sóng lớn, sóng cả)",
+          "đại: (giặt, gột, rửa)",
+          "đái: bọng đái, mắc đái, đi đái"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "滯",
       "unicode": "6EEF",
       "synonym": ["蹛"],
