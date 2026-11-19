@@ -294,7 +294,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ậm ừ"
+        "ậm ừ",
+        "ậm ờ"
       ],
       "meaning": ""
     }
@@ -1004,7 +1005,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bắt nạt"
+        "bắt nạt",
+        "bát nạt"
       ],
       "meaning": ""
     }
@@ -1674,6 +1676,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
+        "bất thì",
         "bất thời"
       ],
       "meaning": ""
@@ -1720,13 +1723,23 @@
     }
   },
   {
-    "word": "不爿",
+    "word": "不祥",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "bất tường"
       ],
-      "meaning": ""
+      "meaning": "Không lành, điềm xấu, điềm gở hoặc không may mắn"
+    }
+  },
+  {
+    "word": "不詳",
+    "hannomcode": 1,
+    "reading_meaning": {
+      "reading": [
+        "bất tường"
+      ],
+      "meaning": "Không rõ ràng"
     }
   },
   {
@@ -1754,7 +1767,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bấy chầy"
+        "bấy chầy",
+        "bấy chày"
       ],
       "meaning": ""
     }
@@ -1764,17 +1778,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
+        "bấy giờ",
         "bấy chừ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠻻𣇞",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bấy giờ"
       ],
       "meaning": ""
     }
@@ -1824,16 +1829,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bẻ gãy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢯏𢭮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "bẻ gãy",
         "bẻ gẫy"
       ],
       "meaning": ""
@@ -2374,16 +2370,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bên ngoài"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "邊外",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "bên ngoài",
         "bên ngoại"
       ],
       "meaning": ""
@@ -2704,7 +2691,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bêu bêu"
+        "bêu bêu",
+        "bều bệu"
       ],
       "meaning": ""
     }
@@ -2735,16 +2723,6 @@
     "reading_meaning": {
       "reading": [
         "bêu xấu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "莩莩",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bều bệu"
       ],
       "meaning": ""
     }
@@ -2964,7 +2942,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bìm bìm"
+        "bìm bìm",
+        "bim bim"
       ],
       "meaning": ""
     }
@@ -3074,16 +3053,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bìu díu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "瓢𢬢",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "bìu díu",
         "bíu díu"
       ],
       "meaning": ""
@@ -3824,7 +3794,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bóp bẹp"
+        "bóp bẹp",
+        "bọp bẹp"
       ],
       "meaning": ""
     }
@@ -3844,16 +3815,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bóp chẹt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢯒歽",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "bóp chẹt",
         "bóp chết"
       ],
       "meaning": ""
@@ -3955,16 +3917,6 @@
     "reading_meaning": {
       "reading": [
         "bóp xổi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢯒𠻅",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bọp bẹp"
       ],
       "meaning": ""
     }
@@ -4200,7 +4152,7 @@
     }
   },
   {
-    "word": "坡爿",
+    "word": "坡牆",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -4354,17 +4306,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bờm chờm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𣭛𬇁",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bờm xờm"
+        "bờm chờm",
+        "bờm xờm",
+        "bờm xơm"
       ],
       "meaning": ""
     }
@@ -4514,7 +4458,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "bùn dơ"
+        "bùn dơ",
+        "bùn nhơ"
       ],
       "meaning": ""
     }
@@ -4535,16 +4480,6 @@
     "reading_meaning": {
       "reading": [
         "bùn lầy nước đọng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡎛洳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bùn nhơ"
       ],
       "meaning": ""
     }
@@ -5604,7 +5539,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cảm ơn"
+        "cảm ơn",
+        "cám ơn"
       ],
       "meaning": ""
     }
@@ -6234,7 +6170,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cập thời"
+        "cập thời",
+        "kịp thời"
       ],
       "meaning": ""
     }
@@ -6504,7 +6441,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cây đờn"
+        "cây đờn",
+        "cây đàn"
       ],
       "meaning": ""
     }
@@ -8034,7 +7972,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "châng hẩng"
+        "châng hẩng",
+        "chưng hửng"
       ],
       "meaning": ""
     }
@@ -8374,7 +8313,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chè lá"
+        "chè lá",
+        "trà lá"
       ],
       "meaning": ""
     }
@@ -8544,7 +8484,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chét thèm chết nhạt"
+        "chét thèm chết nhạt",
+        "chết thèm chết nhạt"
       ],
       "meaning": ""
     }
@@ -8674,16 +8615,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chết chẹt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "歽歽",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "chết chẹt",
         "chết chết"
       ],
       "meaning": ""
@@ -8930,16 +8862,6 @@
     }
   },
   {
-    "word": "歽噞歽𤁕",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chết thèm chết nhạt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "歽絶",
     "hannomcode": 1,
     "reading_meaning": {
@@ -9044,7 +8966,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chia lìa"
+        "chia lìa",
+        "chia li",
+        "chia ly"
       ],
       "meaning": ""
     }
@@ -9534,7 +9458,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chíu chíu"
+        "chíu chíu",
+        "réo réo"
       ],
       "meaning": ""
     }
@@ -9784,26 +9709,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "choai choai"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "淮淮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "choai choãi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "淮淮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "choai choai",
+        "choai choãi",
         "choai choái"
       ],
       "meaning": ""
@@ -9954,7 +9861,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "choen choét"
+        "choen choét",
+        "choèn choẹt"
       ],
       "meaning": ""
     }
@@ -9965,16 +9873,6 @@
     "reading_meaning": {
       "reading": [
         "choèn choèn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "漙𣾵",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "choèn choẹt"
       ],
       "meaning": ""
     }
@@ -10454,7 +10352,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chớ gì"
+        "chớ gì",
+        "chứ gì"
       ],
       "meaning": ""
     }
@@ -10994,16 +10893,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chùm gởi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𫇳㨳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "chùm gởi",
         "chùm gửi"
       ],
       "meaning": ""
@@ -11054,7 +10944,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chun chủn"
+        "chun chủn",
+        "chùn chùn",
+        "chùn chũn"
       ],
       "meaning": ""
     }
@@ -11065,26 +10957,6 @@
     "reading_meaning": {
       "reading": [
         "chùn bước"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡀳𡀳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chùn chùn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡀳𡀳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chùn chũn"
       ],
       "meaning": ""
     }
@@ -11114,7 +10986,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chủng loại"
+        "chủng loại",
+        "chủng loài",
+        "giống loài"
       ],
       "meaning": ""
     }
@@ -11244,17 +11118,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "chụp giật"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "摯𪮞",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chụp giựt"
+        "chụp giật",
+        "chụp giựt",
+        "chộp giật"
       ],
       "meaning": ""
     }
@@ -11745,16 +11611,6 @@
     "reading_meaning": {
       "reading": [
         "chữ viết"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠹲咦",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chứ gì"
       ],
       "meaning": ""
     }
@@ -14774,16 +14630,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cúp đuôi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠀨脽",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "cúp đuôi",
         "cụp đuôi"
       ],
       "meaning": ""
@@ -15014,16 +14861,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cửa ngỏ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨷯𡉦",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "cửa ngỏ",
         "cửa ngõ"
       ],
       "meaning": ""
@@ -15654,16 +15492,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "cười xoà"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "䶞汊",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "cười xoà",
         "cười xòa"
       ],
       "meaning": ""
@@ -16124,37 +15953,19 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dài đuồn đuỗn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨱾𨱪",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dài đuỗn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨱾𨱪",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dài đườn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨱾𨱪𨱪",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "dài đuồn đuỗn",
         "dài đườn đườn"
+      ],
+      "meaning": ""
+    }
+  },
+  {
+    "word": "𨱾𨱪",
+    "hannomcode": 1,
+    "reading_meaning": {
+      "reading": [
+        "dài đuỗn",
+        "dài đườn"
       ],
       "meaning": ""
     }
@@ -16234,7 +16045,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dan díu"
+        "dan díu",
+        "dang díu"
       ],
       "meaning": ""
     }
@@ -16244,7 +16056,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dan tay"
+        "dan tay",
+        "dang tay"
       ],
       "meaning": ""
     }
@@ -16315,16 +16128,6 @@
     "reading_meaning": {
       "reading": [
         "dang nắng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "扛𢬣",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dang tay"
       ],
       "meaning": ""
     }
@@ -16614,7 +16417,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dằn dỗi"
+        "dằn dỗi",
+        "giằn giỗi"
       ],
       "meaning": ""
     }
@@ -16644,7 +16448,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dằn vặt"
+        "dằn vặt",
+        "giằn vặt"
       ],
       "meaning": ""
     }
@@ -17940,7 +17745,7 @@
     }
   },
   {
-    "word": "拵𦤾蹎爿",
+    "word": "拵𦤾蹎牆",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -17964,7 +17769,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dơ bẩn"
+        "dơ bẩn",
+        "nhơ bẩn"
       ],
       "meaning": ""
     }
@@ -18004,7 +17810,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dơ đời"
+        "dơ đời",
+        "nhơ đời"
       ],
       "meaning": ""
     }
@@ -18064,7 +17871,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dở dang"
+        "dở dang",
+        "dở dan"
       ],
       "meaning": ""
     }
@@ -18294,16 +18102,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "dư dùng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "歟用",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "dư dùng",
         "dư dụng"
       ],
       "meaning": ""
@@ -18980,13 +18779,13 @@
     }
   },
   {
-    "word": "忉爿",
+    "word": "到詳",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "đáo tường"
       ],
-      "meaning": ""
+      "meaning": "Thấu đáo và tường tận"
     }
   },
   {
@@ -19064,7 +18863,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đằm đìa"
+        "đằm đìa",
+        "đầm đìa"
       ],
       "meaning": ""
     }
@@ -19375,16 +19175,6 @@
     "reading_meaning": {
       "reading": [
         "đầm đậm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "潭渧",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "đầm đìa"
       ],
       "meaning": ""
     }
@@ -19764,16 +19554,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đầy dãy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𣹓𡉏",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "đầy dãy",
         "đầy dẫy"
       ],
       "meaning": ""
@@ -20424,7 +20205,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đéo mẹ"
+        "đéo mẹ",
+        "đụ mẹ"
       ],
       "meaning": ""
     }
@@ -20734,7 +20516,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đều đặn"
+        "đều đặn",
+        "điều đặn"
       ],
       "meaning": ""
     }
@@ -22670,16 +22453,6 @@
     }
   },
   {
-    "word": "屌媄",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "đụ mẹ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𨅮𧿐",
     "hannomcode": 1,
     "reading_meaning": {
@@ -23024,7 +22797,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đuồn đuỗn"
+        "đuồn đuỗn",
+        "đườn đườn",
+        "đườn đưỡn"
       ],
       "meaning": ""
     }
@@ -23350,26 +23125,6 @@
     }
   },
   {
-    "word": "𨱪𨱪",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "đườn đườn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨱪𨱪",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "đườn đưỡn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "當織",
     "hannomcode": 1,
     "reading_meaning": {
@@ -23464,7 +23219,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "đứt gãy"
+        "đứt gãy",
+        "đứt gẫy"
       ],
       "meaning": ""
     }
@@ -23564,16 +23320,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "éc éc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤡾𤡾",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "éc éc",
         "ẹc ẹc"
       ],
       "meaning": ""
@@ -23634,16 +23381,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "eo sèo"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "喓𠾸",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "eo sèo",
         "eo xèo"
       ],
       "meaning": ""
@@ -23674,7 +23412,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ề à"
+        "ề à",
+        "ê a"
       ],
       "meaning": ""
     }
@@ -23854,16 +23593,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ềnh ềnh"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "偃偃",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ềnh ềnh",
         "ềnh ễnh"
       ],
       "meaning": ""
@@ -24174,7 +23904,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "gác chuông"
+        "gác chuông",
+        "gác chung"
       ],
       "meaning": ""
     }
@@ -24194,16 +23925,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "gác dan"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "挌扛",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "gác dan",
         "gác dang"
       ],
       "meaning": ""
@@ -24414,16 +24136,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "gái goá"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡛔寡",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "gái goá",
         "gái góa"
       ],
       "meaning": ""
@@ -24734,7 +24447,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "gãy góc"
+        "gãy góc",
+        "gẫy góc"
       ],
       "meaning": ""
     }
@@ -24744,7 +24458,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "gãy gọn"
+        "gãy gọn",
+        "gẫy gọn"
       ],
       "meaning": ""
     }
@@ -25045,26 +24760,6 @@
     "reading_meaning": {
       "reading": [
         "gẫy gánh giữa đàng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢭮𧣳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "gẫy góc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢭮𦄣",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "gẫy gọn"
       ],
       "meaning": ""
     }
@@ -25525,26 +25220,6 @@
     "reading_meaning": {
       "reading": [
         "giằn giọc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "撊𢤡",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "giằn giỗi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "撊𢪱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "giằn vặt"
       ],
       "meaning": ""
     }
@@ -26354,16 +26029,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "giọt ngắn giọt dài"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "湥𥐇湥𨱾",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "giọt ngắn giọt dài",
         "giọt vắn giọt dài"
       ],
       "meaning": ""
@@ -26414,7 +26080,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "giôn giốt"
+        "giôn giốt",
+        "dôn dốt"
       ],
       "meaning": ""
     }
@@ -26804,16 +26471,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "goá bụa"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "寡步",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "goá bụa",
         "góa bụa"
       ],
       "meaning": ""
@@ -28034,7 +27692,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "hấm hứ"
+        "hấm hứ",
+        "hậm hự"
       ],
       "meaning": ""
     }
@@ -28054,7 +27713,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "hẫng hờ"
+        "hẫng hờ",
+        "hững hờ"
       ],
       "meaning": ""
     }
@@ -28324,7 +27984,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "hểu hểu"
+        "hểu hểu",
+        "hiu hiu"
       ],
       "meaning": ""
     }
@@ -28334,7 +27995,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "hì hì"
+        "hì hì",
+        "hơi hơi"
       ],
       "meaning": ""
     }
@@ -28515,16 +28177,6 @@
     "reading_meaning": {
       "reading": [
         "him him"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "囂囂",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "hiu hiu"
       ],
       "meaning": ""
     }
@@ -29270,16 +28922,6 @@
     }
   },
   {
-    "word": "唏唏",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "hơi hơi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "唏焓",
     "hannomcode": 1,
     "reading_meaning": {
@@ -29940,16 +29582,6 @@
     }
   },
   {
-    "word": "𠾿𨼋",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "hững hờ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𢤽𠹾",
     "hannomcode": 1,
     "reading_meaning": {
@@ -30484,16 +30116,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "iu ỉu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢞅𢞅",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "iu ỉu",
         "ỉu ỉu"
       ],
       "meaning": ""
@@ -30504,16 +30127,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ỉu nhìu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢞅饒",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ỉu nhìu",
         "ỉu nhịu"
       ],
       "meaning": ""
@@ -30824,7 +30438,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "kêu oan"
+        "kêu oan",
+        "khiếu oan"
       ],
       "meaning": ""
     }
@@ -31074,7 +30689,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "khằng khặc"
+        "khằng khặc",
+        "khặc khặc"
       ],
       "meaning": ""
     }
@@ -31134,7 +30750,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "khè khè"
+        "khè khè",
+        "khì khì"
       ],
       "meaning": ""
     }
@@ -31260,16 +30877,6 @@
     }
   },
   {
-    "word": "唭唭",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "khì khì"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "欠讓",
     "hannomcode": 1,
     "reading_meaning": {
@@ -31295,16 +30902,6 @@
     "reading_meaning": {
       "reading": [
         "khiêng vác"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "叫冤",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "khiếu oan"
       ],
       "meaning": ""
     }
@@ -31744,7 +31341,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "khoèo chân"
+        "khoèo chân",
+        "quèo chân"
       ],
       "meaning": ""
     }
@@ -31804,16 +31402,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "khom khom"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢐎𢐎",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "khom khom",
         "khòm khòm"
       ],
       "meaning": ""
@@ -32534,37 +32123,19 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "kin kít"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡫨𡫨",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "kìn kìn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡫨𡫨",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "kìn kĩn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡫨桀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "kin kít",
         "kìn kịt"
+      ],
+      "meaning": ""
+    }
+  },
+  {
+    "word": "𡫨𡫨",
+    "hannomcode": 1,
+    "reading_meaning": {
+      "reading": [
+        "kìn kìn",
+        "kìn kĩn"
       ],
       "meaning": ""
     }
@@ -32635,16 +32206,6 @@
     "reading_meaning": {
       "reading": [
         "kín trên bền dưới"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "及時",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "kịp thời"
       ],
       "meaning": ""
     }
@@ -34904,7 +34465,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "loe xoe"
+        "loe xoe",
+        "loè xoè"
       ],
       "meaning": ""
     }
@@ -34914,16 +34476,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "loè đời"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤑬𠁀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "loè đời",
         "lòe đời"
       ],
       "meaning": ""
@@ -34935,16 +34488,6 @@
     "reading_meaning": {
       "reading": [
         "loè nhoè"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤑬撱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "loè xoè"
       ],
       "meaning": ""
     }
@@ -34994,7 +34537,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "lom khom"
+        "lom khom",
+        "lòm khòm",
+        "lom com"
       ],
       "meaning": ""
     }
@@ -35004,26 +34549,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "lom lom"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𦡶𢐎",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "lòm khòm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𦡶𦡶",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "lom lom",
         "lòm lòm"
       ],
       "meaning": ""
@@ -35354,7 +34880,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "lờm lợm"
+        "lờm lợm",
+        "lợm lợm"
       ],
       "meaning": ""
     }
@@ -35385,16 +34912,6 @@
     "reading_meaning": {
       "reading": [
         "lợm giọng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㜮㜮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "lợm lợm"
       ],
       "meaning": ""
     }
@@ -36284,7 +35801,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "lượm lặt"
+        "lượm lặt",
+        "lụm lặt"
       ],
       "meaning": ""
     }
@@ -36344,7 +35862,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mách qué"
+        "mách qué",
+        "méc qué"
       ],
       "meaning": ""
     }
@@ -36934,16 +36453,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mắc nàn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "黓難",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "mắc nàn",
         "mắc nạn"
       ],
       "meaning": ""
@@ -37334,7 +36844,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mặt trăng"
+        "mặt trăng",
+        "mặt giăng"
       ],
       "meaning": ""
     }
@@ -37354,7 +36865,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mặt trời"
+        "mặt trời",
+        "mặt giời"
       ],
       "meaning": ""
     }
@@ -38034,7 +37546,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mệnh lệnh"
+        "mệnh lệnh",
+        "mệnh lịnh"
       ],
       "meaning": ""
     }
@@ -38134,7 +37647,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ cảm"
+        "mĩ cảm",
+        "mỹ cảm"
       ],
       "meaning": ""
     }
@@ -38144,7 +37658,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ đức"
+        "mĩ đức",
+        "mỹ đức"
       ],
       "meaning": ""
     }
@@ -38154,7 +37669,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ học"
+        "mĩ học",
+        "mỹ học"
       ],
       "meaning": ""
     }
@@ -38174,7 +37690,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ mãn"
+        "mĩ mãn",
+        "mỹ mãn"
       ],
       "meaning": ""
     }
@@ -38184,7 +37701,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ miều"
+        "mĩ miều",
+        "mỹ miều"
       ],
       "meaning": ""
     }
@@ -38194,7 +37712,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ nữ"
+        "mĩ nữ",
+        "mỹ nữ"
       ],
       "meaning": ""
     }
@@ -38204,7 +37723,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mĩ phẩm"
+        "mĩ phẩm",
+        "mỹ phẩm"
       ],
       "meaning": ""
     }
@@ -38744,16 +38264,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "móp mép"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢴓𠵐",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "móp mép",
         "móp mẹp"
       ],
       "meaning": ""
@@ -39614,7 +39125,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "muôn nghìn"
+        "muôn nghìn",
+        "muôn ngàn"
       ],
       "meaning": ""
     }
@@ -39754,7 +39266,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "mươi lăm"
+        "mươi lăm",
+        "mười lăm"
       ],
       "meaning": ""
     }
@@ -39765,16 +39278,6 @@
     "reading_meaning": {
       "reading": [
         "mười hai bến nước"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨑮𠄼",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mười lăm"
       ],
       "meaning": ""
     }
@@ -39815,66 +39318,6 @@
     "reading_meaning": {
       "reading": [
         "mướt mát"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美感",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ cảm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美德",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ đức"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美學",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ học"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美滿",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ mãn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美𦏒",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ miều"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "美女",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ nữ"
       ],
       "meaning": ""
     }
@@ -40034,7 +39477,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nảy đom đóm"
+        "nảy đom đóm",
+        "nẩy đom đóm"
       ],
       "meaning": ""
     }
@@ -40054,7 +39498,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nảy mầm"
+        "nảy mầm",
+        "nẩy mầm"
       ],
       "meaning": ""
     }
@@ -40144,7 +39589,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nằm khoèo"
+        "nằm khoèo",
+        "nằm queo",
+        "nằm quèo"
       ],
       "meaning": ""
     }
@@ -40245,26 +39692,6 @@
     "reading_meaning": {
       "reading": [
         "nằm nơi"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㑲𨁓",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nằm queo"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㑲𨁓",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nằm quèo"
       ],
       "meaning": ""
     }
@@ -40544,7 +39971,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nầm nập"
+        "nầm nập",
+        "nườm nượp"
       ],
       "meaning": ""
     }
@@ -40655,16 +40083,6 @@
     "reading_meaning": {
       "reading": [
         "nấu trắng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "䄧螢螢",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nẩy đom đóm"
       ],
       "meaning": ""
     }
@@ -41694,7 +41112,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngẩng mặt"
+        "ngẩng mặt",
+        "ngửng mặt",
+        "ngượng mặt"
       ],
       "meaning": ""
     }
@@ -42524,7 +41944,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngoạch ngoạc"
+        "ngoạch ngoạc",
+        "ngoắc ngoặc"
       ],
       "meaning": ""
     }
@@ -42744,16 +42165,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngoay ngoảy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨀑𨀑",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ngoay ngoảy",
         "ngoay ngoáy"
       ],
       "meaning": ""
@@ -42765,16 +42177,6 @@
     "reading_meaning": {
       "reading": [
         "ngoắc ngoải"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㩇㩇",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ngoắc ngoặc"
       ],
       "meaning": ""
     }
@@ -42844,16 +42246,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngoe ngoảy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡳀𨀑",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ngoe ngoảy",
         "ngoe ngoẩy"
       ],
       "meaning": ""
@@ -43890,16 +43283,6 @@
     }
   },
   {
-    "word": "仰𫖀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ngửng mặt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𥈴𥉴",
     "hannomcode": 1,
     "reading_meaning": {
@@ -44154,7 +43537,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngường ngượng"
+        "ngường ngượng",
+        "ngượng ngượng"
       ],
       "meaning": ""
     }
@@ -44200,16 +43584,6 @@
     }
   },
   {
-    "word": "仰𫖀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ngượng mặt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "仰嗷",
     "hannomcode": 1,
     "reading_meaning": {
@@ -44235,16 +43609,6 @@
     "reading_meaning": {
       "reading": [
         "ngượng ngùng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "仰仰",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ngượng ngượng"
       ],
       "meaning": ""
     }
@@ -44904,17 +44268,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhão nhét"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "繞𪷴",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhão nhẹt"
+        "nhão nhét",
+        "nhão nhẹt",
+        "nhẽo nhẹt"
       ],
       "meaning": ""
     }
@@ -45214,7 +44570,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhẵn nhụi"
+        "nhẵn nhụi",
+        "nhẵng nhụi"
       ],
       "meaning": ""
     }
@@ -45404,16 +44761,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhấp nhỉnh"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "扖𠶞",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "nhấp nhỉnh",
         "nhấp nhính"
       ],
       "meaning": ""
@@ -46054,7 +45402,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhiu nhíu"
+        "nhiu nhíu",
+        "nhiều nhiều"
       ],
       "meaning": ""
     }
@@ -46114,16 +45463,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhoe nhóe"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤍶𤍶",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "nhoe nhóe",
         "nhoe nhoé"
       ],
       "meaning": ""
@@ -46225,26 +45565,6 @@
     "reading_meaning": {
       "reading": [
         "nhộng bọc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "洳泍",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhơ bẩn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "洳𠁀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhơ đời"
       ],
       "meaning": ""
     }
@@ -46474,7 +45794,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhời nhẽ"
+        "nhời nhẽ",
+        "lời lẽ"
       ],
       "meaning": ""
     }
@@ -46564,17 +45885,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhun nhũn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "聳聳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhùn nhũn"
+        "nhun nhũn",
+        "nhùn nhũn",
+        "nhũn nhùn"
       ],
       "meaning": ""
     }
@@ -46585,16 +45898,6 @@
     "reading_meaning": {
       "reading": [
         "nhủn người"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "聳聳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhũn nhùn"
       ],
       "meaning": ""
     }
@@ -46754,16 +46057,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nhức nhói"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤴵𤻫",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "nhức nhói",
         "nhức nhối"
       ],
       "meaning": ""
@@ -48014,16 +47308,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nóng nảy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤎏䄧",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "nóng nảy",
         "nóng nẩy"
       ],
       "meaning": ""
@@ -48974,16 +48259,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nuốt hận"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠾹恨",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "nuốt hận",
         "nuốt hờn"
       ],
       "meaning": ""
@@ -49274,7 +48550,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "nước chè"
+        "nước chè",
+        "nước trà"
       ],
       "meaning": ""
     }
@@ -49710,16 +48987,6 @@
     }
   },
   {
-    "word": "渃茶",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nước trà"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "渃𤽸",
     "hannomcode": 1,
     "reading_meaning": {
@@ -49765,16 +49032,6 @@
     "reading_meaning": {
       "reading": [
         "nước xuýt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨂾𨃺",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nườm nượp"
       ],
       "meaning": ""
     }
@@ -49904,16 +49161,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "oán hận"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "怨恨",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "oán hận",
         "oán hờn"
       ],
       "meaning": ""
@@ -49934,26 +49182,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "oang oang"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "轟轟",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "oàng oàng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "轟轟",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "oang oang",
+        "oàng oàng",
         "oăng oẳng"
       ],
       "meaning": ""
@@ -50504,7 +49734,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "phai lợt"
+        "phai lợt",
+        "phai nhạt"
       ],
       "meaning": ""
     }
@@ -50525,16 +49756,6 @@
     "reading_meaning": {
       "reading": [
         "phai mờ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "渄𤁕",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "phai nhạt"
       ],
       "meaning": ""
     }
@@ -50784,7 +50005,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "pháp lệnh"
+        "pháp lệnh",
+        "phép lành"
       ],
       "meaning": ""
     }
@@ -50945,16 +50167,6 @@
     "reading_meaning": {
       "reading": [
         "phép khử"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "法令",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "phép lành"
       ],
       "meaning": ""
     }
@@ -51554,16 +50766,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ping pong"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "乒乓",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ping pong",
         "ping pông"
       ],
       "meaning": ""
@@ -51734,16 +50937,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "quác quác"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "嘓嘓",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "quác quác",
         "quạc quạc"
       ],
       "meaning": ""
@@ -52005,16 +51199,6 @@
     "reading_meaning": {
       "reading": [
         "queo râu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨁓蹎",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "quèo chân"
       ],
       "meaning": ""
     }
@@ -52624,16 +51808,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ra rià"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𫥧地",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ra rià",
         "ra rìa"
       ],
       "meaning": ""
@@ -53304,7 +52479,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "rén chiềng"
+        "rén chiềng",
+        "rén chiếng"
       ],
       "meaning": ""
     }
@@ -53330,21 +52506,12 @@
     }
   },
   {
-    "word": "𠰉𠰉",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "réo réo"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "洌𤺭",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "rét buốt"
+        "rét buốt",
+        "rít buốt"
       ],
       "meaning": ""
     }
@@ -53354,7 +52521,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "rét cóng"
+        "rét cóng",
+        "rít cóng"
       ],
       "meaning": ""
     }
@@ -54234,7 +53402,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "rờm rà"
+        "rờm rà",
+        "rườm rà"
       ],
       "meaning": ""
     }
@@ -54414,16 +53583,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "rúc rích"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤊧攊",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "rúc rích",
         "rục rịch"
       ],
       "meaning": ""
@@ -54920,16 +54080,6 @@
     }
   },
   {
-    "word": "𧁺𫢱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "rườm rà"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𢗆𧺕",
     "hannomcode": 1,
     "reading_meaning": {
@@ -55284,16 +54434,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "say mèm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𫑹𣠳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "say mèm",
         "say mềm"
       ],
       "meaning": ""
@@ -55324,7 +54465,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "say rượu"
+        "say rượu",
+        "say rựu"
       ],
       "meaning": ""
     }
@@ -55594,7 +54736,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "seo séo"
+        "seo séo",
+        "xèo xèo"
       ],
       "meaning": ""
     }
@@ -56014,16 +55157,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "sóng soài"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㳥帥",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "sóng soài",
         "sóng soải"
       ],
       "meaning": ""
@@ -56854,7 +55988,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "sum họp"
+        "sum họp",
+        "xum họp"
       ],
       "meaning": ""
     }
@@ -56864,17 +55999,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "sum sê"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "森𫈀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "sum suê"
+        "sum sê",
+        "sum suê",
+        "xum xuê"
       ],
       "meaning": ""
     }
@@ -57974,7 +57101,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "tầng lớp"
+        "tầng lớp",
+        "tằng lớp",
+        "từng lớp"
       ],
       "meaning": ""
     }
@@ -58324,16 +57453,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thạch học"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "石學",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "thạch học",
         "thạch hộc"
       ],
       "meaning": ""
@@ -59234,7 +58354,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thèn thẹn"
+        "thèn thẹn",
+        "thẹn thẹn"
       ],
       "meaning": ""
     }
@@ -59245,16 +58366,6 @@
     "reading_meaning": {
       "reading": [
         "thẹn mặt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "忝忝",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "thẹn thẹn"
       ],
       "meaning": ""
     }
@@ -59414,7 +58525,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thia lia"
+        "thia lia",
+        "thìa lia"
       ],
       "meaning": ""
     }
@@ -59425,16 +58537,6 @@
     "reading_meaning": {
       "reading": [
         "thia thia"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "匙攡",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "thìa lia"
       ],
       "meaning": ""
     }
@@ -59934,7 +59036,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thóc mách"
+        "thóc mách",
+        "thóc méc"
       ],
       "meaning": ""
     }
@@ -60514,16 +59617,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thun thút"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𦀹𢫫",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "thun thút",
         "thùn thụt"
       ],
       "meaning": ""
@@ -61034,16 +60128,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "thường dùng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "常用",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "thường dùng",
         "thường dụng"
       ],
       "meaning": ""
@@ -61980,13 +61065,13 @@
     }
   },
   {
-    "word": "小爿",
+    "word": "小祥",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "tiểu tường"
       ],
-      "meaning": ""
+      "meaning": "Ngày giỗ đầu, tức ngày giỗ đầu tiên sau khi người mất được tròn một năm (12 tháng) theo phong tục tang lễ truyền thống"
     }
   },
   {
@@ -62064,7 +61149,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "tin dùng"
+        "tin dùng",
+        "tín dụng"
       ],
       "meaning": ""
     }
@@ -62165,16 +61251,6 @@
     "reading_meaning": {
       "reading": [
         "tín chấp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "信用",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "tín dụng"
       ],
       "meaning": ""
     }
@@ -62430,7 +61506,7 @@
     }
   },
   {
-    "word": "𤍊爿",
+    "word": "𤍊詳",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -62504,7 +61580,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "toàn mĩ"
+        "toàn mĩ",
+        "toàn mỹ"
       ],
       "meaning": ""
     }
@@ -62515,16 +61592,6 @@
     "reading_meaning": {
       "reading": [
         "toàn miệng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "全美",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "toàn mỹ"
       ],
       "meaning": ""
     }
@@ -62754,7 +61821,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "toòng teng"
+        "toòng teng",
+        "tòn teng",
+        "tòn ten"
       ],
       "meaning": ""
     }
@@ -63075,16 +62144,6 @@
     "reading_meaning": {
       "reading": [
         "trà khê"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "茶𦲿",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "trà lá"
       ],
       "meaning": ""
     }
@@ -63920,7 +62979,7 @@
     }
   },
   {
-    "word": "鄭爿",
+    "word": "鄭祥",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -64064,7 +63123,9 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "trọn vẹn"
+        "trọn vẹn",
+        "giọn vẹn",
+        "tròn vẹn"
       ],
       "meaning": ""
     }
@@ -65290,7 +64351,7 @@
     }
   },
   {
-    "word": "匬爿",
+    "word": "匬牆",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -65570,33 +64631,23 @@
     }
   },
   {
-    "word": "爿山",
+    "word": "祥山",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "tường sơn"
       ],
-      "meaning": ""
+      "meaning": "Núi lành, núi mang điềm tốt (thường gặp trong tên gọi hoặc văn phong cổ)"
     }
   },
   {
-    "word": "爿上",
+    "word": "牆上",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "tường thượng"
       ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "爿進",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "tường tiến"
-      ],
-      "meaning": ""
+      "meaning": "Trên tường, ở trên tường"
     }
   },
   {
@@ -65624,16 +64675,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ù xọe"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "㗀撱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ù xọe",
         "ù xoẹ"
       ],
       "meaning": ""
@@ -65994,7 +65036,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ước mong"
+        "ước mong",
+        "ước vọng"
       ],
       "meaning": ""
     }
@@ -66035,16 +65078,6 @@
     "reading_meaning": {
       "reading": [
         "ước thúc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "約望",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ước vọng"
       ],
       "meaning": ""
     }
@@ -66534,16 +65567,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "vàng hươm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "黃焓",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "vàng hươm",
         "vàng hườm"
       ],
       "meaning": ""
@@ -68484,7 +67508,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "vượt bậc"
+        "vượt bậc",
+        "vượt bực"
       ],
       "meaning": ""
     }
@@ -68624,7 +67649,8 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "xạu mặt"
+        "xạu mặt",
+        "xấu mặt"
       ],
       "meaning": ""
     }
@@ -68765,16 +67791,6 @@
     "reading_meaning": {
       "reading": [
         "xấu máu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "醜𫖀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "xấu mặt"
       ],
       "meaning": ""
     }
@@ -68965,16 +67981,6 @@
     "reading_meaning": {
       "reading": [
         "xén tóc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠾸𠾸",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "xèo xèo"
       ],
       "meaning": ""
     }
@@ -69694,16 +68700,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "xuề xòa"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𣵶汊",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "xuề xòa",
         "xuề xoà"
       ],
       "meaning": ""
@@ -69765,16 +68762,6 @@
     "reading_meaning": {
       "reading": [
         "xum xoe"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "森𫈀",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "xum xuê"
       ],
       "meaning": ""
     }
@@ -70070,16 +69057,6 @@
     }
   },
   {
-    "word": "𠻻杵",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bấy chày"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "莩溽",
     "hannomcode": 1,
     "reading_meaning": {
@@ -70275,16 +69252,6 @@
     "reading_meaning": {
       "reading": [
         "chỗ kín"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "摯𪮞",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chộp giật"
       ],
       "meaning": ""
     }
@@ -70750,16 +69717,6 @@
     }
   },
   {
-    "word": "咯咯",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "khặc khặc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "咯唭",
     "hannomcode": 1,
     "reading_meaning": {
@@ -71050,16 +70007,6 @@
     }
   },
   {
-    "word": "美品",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mỹ phẩm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "呢恪",
     "hannomcode": 1,
     "reading_meaning": {
@@ -71224,16 +70171,7 @@
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
-        "ngưng nghỉ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "凝𱎢",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
+        "ngưng nghỉ",
         "ngừng nghỉ"
       ],
       "meaning": ""
@@ -71760,16 +70698,6 @@
     }
   },
   {
-    "word": "𱹲𦀈",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "tòn teng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "遪濱",
     "hannomcode": 1,
     "reading_meaning": {
@@ -71950,16 +70878,6 @@
     }
   },
   {
-    "word": "越堛",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "vượt bực"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "越𫁜",
     "hannomcode": 1,
     "reading_meaning": {
@@ -72050,16 +70968,6 @@
     }
   },
   {
-    "word": "砭砭",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bim bim"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𢃉𡫨",
     "hannomcode": 1,
     "reading_meaning": {
@@ -72120,7 +71028,7 @@
     }
   },
   {
-    "word": "錦爿",
+    "word": "錦祥",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -73150,16 +72058,6 @@
     }
   },
   {
-    "word": "饒饒",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhiều nhiều"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "吶遪",
     "hannomcode": 1,
     "reading_meaning": {
@@ -73325,16 +72223,6 @@
     "reading_meaning": {
       "reading": [
         "rất nhanh"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𨁍鉦",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "rén chiếng"
       ],
       "meaning": ""
     }
@@ -74218,17 +73106,6 @@
     "reading_meaning": {
       "reading": [
         "trằn trọc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "䄧𦹰",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nảy mầm",
-        "nẩy mầm"
       ],
       "meaning": ""
     }
@@ -76501,17 +75378,6 @@
     }
   },
   {
-    "word": "命令",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mệnh lệnh",
-        "mệnh lịnh"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "咃恕",
     "hannomcode": 1,
     "reading_meaning": {
@@ -77014,16 +75880,6 @@
     }
   },
   {
-    "word": "噷嘘",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "hậm hự"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "嚅𫢗",
     "hannomcode": 1,
     "reading_meaning": {
@@ -77217,7 +76073,7 @@
     }
   },
   {
-    "word": "囻旗",
+    "word": "國旗",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -78403,18 +77259,6 @@
     }
   },
   {
-    "word": "層笠",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "tầng lớp",
-        "tằng lớp",
-        "từng lớp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "履歷",
     "hannomcode": 1,
     "reading_meaning": {
@@ -79036,6 +77880,17 @@
     }
   },
   {
+    "word": "一切",
+    "hannomcode": 1,
+    "reading_meaning": {
+      "reading": [
+        "nhất thiết",
+        "nhứt thiết"
+      ],
+      "meaning": ""
+    }
+  },
+  {
     "word": "引𢴑",
     "hannomcode": 1,
     "reading_meaning": {
@@ -79147,7 +78002,7 @@
     }
   },
   {
-    "word": "復囻",
+    "word": "復國",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
@@ -79503,17 +78358,6 @@
     }
   },
   {
-    "word": "感恩",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "cám ơn",
-        "cảm ơn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "愷弟",
     "hannomcode": 1,
     "reading_meaning": {
@@ -79856,17 +78700,6 @@
     }
   },
   {
-    "word": "扒㖏",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bát nạt",
-        "bắt nạt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "打擊",
     "hannomcode": 1,
     "reading_meaning": {
@@ -79882,17 +78715,6 @@
     "reading_meaning": {
       "reading": [
         "thách đố"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "扛𢬢",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dan díu",
-        "dang díu"
       ],
       "meaning": ""
     }
@@ -80076,17 +78898,6 @@
     "reading_meaning": {
       "reading": [
         "án ma"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "挌鐘",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "gác chung",
-        "gác chuông"
       ],
       "meaning": ""
     }
@@ -80594,17 +79405,6 @@
     }
   },
   {
-    "word": "擉𠼽",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "thóc mách",
-        "thóc méc"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "擯棄",
     "hannomcode": 1,
     "reading_meaning": {
@@ -80786,32 +79586,11 @@
     }
   },
   {
-    "word": "敦卒",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dôn dốt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "整齊",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "chỉnh tề"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "斂𣙬",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "lượm lặt",
-        "lụm lặt"
       ],
       "meaning": ""
     }
@@ -81606,17 +80385,6 @@
     }
   },
   {
-    "word": "森合",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "sum họp",
-        "xum họp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "森圍",
     "hannomcode": 1,
     "reading_meaning": {
@@ -82303,44 +81071,11 @@
     }
   },
   {
-    "word": "洌𠗸",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "rét cóng",
-        "rít cóng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "洌𤺭",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "rét buốt",
-        "rít buốt"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "洡滛",
     "hannomcode": 1,
     "reading_meaning": {
       "reading": [
         "dồi dào"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "洳泍",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dơ bẩn",
-        "nhơ bẩn"
       ],
       "meaning": ""
     }
@@ -84501,18 +83236,6 @@
     }
   },
   {
-    "word": "種類",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chủng loài",
-        "chủng loại",
-        "giống loài"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "稱帝",
     "hannomcode": 1,
     "reading_meaning": {
@@ -85126,17 +83849,6 @@
     "reading_meaning": {
       "reading": [
         "phồn thực"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "繞𪷴",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhão nhẹt",
-        "nhẽo nhẹt"
       ],
       "meaning": ""
     }
@@ -85994,16 +84706,6 @@
     "reading_meaning": {
       "reading": [
         "chưng bính"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "蒸𣋱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chưng hửng"
       ],
       "meaning": ""
     }
@@ -86869,17 +85571,6 @@
     "reading_meaning": {
       "reading": [
         "điều tra"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "調潬",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "điều đặn",
-        "đều đặn"
       ],
       "meaning": ""
     }
@@ -89613,17 +88304,6 @@
     }
   },
   {
-    "word": "𠛣𢭮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "đứt gãy",
-        "đứt gẫy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𠞸刮",
     "hannomcode": 1,
     "reading_meaning": {
@@ -89714,16 +88394,6 @@
     }
   },
   {
-    "word": "𠲖啊",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ê a"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𠲣哨",
     "hannomcode": 1,
     "reading_meaning": {
@@ -89749,17 +88419,6 @@
     "reading_meaning": {
       "reading": [
         "cãi cọ"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠳒𨤧",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "lời lẽ",
-        "nhời nhẽ"
       ],
       "meaning": ""
     }
@@ -89896,17 +88555,6 @@
     }
   },
   {
-    "word": "𠼽㹟",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mách qué",
-        "méc qué"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𠼽𠶓",
     "hannomcode": 1,
     "reading_meaning": {
@@ -89953,17 +88601,6 @@
     "reading_meaning": {
       "reading": [
         "nhộn nhịp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𠿮唹",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "ậm ờ",
-        "ậm ừ"
       ],
       "meaning": ""
     }
@@ -90024,17 +88661,6 @@
     "reading_meaning": {
       "reading": [
         "khoác lác"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𡁎扛",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "dở dan",
-        "dở dang"
       ],
       "meaning": ""
     }
@@ -90396,18 +89022,6 @@
     }
   },
   {
-    "word": "𢀧愋",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "giọn vẹn",
-        "tròn vẹn",
-        "trọn vẹn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𢀭𣎏",
     "hannomcode": 1,
     "reading_meaning": {
@@ -90672,17 +89286,6 @@
     }
   },
   {
-    "word": "𢯏𢭮",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bẻ gãy",
-        "bẻ gẫy"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𢱏韻",
     "hannomcode": 1,
     "reading_meaning": {
@@ -90728,18 +89331,6 @@
     "reading_meaning": {
       "reading": [
         "đèo bòng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𢺹離",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "chia li",
-        "chia ly",
-        "chia lìa"
       ],
       "meaning": ""
     }
@@ -90837,17 +89428,6 @@
     }
   },
   {
-    "word": "𣘃彈",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "cây đàn",
-        "cây đờn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𣛠𩈂",
     "hannomcode": 1,
     "reading_meaning": {
@@ -90938,17 +89518,6 @@
     }
   },
   {
-    "word": "𣭛𬇁",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "bờm xơm",
-        "bờm xờm"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𣭜眉",
     "hannomcode": 1,
     "reading_meaning": {
@@ -91025,17 +89594,6 @@
     "reading_meaning": {
       "reading": [
         "ẩm thấp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𣼴㴚",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhẵn nhụi",
-        "nhẵng nhụi"
       ],
       "meaning": ""
     }
@@ -91238,17 +89796,6 @@
     "reading_meaning": {
       "reading": [
         "đau đớn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𤴵𤻫",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "nhức nhói",
-        "nhức nhối"
       ],
       "meaning": ""
     }
@@ -91474,17 +90021,6 @@
     }
   },
   {
-    "word": "𦡶𢐎",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "lom com",
-        "lom khom"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𦧜鉤",
     "hannomcode": 1,
     "reading_meaning": {
@@ -91591,17 +90127,6 @@
     "reading_meaning": {
       "reading": [
         "khó khăn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𧁺𫢱",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "rườm rà",
-        "rờm rà"
       ],
       "meaning": ""
     }
@@ -91978,17 +90503,6 @@
     }
   },
   {
-    "word": "𨷈𠦳",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "muôn nghìn",
-        "muôn ngàn"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𩁦凗",
     "hannomcode": 1,
     "reading_meaning": {
@@ -92352,39 +90866,6 @@
     }
   },
   {
-    "word": "𫑹酒",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "say rượu",
-        "say rựu"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𫖀𡗶",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mặt giời",
-        "mặt trời"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𫖀𦝄",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "mặt giăng",
-        "mặt trăng"
-      ],
-      "meaning": ""
-    }
-  },
-  {
     "word": "𫣿𠸛",
     "hannomcode": 1,
     "reading_meaning": {
@@ -92612,16 +91093,6 @@
     "reading_meaning": {
       "reading": [
         "nơm nớp"
-      ],
-      "meaning": ""
-    }
-  },
-  {
-    "word": "𱹲𦀈",
-    "hannomcode": 1,
-    "reading_meaning": {
-      "reading": [
-        "tòn ten"
       ],
       "meaning": ""
     }

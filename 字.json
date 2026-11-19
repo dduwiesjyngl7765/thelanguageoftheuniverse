@@ -53,9 +53,14 @@
             "link": "https://www.facebook.com/nick.hoang.752"
         }, {
             "name": "And this fanpage, I don't know who created it",
-            "infromation": "What a great fanpage",
+            "information": "What a great fanpage",
             "link": "https://www.facebook.com/hvthongdung"
+        }, {
+          "name": "UNDERTHESEANLP",
+          "information": "A dictionary project on GitHub, I used it to get the words list",
+          "link": "https://github.com/undertheseanlp/dictionary/blob/master/dictionaries/wiktionary/words.txt"
         }
+
     ],
   "collections": [
     {
@@ -37554,6 +37559,24 @@
       "meaning": {
         "vi": [
           "hướng về, hướng đi, họ hướng"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "尚",
+      "unicode": "5C1A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "thượng"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(vẫn còn; ưa chuộng; khoe khoang, tự phụ; hơn, vượt trội; chuộng, tôn sùng, coi trọng; coi sóc, quản lí; sánh đôi, lấy công chúa; ngõ hầu, mong mỏi; còn, mà còn; vẫn), cao thượng, hòa thượng, lã thượng, phong thượng, sùng thượng, thời thượng, thượng hưởng, thượng phủ, thượng thư, thượng võ"
         ]
       },
       "component": []
@@ -108297,6 +108320,133 @@
       "component": []
     },
     {
+      "char": "微",
+      "unicode": "5FAE",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "vi","vy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(tốn, giấu, ẩn tàng; không có; chẳng phải; mầu nhiệm; nhỏ, bé; suy yếu, tàn tạ; thấp kém, ti tiện; ít; cực kì nhỏ, cự kì ngắn; không chỉ, chẳng phải một mình), ẩn vi, hiển vi, huyền vi, tế vi, thức vi, vi âm, vi chỉ, vi hồ, vi diệu, vi hình, vi sanh vật, vi thời, tử vi, tử vi đầu số, vi trùng, vi trần"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "紫",
+      "unicode": "7D2B",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tử"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(đỏ tía, tím; dây thao), họ tử, tử phủ, tử tô, tử vi, hoa tử vi, tử vi đầu số"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "薇",
+      "unicode": "8587",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "vi","vy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "rau vi, hoa tường vi, hoa tử vi",
+          "rau vy, hoa tường vy, hoa tử vy"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "薔",
+      "unicode": "8594",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "sắc","tường"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(cỏ sắc), tường vi, hoa tường vi"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "牆",
+      "unicode": "7246",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tường"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(vách; phiếm chỉ cái gì cấu tạo họp thành giống như một bức tường), cung tường, diện tường, huých tường, kị tường, nham tường, nữ tường, thành tường, tiêu tường, vi tường"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "詳",
+      "unicode": "8A73",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "dương","tường"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(rõ ràng; biết rõ; giả vờ; kĩ càng, tỉ mỉ, đầy đủ; hết, đều, tất cả; một lối văn của quan lại), am tường, an tường, bất tường (không rõ ràng), đoan tường, tinh tường, tường tận, tường thuật, tường trình, vị tường"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "祥",
+      "unicode": "7965",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "tường"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(điềm xấu tốt; điềm lành; phiếm chỉ sự vật tốt lành phúc lợi; tên gọi tang lễ tế tự ngày xưa; thuận, theo), tường vân, an tường, cát tường, phát tường, tiểu tường, trinh tường, từ tường, tường quang, yêu tường"
+        ]
+      },
+      "component": []
+    },
+    {
       "char": "鏨",
       "unicode": "93E8",
       "synonym": [],
@@ -112338,6 +112488,24 @@
       "meaning": {
         "vi": [
           "(tóc râu)"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "違",
+      "unicode": "9055",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "vi","vy"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(lìa, chia lìa; cách xa; trái, làm trái; lánh, tránh đi; lầm lỗi), vi cảnh, vi hội, vi hiến, vi hòa, vi lễ, vi lệnh, vi li, vi mệnh, vi pháp, vi tâm, vi ngôn, vi phạm, vi ước, y vi"
         ]
       },
       "component": []
