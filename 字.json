@@ -85,7 +85,7 @@
       },
       "meaning": {
         "vi": [
-          "uốn: uốn cong"
+          "uốn cong"
         ]
       },
       "component": []
@@ -1698,7 +1698,7 @@
       },
       "meaning": {
         "vi": [
-          "khía cạnh"
+          "khía cạnh, ba khía"
         ]
       },
       "component": []
@@ -1789,6 +1789,24 @@
       "meaning": {
         "vi": [
           "lai rai, rai chai"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "萊",
+      "unicode": "840A",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "lai"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "(ruộng bỏ hoang, cỏ dại; giẫy cỏ, nhổ cỏ), cỏ lai (mọc ở ruộng lúa), họ Lai, bồng lai, lai bặc, lai châu, bồng lai tiên cảnh"
         ]
       },
       "component": []
@@ -45119,13 +45137,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "cạ"
+          "gia","già","ga","cạ"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
-          "cạ vô người, cạ vô, hợp cạ"
+          "già: du già (yoga), già la, già lam, tăng già, kiết già",
+          "ga: yoga",
+          "cạ: cạ vô người, cạ vô, hợp cạ"
         ]
       },
       "component": []
@@ -65716,14 +65736,15 @@
       "antonym": [],
       "reading": {
         "vi": [
-          "bào","pháo"
+          "bào","pháo","bác"
         ],
         "yue": []
       },
       "meaning": {
         "vi": [
           "bào: (sao, chế - thuốc; xào; hơ, sấy), bào cách (hình phạt bắt tội nhân đi trên cột sắt, phỏng chân ngã xuống đống lửa, bị nướng chết), bào chế (sao nướng, chế các vị thuốc; chỉ nấu nướng; xử lí; sửa trị, chế phục; đặt ra, tạo ra)",
-          "pháo: (máy bắn đá; pháo; mìn), pháo hoa, đại pháo, pháo đài"
+          "pháo: (máy bắn đá; pháo; mìn), pháo hoa, đại pháo, pháo đài",
+          "bác: đại bác, một khẩu đại bác, súng đại bác"
         ]
       },
       "component": []
@@ -89375,6 +89396,7 @@
       "reading": {
         "vi": [
           "quy",
+          "qui",
           "cu"
         ],
         "yue": []
@@ -101848,9 +101870,9 @@
       },
       "meaning": {
         "vi": [
-          "rần rật, rật rật (tiếng hỏa xa chạy)",
-          "lất phất, lây lất, trật lất",
-          "lớt phớt"
+          "rật: rần rật, rật rật (tiếng hỏa xa chạy)",
+          "lất: lất phất, lây lất, trật lất",
+          "lớt: lớt phớt"
         ]
       },
       "component": []
@@ -117334,8 +117356,8 @@
       },
       "meaning": {
         "vi": [
-          "màu đen, đen huyền, đen thui, đen tối",
-          "(tóc đẹp, tóc mượt; đen)"
+          "chẩn: (tóc đẹp, tóc mượt; đen)",
+          "đen: màu đen, đen huyền, đen thui, đen tối"
         ]
       },
       "component": []
@@ -123767,7 +123789,7 @@
       },
       "meaning": {
         "vi": [
-          "(biên giới, ranh giới; nơi, chốn; tình huống, tình trạng; trình độ), ảo cảnh, biên cảnh, bố cảnh, cảnh địa, cảnh giới, giai cảnh, hoàn cảnh, huyễn cảnh, mộng cảnh, nghịch cảnh, nhập cảnh, tiên cảnh, viễn cảnh, đi cảnh, cảnh ngộ"
+          "(biên giới, ranh giới; nơi, chốn; tình huống, tình trạng; trình độ), ảo cảnh, biên cảnh, bố cảnh, cảnh địa, cảnh giới, giai cảnh, hoàn cảnh, huyễn cảnh, mộng cảnh, nghịch cảnh, nhập cảnh, tiên cảnh, viễn cảnh, đi cảnh, cảnh ngộ, bồng lai tiên cảnh"
         ]
       },
       "component": []
@@ -123822,6 +123844,26 @@
       "meaning": {
         "vi": [
           "bản đồ, bản sao, bản quyền, phiên bản, văn bản"
+        ]
+      },
+      "component": []
+    },
+    {
+      "char": "瑜",
+      "unicode": "745C",
+      "synonym": [],
+      "antonym": [],
+      "reading": {
+        "vi": [
+          "du","dô","yo","yô"
+        ],
+        "yue": []
+      },
+      "meaning": {
+        "vi": [
+          "du: (ánh sáng của ngọc; ngọc đẹp), du già (yoga - tu hành; phương pháp tu hành; một phái tu hành của Phật giáo đại thừa)",
+          "dô: dô-ga (yoga)",
+          "yo: yoga"
         ]
       },
       "component": []
